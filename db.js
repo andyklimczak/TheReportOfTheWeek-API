@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const mongo_uri = 'mongodb://localhost/report';
+const mongo_uri = process.env.MONGOLAB_URI || 'mongodb://localhost/report';
 
 mongoose.connect(mongo_uri, (err, res) => {
   if(err) {
