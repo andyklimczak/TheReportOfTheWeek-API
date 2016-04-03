@@ -1,10 +1,7 @@
-module.exports = app => {
-  return {
-    findAll: (params, callback) => {
-      return callback([
-        {title: 'monster'},
-        {title: 'pizza'}
-      ]);
-    }
-  };
-};
+const mongoose = require('mongoose');
+
+const reportSchema = new mongoose.Schema({
+  title: String
+});
+
+module.exports = mongoose.model('Report', reportSchema);
