@@ -1,7 +1,13 @@
 const mongoose = require('mongoose');
 
 const reportSchema = new mongoose.Schema({
-  title: String
+  product: String,
+  company: String,
+  category: String,
+  videoTitle: String,
+  videoLink: String,
+  videoReleased: Date,
+  rating: { type: Number, min: 1, max: 10 }
 });
 
 module.exports = mongoose.model('Report', reportSchema);
