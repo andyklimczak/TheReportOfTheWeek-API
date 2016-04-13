@@ -12,7 +12,15 @@ module.exports = app => {
     });
   })
   .post((req, res) => {
-    new Report({title: req.body.title}).save((err, report) => {
+    new Report({
+      product: req.body.product,
+      company: req.body.company,
+      category: req.body.category,
+      videoTitle: req.body.videoTitle,
+      videoLink: req.body.videoLink,
+      videoReleased: req.body.videoReleased,
+      rating: req.body.rating
+    }).save((err, report) => {
       if(err) {
         res.status(412).json({msg: err.message});
       } else {
