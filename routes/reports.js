@@ -14,7 +14,7 @@ module.exports = app => {
   .post((req, res) => {
     new Report({
       product: req.body.product,
-      company: req.body.company,
+      manufacturer: req.body.manufacturer,
       category: req.body.category,
       videoTitle: req.body.videoTitle,
       videoCode: req.body.videoCode,

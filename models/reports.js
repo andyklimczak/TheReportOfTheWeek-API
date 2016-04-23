@@ -2,7 +2,7 @@ const mongoose = require('mongoose');
 
 const reportSchema = new mongoose.Schema({
   product: String,
-  company: String,
+  manufacturer: String,
   category: String,
   videoTitle: String,
   videoCode: String,

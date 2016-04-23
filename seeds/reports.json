@@ -3,7 +3,7 @@
     "_model": "Report",
     "1": {
       "product": "5 Hour Energy Pomegranate",
-      "company": "5 Hour Energy",
+      "manufacturer": "Living Essentials",
       "category": "Energy Crisis",
       "videoTitle": "Energy Crisis--Energy Drink Review",
       "videoCode":"wyD3nCv_emI",
@@ -11,12 +11,21 @@
       "rating": 7
     },
     "2": {
-      "product": "Monster Energy Drink",
-      "company": "Monster",
+      "product": "Monster Energy Drink Regular (green)",
+      "manufacturer": "Monster Energy",
       "category": "Energy Crisis",
       "videoTitle": "Energy Crisis--Energy Drink Review #2",
       "videoCode":"a6wTeej6BB8",
       "dateReleased": "=new Date(2011, 2, 27)"
+    },
+    "3": {
+      "product": "Fuel",
+      "manufacturer": "Living Essentials",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #3",
+      "videoCode":"u4-hgegFMg8",
+      "dateReleased": "=new Date(2011, 3, 6)",
+      "rating": 2
     }
   }
 }
