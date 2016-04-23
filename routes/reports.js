@@ -17,8 +17,8 @@ module.exports = app => {
       company: req.body.company,
       category: req.body.category,
       videoTitle: req.body.videoTitle,
-      videoLink: req.body.videoLink,
-      videoReleased: req.body.videoReleased,
+      videoCode: req.body.videoCode,
+      dateReleased: req.body.dateReleased,
       rating: req.body.rating
     }).save((err, report) => {
       if(err) {

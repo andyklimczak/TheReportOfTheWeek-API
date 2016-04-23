@@ -5,8 +5,8 @@ const reportSchema = new mongoose.Schema({
   company: String,
   category: String,
   videoTitle: String,
-  videoLink: String,
-  videoReleased: Date,
+  videoCode: String,
+  dateReleased: Date,
   rating: { type: Number, min: 1, max: 10 }
 });
 

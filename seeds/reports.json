@@ -1,0 +1,22 @@
+{
+  "reports": {
+    "_model": "Report",
+    "1": {
+      "product": "5 Hour Energy Pomegranate",
+      "company": "5 Hour Energy",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review",
+      "videoCode":"wyD3nCv_emI",
+      "dateReleased": "=new Date(2011, 2, 11)",
+      "rating": 7
+    },
+    "2": {
+      "product": "Monster Energy Drink",
+      "company": "Monster",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #2",
+      "videoCode":"a6wTeej6BB8",
+      "dateReleased": "=new Date(2011, 2, 27)"
+    }
+  }
+}
