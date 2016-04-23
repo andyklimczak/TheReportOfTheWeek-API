@@ -26,6 +26,79 @@
       "videoCode":"u4-hgegFMg8",
       "dateReleased": "=new Date(2011, 3, 6)",
       "rating": 2
+    },
+    "4": {
+      "product": "Venom Energy Black Mamba",
+      "manufacturer": "Dr Pepper Snapple Group",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #4",
+      "videoCode":"an02IYXe08g",
+      "dateReleased": "=new Date(2011, 3, 19)",
+      "rating": 8
+    },
+    "5": {
+      "product": "Red Bull",
+      "manufacturer": "Red Bull GmbH",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #5",
+      "videoCode":"WY6DYdJd1pk",
+      "dateReleased": "=new Date(2011, 3, 27)"
+    },
+    "6": {
+      "product": "Amp Energy",
+      "manufacturer": "PepsiCo",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #6",
+      "videoCode":"6mYvBa61U8c",
+      "dateReleased": "=new Date(2011, 4, 3)"
+    },
+    "7-1": {
+      "product": "Pomegranate Blueberry Energy Drink",
+      "manufacturer": "Archer Farms",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #7",
+      "videoCode":"IuP0EVSoR7Y",
+      "dateReleased": "=new Date(2011, 4, 10)"
+    },
+    "7-2": {
+      "product": "Life Water",
+      "manufacturer": "SoBe",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #7",
+      "videoCode":"6mYvBa61U8c",
+      "dateReleased": "=new Date(2011, 4, 10)"
+    },
+    "8": {
+      "product": "NOS High Performance Energy",
+      "manufacturer": "Monster Beverage",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #8",
+      "videoCode":"B2qyEs6BQ1k",
+      "dateReleased": "=new Date(2011, 4, 16)"
+    },
+    "9": {
+      "product": "No Fear Super Energy Supplement",
+      "manufacturer": "SoBe",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis-- Energy Drink review #9",
+      "videoCode":"g3265ts1AsE",
+      "dateReleased": "=new Date(2011, 4, 23)"
+    },
+    "10": {
+      "product": "Boomerang",
+      "manufacturer": "Boomerang Drinks",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #10",
+      "videoCode":"I0VbvnzOo1c",
+      "dateReleased": "=new Date(2011, 4, 30)"
+    },
+    "10": {
+      "product": "FRS Health Energy Drink Apricote",
+      "manufacturer": "FRS",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #11",
+      "videoCode":"1whc8WHslM4",
+      "dateReleased": "=new Date(2011, 5, 1)"
     }
   }
 }
