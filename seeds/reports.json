@@ -12,7 +12,7 @@
     },
     "2": {
       "product": "Monster Energy Drink Regular (green)",
-      "manufacturer": "Monster Energy",
+      "manufacturer": "Monster Beverage",
       "category": "Energy Crisis",
       "videoTitle": "Energy Crisis--Energy Drink Review #2",
       "videoCode":"a6wTeej6BB8",
@@ -92,13 +92,85 @@
       "videoCode":"I0VbvnzOo1c",
       "dateReleased": "=new Date(2011, 4, 30)"
     },
-    "10": {
+    "11": {
       "product": "FRS Health Energy Drink Apricote",
       "manufacturer": "FRS",
       "category": "Energy Crisis",
       "videoTitle": "Energy Crisis--Energy Drink Review #11",
       "videoCode":"1whc8WHslM4",
       "dateReleased": "=new Date(2011, 5, 1)"
+    },
+    "12": {
+      "product": "Rockstar Zero Carb Energy Drink",
+      "manufacturer": "Rockstar, Inc",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #12",
+      "videoCode":"0LLe8Y8nWeg",
+      "dateReleased": "=new Date(2011, 5, 7)"
+    },
+    "13": {
+      "product": "Mountain Dew Pitch Black",
+      "manufacturer": "PepsiCo",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #13",
+      "videoCode":"WYRJ0MueUeU",
+      "dateReleased": "=new Date(2011, 5, 13)"
+    },
+    "14": {
+      "product": "Nestle Jamba All Natural Energy Drink",
+      "manufacturer": "Nestle",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #14",
+      "videoCode":"BPbkoMJINNM",
+      "dateReleased": "=new Date(2011, 5, 14)"
+    },
+    "15": {
+      "product": "Full Throttle Energy Drink",
+      "manufacturer": "Monster Beverage",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #16",
+      "videoCode":"aZf0m9o3ujk",
+      "dateReleased": "=new Date(2011, 5, 21)"
+    },
+    "16": {
+      "product": "Java Monster",
+      "manufacturer": "Monster Beverage",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis-- Energy Drink Review #17",
+      "videoCode":"EAoszKySOks",
+      "dateReleased": "=new Date(2011, 5, 28)"
+    },
+    "17": {
+      "product": "4 For Kick Energy Drink",
+      "manufacturer": "Global Brands",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #18",
+      "videoCode":"EAoszKySOks",
+      "dateReleased": "=new Date(2011, 6, 4)"
+    },
+    "18": {
+      "product": "Red Rain Energy Drink",
+      "manufacturer": "Red Rain Energy",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #19",
+      "videoCode":"Zc_iuoAfikk",
+      "dateReleased": "=new Date(2011, 6, 10)"
+    },
+    "19": {
+      "product": "5 Hour Energy (grape)",
+      "manufacturer": "Living Essentials",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #20",
+      "videoCode":"vE_2Y4ngSLo",
+      "dateReleased": "=new Date(2011, 6, 16)"
+    },
+    "20": {
+      "product": "Blood Energy Potion",
+      "manufacturer": "Harcos Labs",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis-- Energy Drink Review #21",
+      "videoCode":"MFdTGrvw7-I",
+      "dateReleased": "=new Date(2011, 6, 23)"
     }
   }
 }
