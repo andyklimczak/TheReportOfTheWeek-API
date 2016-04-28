@@ -171,6 +171,54 @@
       "videoTitle": "Energy Crisis-- Energy Drink Review #21",
       "videoCode":"MFdTGrvw7-I",
       "dateReleased": "=new Date(2011, 6, 23)"
+    },
+    "21": {
+      "product": "Monster Khaos Energy Juice",
+      "manufacturer": "Monster Beverage",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #22",
+      "videoCode":"DzMpQ3Ufd5g",
+      "dateReleased": "=new Date(2011, 6, 29)"
+    },
+    "22-1": {
+      "product": "Amp Overdrive",
+      "manufacturer": "PepsiCo",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #23",
+      "videoCode":"cKuArC23KnA",
+      "dateReleased": "=new Date(2011, 7, 16)"
+    },
+    "22-2": {
+      "product": "Lucozada Energy",
+      "manufacturer": "Suntory",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #23",
+      "videoCode":"cKuArC23KnA",
+      "dateReleased": "=new Date(2011, 7, 16)"
+    },
+    "23": {
+      "product": "Shogun Energy",
+      "manufacturer": "Shogun Energy",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #24",
+      "videoCode":"zqiHjjvkJuA",
+      "dateReleased": "=new Date(2011, 7, 23)"
+    },
+    "24": {
+      "product": "Spike Hardcore Energy",
+      "manufacturer": "Biotest",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #25",
+      "videoCode":"pYPfvWEQ87Y",
+      "dateReleased": "=new Date(2011, 7, 30)"
+    },
+    "25": {
+      "product": "Monster Assault Energy",
+      "manufacturer": "Monster Beverage",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #26",
+      "videoCode":"NV70SCZAd3c",
+      "dateReleased": "=new Date(2011, 8, 2)"
     }
   }
 }
