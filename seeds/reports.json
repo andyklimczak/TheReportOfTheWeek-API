@@ -261,6 +261,40 @@
       "videoTitle": "Energy Crisis--Energy Drink Review #31",
       "videoCode":"-frlZquYkfk",
       "dateReleased": "=new Date(2011, 9, 11)"
+    },
+    "31": {
+      "product": "Foosh Energy Mints",
+      "manufacturer": "VRoom Foods",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #32",
+      "videoCode":"NvKLuSX9z0k",
+      "dateReleased": "=new Date(2011, 9, 20)"
+    },
+    "32": {
+      "product": "Monster Energy Extra Strength",
+      "manufacturer": "Monster Beverage",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #33",
+      "videoCode":"6d2CtnlnIk8",
+      "dateReleased": "=new Date(2011, 9, 28)"
+    },
+    "33": {
+      "product": "Vuka Intelligent Energy",
+      "manufacturer": "Vuka",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #34",
+      "videoCode":"jQF9dtLsGJ8",
+      "dateReleased": "=new Date(2011, 10, 5)",
+      "rating": 4
+    },
+    "34": {
+      "product": "Jolt Blue Bolt",
+      "manufacturer": "Wet Planet Beverages",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #35",
+      "videoCode":"yUJTaEeyKWo",
+      "dateReleased": "=new Date(2011, 10, 9)",
+      "rating": 8
     }
   }
 }
