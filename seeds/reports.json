@@ -213,12 +213,54 @@
       "dateReleased": "=new Date(2011, 7, 30)"
     },
     "25": {
-      "product": "Monster Assault Energy",
+      "product": "Monster Assault",
       "manufacturer": "Monster Beverage",
       "category": "Energy Crisis",
       "videoTitle": "Energy Crisis--Energy Drink Review #26",
       "videoCode":"NV70SCZAd3c",
       "dateReleased": "=new Date(2011, 8, 2)"
+    },
+    "26": {
+      "product": "Jamba Energy Drink",
+      "manufacturer": "Nestle",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #27",
+      "videoCode":"MBPW2vuHtXI",
+      "dateReleased": "=new Date(2011, 8, 11)"
+    },
+    "27": {
+      "product": "Best Shot Energy Shot",
+      "manufacturer": "Safeway",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #28",
+      "videoCode":"NzKkDhu-vpY",
+      "dateReleased": "=new Date(2011, 8, 16)",
+      "rating": 1
+    },
+    "28": {
+      "product": "Bing Energy Drink Cherry",
+      "manufacturer": "Inspiration Beverage Company",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #29",
+      "videoCode":"7cq7b-0SNhU",
+      "dateReleased": "=new Date(2011, 8, 25)",
+      "rating": 8
+    },
+    "29": {
+      "product": "Amp Sugar Free Lightning",
+      "manufacturer": "PepsiCo",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #30",
+      "videoCode":"jjdJsSOic9Y",
+      "dateReleased": "=new Date(2011, 9, 2)"
+    },
+    "30": {
+      "product": "Zombie Survival Can",
+      "manufacturer": "Boston America",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #31",
+      "videoCode":"-frlZquYkfk",
+      "dateReleased": "=new Date(2011, 9, 11)"
     }
   }
 }
