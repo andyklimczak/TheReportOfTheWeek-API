@@ -295,6 +295,137 @@
       "videoCode":"yUJTaEeyKWo",
       "dateReleased": "=new Date(2011, 10, 9)",
       "rating": 8
+    },
+    "35": {
+      "product": "Rumba Energy Juice",
+      "manufacturer": "Monster Beverage",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #36",
+      "videoCode":"_VsuvR8htd8",
+      "dateReleased": "=new Date(2011, 10, 19)"
+    },
+    "36": {
+      "product": "Monster Rehab",
+      "manufacturer": "Monster Beverage",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #37",
+      "videoCode":"Ix6iaYa5iQA",
+      "dateReleased": "=new Date(2011, 10, 24)"
+    },
+    "37": {
+      "product": "Jolt Power Cola",
+      "manufacturer": "Wet Planet Beverages",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #38",
+      "videoCode":"5vx3XrTtEjw",
+      "dateReleased": "=new Date(2011, 11, 3)"
+    },
+    "38": {
+      "product": "Venom Mojave Rattler",
+      "manufacturer": "Dr Pepper Snapple Group",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #39",
+      "videoCode":"lprmdo2fypY",
+      "dateReleased": "=new Date(2011, 11, 7)"
+    },
+    "39": {
+      "product": "5-Hour Energy Lemon Lime Flavor",
+      "manufacturer": "Living Essentials",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #40",
+      "videoCode":"MoH06LDBeIU",
+      "dateReleased": "=new Date(2011, 11, 17)"
+    },
+    "40": {
+      "product": "Monster Lo-Carb",
+      "manufacturer": "Monster Beverage",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #41",
+      "videoCode":"30ubAUt2iXw",
+      "dateReleased": "=new Date(2011, 11, 22)"
+    },
+    "41": {
+      "product": "Java Shot Hopped Up Hazelnut",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #42",
+      "videoCode":"WdiKQ0Yv3bU",
+      "dateReleased": "=new Date(2011, 12, 1)"
+    },
+    "42": {
+      "product": "5-Hour Energy Berry Flavor",
+      "manufacturer": "Living Essentials",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #43",
+      "videoCode":"xqfGydgUkCM",
+      "dateReleased": "=new Date(2011, 12, 13)"
+    },
+    "43": {
+      "product": "Amp Energy Elevate",
+      "manufacturer": "PepsiCo",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #44",
+      "videoCode":"EAKdEmV0xjY",
+      "dateReleased": "=new Date(2011, 12, 25)"
+    },
+    "44": {
+      "product": "McDonalds Cheap Eats",
+      "manufacturer": "McDonalds",
+      "category": "Running On Empty",
+      "videoTitle": "Running On Empty--Food Review--McDonalds",
+      "videoCode":"PIRLpUX6QPI",
+      "dateReleased": "=new Date(2011, 12, 30)",
+      "rating": 8
+    },
+    "45": {
+      "product": "Zombie Blood Energy Potion",
+      "manufacturer": "Harcos",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #45",
+      "videoCode":"4q6btn3eHuA",
+      "dateReleased": "=new Date(2012, 1, 4)"
+    },
+    "46": {
+      "product": "Big Mac",
+      "manufacturer": "McDonalds",
+      "category": "Running On Empty",
+      "videoTitle": "Running On Empty--Food Review--McDonalds Part 2.",
+      "videoCode":"0v1EKcKrYQU",
+      "dateReleased": "=new Date(2012, 1, 11)",
+      "rating": 7
+    },
+    "47": {
+      "product": "Cocaine",
+      "manufacturer": "Redux Beverages",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #46",
+      "videoCode":"acNEKdBchgM",
+      "dateReleased": "=new Date(2012, 1, 11)"
+    },
+    "48": {
+      "product": "Chicken McBites",
+      "manufacturer": "McDonalds",
+      "category": "Running On Empty",
+      "videoTitle": "Running On Empty--Food Review--McDonalds Part 3.",
+      "videoCode":"-n86lWE-wbs",
+      "dateReleased": "=new Date(2012, 1, 18)",
+      "rating": 10
+    },
+    "49": {
+      "product": "Monster Absolute Zero",
+      "manufacturer": "Monster Beverages",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #48",
+      "videoCode":"iIQUtxOZbk0",
+      "dateReleased": "=new Date(2012, 1, 25)"
+    },
+    "50": {
+      "product": "Angus Bacon and Cheeseburger",
+      "manufacturer": "McDonalds",
+      "category": "Running On Empty",
+      "videoTitle": "Running On Empty--Food Review--McDonalds Part 4.",
+      "videoCode":"ggged0zoQLY",
+      "dateReleased": "=new Date(2012, 1, 27)",
+      "rating": 8
     }
   }
 }
