@@ -426,6 +426,14 @@
       "videoCode":"ggged0zoQLY",
       "dateReleased": "=new Date(2012, 1, 27)",
       "rating": 8
+    },
+    "51": {
+      "product": "Monster Energy Import",
+      "manufacturer": "Monster Beverage",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #49",
+      "videoCode":"s0CgM7Y61yg",
+      "dateReleased": "=new Date(2012, 1, 28)"
     }
   }
 }
