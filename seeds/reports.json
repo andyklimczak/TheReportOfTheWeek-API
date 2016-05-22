@@ -434,6 +434,15 @@
       "videoTitle": "Energy Crisis--Energy Drink Review #49",
       "videoCode":"s0CgM7Y61yg",
       "dateReleased": "=new Date(2012, 1, 28)"
+    },
+    "52": {
+      "product": "Chicken Selected, Chicken sandwhich, fries",
+      "manufacturer": "McDonalds",
+      "category": "Running On Empty",
+      "videoTitle": "Running On Empty--Food Review--McDonalds Part 5.",
+      "videoCode":"3_LdU8UTS-A",
+      "dateReleased": "=new Date(2012, 2, 3)",
+      "rating": 9
     }
   }
 }
