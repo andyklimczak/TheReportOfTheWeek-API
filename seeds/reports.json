@@ -443,6 +443,58 @@
       "videoCode":"3_LdU8UTS-A",
       "dateReleased": "=new Date(2012, 2, 3)",
       "rating": 9
+    },
+    "53": {
+      "product": "Buzz Bites",
+      "manufacturer": "Vroom Foods",
+      "category": "Energy Crises",
+      "videoTitle": "Energy Crisis-Energy Drink Review #50",
+      "videoCode":"_i4D5x-2T3Q",
+      "dateReleased": "=new Date(2012, 2, 4)"
+    },
+    "54": {
+      "product": "Ranch BLT",
+      "manufacturer": "McDonalds",
+      "category": "Running On Empty",
+      "videoTitle": "Running On Empty--Food Review--McDonalds Part 6.",
+      "videoCode":"9Tr_9MqWmOo",
+      "dateReleased": "=new Date(2012, 2, 11)",
+      "rating": 9
+    },
+    "55": {
+      "product": "Rockstar Energy Drink",
+      "manufacturer": "Rockstar, Inc",
+      "category": "Energy Crises",
+      "videoTitle": "Energy Crisis-Energy Drink Review #51",
+      "videoCode":"hCtuk4r6WsA",
+      "dateReleased": "=new Date(2012, 2, 15)",
+      "rating": 7.5
+    },
+    "56": {
+      "product": "Angus Deluxe Burger",
+      "manufacturer": "McDonalds",
+      "category": "Running On Empty",
+      "videoTitle": "Running On Empty--Food Review--McDonalds Part 7.",
+      "videoCode":"gG4XWLfJeDc",
+      "dateReleased": "=new Date(2012, 2, 19)",
+      "rating": 9 
+    },
+    "57": {
+      "product": "Bawls Guarana Soda",
+      "manufacturer": "Solvi Acquisition",
+      "category": "Energy Crises",
+      "videoTitle": "Energy Crisis-Energy Drink Review #52",
+      "videoCode":"hCtuk4r6WsA",
+      "dateReleased": "=new Date(2012, 2, 20)"
+    },
+    "56": {
+      "product": "Filet-O-Fish Sandwhich",
+      "manufacturer": "McDonalds",
+      "category": "Running On Empty",
+      "videoTitle": "Running On Empty--Food Review--McDonalds Part 8.",
+      "videoCode":"CxrPO_JcKA8",
+      "dateReleased": "=new Date(2012, 3, 2)",
+      "rating": 7 
     }
   }
 }
