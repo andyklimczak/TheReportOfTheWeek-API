@@ -464,7 +464,7 @@
     "55": {
       "product": "Rockstar Energy Drink",
       "manufacturer": "Rockstar, Inc",
-      "category": "Energy Crises",
+      "category": "Energy Crisis",
       "videoTitle": "Energy Crisis-Energy Drink Review #51",
       "videoCode":"hCtuk4r6WsA",
       "dateReleased": "=new Date(2012, 2, 15)",
@@ -482,12 +482,12 @@
     "57": {
       "product": "Bawls Guarana Soda",
       "manufacturer": "Solvi Acquisition",
-      "category": "Energy Crises",
+      "category": "Energy Crisis",
       "videoTitle": "Energy Crisis-Energy Drink Review #52",
       "videoCode":"hCtuk4r6WsA",
       "dateReleased": "=new Date(2012, 2, 20)"
     },
-    "56": {
+    "58": {
       "product": "Filet-O-Fish Sandwhich",
       "manufacturer": "McDonalds",
       "category": "Running On Empty",
@@ -495,6 +495,205 @@
       "videoCode":"CxrPO_JcKA8",
       "dateReleased": "=new Date(2012, 3, 2)",
       "rating": 7 
+    },
+    "59": {
+      "product": "Amp Energy Traction",
+      "manufacturer": "PepsiCo",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis-Energy Drink Review #53",
+      "videoCode":"_uep53Nf6ag",
+      "dateReleased": "=new Date(2012, 3, 8)"
+    },
+    "60": {
+      "product": "Monster Energy M-80",
+      "manufacturer": "Monster Beverage",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis-Energy Drink Review #54",
+      "videoCode":"Tnr1rf3Qc8I",
+      "dateReleased": "=new Date(2012, 3, 15)"
+    },
+    "61": {
+      "product": "Angus Deluxe Snack Wrap Combo",
+      "manufacturer": "McDonalds",
+      "category": "Running On Empty",
+      "videoTitle": "Running On Empty--Food Review--McDonalds Part 9.",
+      "videoCode":"4erAAzWNOg8",
+      "dateReleased": "=new Date(2012, 3, 24)",
+      "rating": 7 
+    },
+    "62": {
+      "product": "Rockstar Sugar Free",
+      "manufacturer": "Rockstar Inc",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis-Energy Drink Review #55",
+      "videoCode":"QnB-kVN-E-Q",
+      "dateReleased": "=new Date(2012, 3, 29)"
+    },
+    "63": {
+      "product": "Chicken Snack Wrap & Chicken Sandwich",
+      "manufacturer": "McDonalds",
+      "category": "Running On Empty",
+      "videoTitle": "Running On Empty--Food Review--McDonalds Part 10.",
+      "videoCode":"r3RZBCnmoqQ",
+      "dateReleased": "=new Date(2012, 3, 31)",
+      "rating": 9
+    },
+    "64": {
+      "product": "Mio Energy",
+      "manufacturer": "Kraft Foods",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis-Energy Drink Review #56",
+      "videoCode":"fX7HsROXD50",
+      "dateReleased": "=new Date(2012, 4, 5)"
+    },
+    "65": {
+      "product": "Double Quarter Pounder Combo",
+      "manufacturer": "McDonalds",
+      "category": "Running On Empty",
+      "videoTitle": "Running On Empty--Food Review--McDonalds Part 11.",
+      "videoCode":"JfJMpjNXvxg",
+      "dateReleased": "=new Date(2012, 4, 6)",
+      "rating": 8
+    },
+    "66": {
+      "product": "HYDRIVE Energy Blue Raspberry",
+      "manufacturer": "Hydrive Energy Water",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis-Energy Drink Review #57",
+      "videoCode":"xuyUDO3sF04",
+      "dateReleased": "=new Date(2012, 4, 23)"
+    },
+    "67": {
+      "product": "Buzz Bites Mint Chocolate",
+      "manufacturer": "Vroom Foods",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis-Energy Drink Review #57",
+      "videoCode":"xuyUDO3sF04",
+      "dateReleased": "=new Date(2012, 4, 23)"
+    },
+    "68": {
+      "product": "Amp Energy Boost Original",
+      "manufacturer": "PepsiCo",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis-Energy Drink Review #58",
+      "videoCode":"p4O-nsveCns",
+      "dateReleased": "=new Date(2012, 4, 30)"
+    },
+    "69": {
+      "product": "Neuro Sonic Energy Drink",
+      "manufacturer": "Neuro",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis-Energy Drink Review #59",
+      "videoCode":"wHjnBsYon5o",
+      "dateReleased": "=new Date(2012, 5, 12)"
+    },
+    "70": {
+      "product": "Monster Energy MIXXD",
+      "manufacturer": "Monster Energy",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis-Energy Drink Review #60",
+      "videoCode":"-iYdaodhfzA",
+      "dateReleased": "=new Date(2012, 5, 24)"
+    },
+    "71": {
+      "product": "XEnergy",
+      "manufacturer": "Xyience",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis-Energy Drink Review #61",
+      "videoCode":"0Gi0n42L98Q",
+      "dateReleased": "=new Date(2012, 5, 29)"
+    },
+    "72": {
+      "product": "Amp Energy Cherry Boost",
+      "manufacturer": "PepsiCo",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis-Energy Drink Review #62",
+      "videoCode":"JESmmbI4kzg",
+      "dateReleased": "=new Date(2012, 6, 12)"
+    },
+    "73": {
+      "product": "Rockstar Energy Drink Recovery",
+      "manufacturer": "Rockstar Inc",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis-Energy Drink Review #64",
+      "videoCode":"kZEF5Mr_4D0",
+      "dateReleased": "=new Date(2012, 7, 1)"
+    },
+    "74": {
+      "product": "Monster Hitman Energy Shooter",
+      "manufacturer": "Monster Energy",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis-Energy Drink Review #65",
+      "videoCode":"TvLox5_C1QQ",
+      "dateReleased": "=new Date(2012, 7, 7)"
+    },
+    "75": {
+      "product": "Uranium Energy Powder in Yellowcake",
+      "manufacturer": "Harcos Labs",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis-Energy Drink Review #66",
+      "videoCode":"S63q4xNvmPA",
+      "dateReleased": "=new Date(2012, 7, 17)"
+    },
+    "76": {
+      "product": "Monster Extra Strength Black Ice",
+      "manufacturer": "Monster Energy",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis-Energy Drink Review #67",
+      "videoCode":"tZEUebjQi8k",
+      "dateReleased": "=new Date(2012, 7, 29)",
+      "effectiveness": 9
+    },
+    "77": {
+      "product": "Amp Energy Active",
+      "manufacturer": "PepsiCo",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis-Energy Drink Review #68",
+      "videoCode":"HSQ_FXYnbpQ",
+      "dateReleased": "=new Date(2012, 8, 3)"
+    },
+    "78": {
+      "product": "Planet Wings Boneless",
+      "manufacturer": "Planet Wings",
+      "category": "Running On Empty",
+      "videoTitle": "Running On Empty--Food Review-Planet Wings",
+      "videoCode":"8BnsFM630qc",
+      "dateReleased": "=new Date(2012, 8, 6)",
+      "rating": 10 
+    },
+    "79": {
+      "product": "Double Backonator",
+      "manufacturer": "Wendy's",
+      "category": "Running On Empty",
+      "videoTitle": "Running On Empty--Food Review-Wendy's-Part 2.",
+      "videoCode":"crhHPHffB5g",
+      "dateReleased": "=new Date(2012, 8, 20)"
+    },
+    "80": {
+      "product": "Spicy Chicken Filey",
+      "manufacturer": "Wendy's",
+      "category": "Running On Empty",
+      "videoTitle": "Running On Empty--Food Review-Wendy's-Part 2.",
+      "videoCode":"crhHPHffB5g",
+      "dateReleased": "=new Date(2012, 8, 20)"
+    },
+    "81": {
+      "product": "Hydrive Energy Extra Strength Black Cherry",
+      "manufacturer": "Hydrive Energy Water",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis-Energy Drink Review #70",
+      "videoCode":"ryB777i36iQ",
+      "dateReleased": "=new Date(2012, 8, 29)",
+      "rating": 7
+    },
+    "82": {
+      "product": "LUCK Energy Potion",
+      "manufacturer": "Harcos Labs",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis-Energy Drink Review #71",
+      "videoCode":"fm5xHwCZh5A",
+      "dateReleased": "=new Date(2012, 9, 14)",
+      "rating": 7
     }
   }
 }

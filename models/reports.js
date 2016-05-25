@@ -7,7 +7,8 @@ const reportSchema = new mongoose.Schema({
   videoTitle: String,
   videoCode: String,
   dateReleased: Date,
-  rating: { type: Number, min: 1, max: 10 }
+  rating: { type: Number, min: 1, max: 10 },
+  effectiveness: Number
 });
 
 module.exports = mongoose.model('Report', reportSchema);
