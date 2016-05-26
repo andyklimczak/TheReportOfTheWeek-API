@@ -693,7 +693,27 @@
       "videoTitle": "Energy Crisis-Energy Drink Review #71",
       "videoCode":"fm5xHwCZh5A",
       "dateReleased": "=new Date(2012, 9, 14)",
-      "rating": 7
+      "rating": 7,
+      "effectiveness": 4
+    },
+    "82": {
+      "product": "Stewart's Sugar Free Impact",
+      "manufacturer": "Stewart's Shops",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis-Energy Drink Review #72",
+      "videoCode":"rCoM-WRdfNQ",
+      "dateReleased": "=new Date(2012, 9, 22)",
+      "rating": 7,
+      "effectiveness": 5
+    },
+    "83": {
+      "product": "Mana Energy Potion",
+      "manufacturer": "Arco's Inc",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis-Energy Drink Review #73",
+      "videoCode":"Wvt9InbYtKY",
+      "dateReleased": "=new Date(2012, 10, 7)",
+      "rating": 5
     }
   }
 }
