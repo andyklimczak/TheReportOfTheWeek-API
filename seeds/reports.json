@@ -477,7 +477,7 @@
       "videoTitle": "Running On Empty--Food Review--McDonalds Part 7.",
       "videoCode":"gG4XWLfJeDc",
       "dateReleased": "=new Date(2012, 2, 19)",
-      "rating": 9 
+      "rating": 9
     },
     "57": {
       "product": "Bawls Guarana Soda",
@@ -494,7 +494,7 @@
       "videoTitle": "Running On Empty--Food Review--McDonalds Part 8.",
       "videoCode":"CxrPO_JcKA8",
       "dateReleased": "=new Date(2012, 3, 2)",
-      "rating": 7 
+      "rating": 7
     },
     "59": {
       "product": "Amp Energy Traction",
@@ -519,7 +519,7 @@
       "videoTitle": "Running On Empty--Food Review--McDonalds Part 9.",
       "videoCode":"4erAAzWNOg8",
       "dateReleased": "=new Date(2012, 3, 24)",
-      "rating": 7 
+      "rating": 7
     },
     "62": {
       "product": "Rockstar Sugar Free",
@@ -659,7 +659,7 @@
       "videoTitle": "Running On Empty--Food Review-Planet Wings",
       "videoCode":"8BnsFM630qc",
       "dateReleased": "=new Date(2012, 8, 6)",
-      "rating": 10 
+      "rating": 10
     },
     "79": {
       "product": "Double Backonator",
@@ -713,6 +713,15 @@
       "videoTitle": "Energy Crisis-Energy Drink Review #73",
       "videoCode":"Wvt9InbYtKY",
       "dateReleased": "=new Date(2012, 10, 7)",
+      "rating": 5
+    },
+    "85": {
+      "product": "Loop Energy Drink",
+      "manufacturer": "Smart Sense",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis-Energy Drink Review #74",
+      "videoCode":"WfnW_TLOqOE",
+      "dateReleased": "=new Date(2012, 10, 28)",
       "rating": 5
     }
   }
