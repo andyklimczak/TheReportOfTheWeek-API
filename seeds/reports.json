@@ -722,7 +722,7 @@
       "videoTitle": "Energy Crisis-Energy Drink Review #74",
       "videoCode":"WfnW_TLOqOE",
       "dateReleased": "=new Date(2012, 10, 28)",
-      "rating": 5
+      "rating": 5,
       "effectiveness": 5
     },
     "86": {
@@ -733,6 +733,40 @@
       "videoCode":"WfnW_TLOqOE",
       "dateReleased": "=new Date(2012, 11, 9)",
       "rating": 5
+    },
+    "87": {
+      "product": "Pan Pizza & Breadsticks",
+      "manufacturer": "Domino's",
+      "category": "Running On Empty",
+      "videoTitle": "Domino's Pan Pizza--Running On Empty--Food Review",
+      "videoCode":"CXbj2fE2mMI",
+      "dateReleased": "=new Date(2012, 12, 1)",
+      "rating": 8
+    },
+    "88": {
+      "product": "Crispy Chicken Wings Buffalo",
+      "manufacturer": "T.G.I. Friday's",
+      "category": "Running On Empty",
+      "videoTitle": "T.G.I. Friday's Crispy Chicken Wings Review",
+      "videoCode":"Tij3BcFjqDs",
+      "dateReleased": "=new Date(2012, 12, 10)"
+    },
+    "89": {
+      "product": "Super Slice Pizza",
+      "manufacturer": "Red Baron",
+      "category": "Running On Empty",
+      "videoTitle": "Red Baron Super Slice - Pizza Review",
+      "videoCode":"InDIiw1UVtk",
+      "dateReleased": "=new Date(2012, 12, 18)",
+      "rating": 10
+    },
+    "90": {
+      "product": "Crispy Chicken Wings Honey BBQ",
+      "manufacturer": "T.G.I. Friday's",
+      "category": "Running On Empty",
+      "videoTitle": "T.G.I. Friday's Crispy Chicken Wings Review #2",
+      "videoCode":"f3SOLqccD58",
+      "dateReleased": "=new Date(2013, 1, 7)"
     }
   }
 }
