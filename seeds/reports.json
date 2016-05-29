@@ -723,6 +723,16 @@
       "videoCode":"WfnW_TLOqOE",
       "dateReleased": "=new Date(2012, 10, 28)",
       "rating": 5
+      "effectiveness": 5
+    },
+    "86": {
+      "product": "Plutonium Energy Powder Pearl Flavor",
+      "manufacturer": "Harcos Labs",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis-Energy Drink Review #75",
+      "videoCode":"WfnW_TLOqOE",
+      "dateReleased": "=new Date(2012, 11, 9)",
+      "rating": 5
     }
   }
 }
