@@ -767,6 +767,69 @@
       "videoTitle": "T.G.I. Friday's Crispy Chicken Wings Review #2",
       "videoCode":"f3SOLqccD58",
       "dateReleased": "=new Date(2013, 1, 7)"
+    },
+    "91": {
+      "product": "Pizza & Wings",
+      "manufacturer": "Domino's",
+      "category": "Running On Empty",
+      "videoTitle": "Domino's Pizza Review - Running On Empty - Food Review",
+      "videoCode":"eYh2_TLPS7U",
+      "dateReleased": "=new Date(2013, 1, 19)",
+      "rating": 9
+    },
+    "92": {
+      "product": "Red Bull, The Blue Edition",
+      "manufacturer": "Redbull GmbH",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #76 - Red Bull, The Blue Edition",
+      "videoCode":"9n2vcTvCjm8",
+      "dateReleased": "=new Date(2013, 3, 16)"
+    },
+    "93": {
+      "product": "Bawls Guarana Soda (Cherry)",
+      "manufacturer": "Solvi Acquisition",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #77 Bawls Cherry",
+      "videoCode":"i7hysOGdEiY",
+      "dateReleased": "=new Date(2013, 3, 23)",
+      "rating": 10,
+      "effectiveness": 6
+    },
+    "94": {
+      "product": "Red Bull, Silver Edition",
+      "manufacturer": "Redbull GmbH",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #78 - Red Bull, Silver Edition",
+      "videoCode":"RQRBeuA-Izs",
+      "dateReleased": "=new Date(2013, 4, 2)",
+      "rating": 9.5
+    },
+    "95": {
+      "product": "Nos Sugar Free",
+      "manufacturer": "Monster Beverage",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #79 NOS Sugar Free",
+      "videoCode":"y7niLDQaMuM",
+      "dateReleased": "=new Date(2013, 4, 9)",
+      "rating": 8.5,
+			"effectiveness": 7
+    },
+    "96": {
+      "product": "ÜberMonster",
+      "manufacturer": "Monster Beverage",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #80 ÜberMonster",
+      "videoCode":"4iFqqMPpGEM",
+      "dateReleased": "=new Date(2013, 4, 16)"
+    },
+    "97": {
+      "product": "Frozen Burgers",
+      "manufacturer": "White Castle",
+      "category": "Running On Empty",
+      "videoTitle": "While Castle (Frozen) -- Running On Empty -- Food Review",
+      "videoCode":"j3FdiofxPrE",
+      "dateReleased": "=new Date(2013, 4, 23)",
+      "rating": 9
     }
   }
 }
