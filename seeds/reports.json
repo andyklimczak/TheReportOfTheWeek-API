@@ -830,6 +830,24 @@
       "videoCode":"j3FdiofxPrE",
       "dateReleased": "=new Date(2013, 4, 23)",
       "rating": 9
+    },
+    "98": {
+      "product": "Dripping Strips",
+      "manufacturer": "Digiorno",
+      "category": "Running On Empty",
+      "videoTitle": "DIGIORNO Dipping Strips -- Running On Empty -- Food Review",
+      "videoCode":"gSW5sg2rCL8",
+      "dateReleased": "=new Date(2013, 5, 6)",
+      "rating": 7.5
+    },
+    "99": {
+      "product": "Boneless Chicken",
+      "manufacturer": "KFC",
+      "category": "Running On Empty",
+      "videoTitle": "KFC Boneless Chicken -- Running On Empty -- Food Review",
+      "videoCode":"N4_LNraIyDo",
+      "dateReleased": "=new Date(2013, 5, 13)",
+      "rating": 9
     }
   }
 }
