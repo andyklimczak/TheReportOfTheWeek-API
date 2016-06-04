@@ -812,7 +812,7 @@
       "videoCode":"y7niLDQaMuM",
       "dateReleased": "=new Date(2013, 4, 9)",
       "rating": 8.5,
-			"effectiveness": 7
+      "effectiveness": 7
     },
     "96": {
       "product": "ÜberMonster",
@@ -848,6 +848,360 @@
       "videoCode":"N4_LNraIyDo",
       "dateReleased": "=new Date(2013, 5, 13)",
       "rating": 9
+    },
+    "100": {
+      "product": "Cocaine Spicy Hot",
+      "manufacturer": "Redux Beverages",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #81 Cocaine Spicy Hot",
+      "videoCode":"43Fri1xmvKo",
+      "dateReleased": "=new Date(2013, 5, 22)"
+    },
+    "101": {
+      "product": "Red Baron Singles",
+      "manufacturer": "Red Baron",
+      "category": "Running On Empty",
+      "videoTitle": "Red Baron Singles -- Running On Empty -- Food Review",
+      "videoCode":"hMx-k64GzdI",
+      "dateReleased": "=new Date(2013, 6, 5)",
+      "rating": 9
+    },
+    "102": {
+      "product": "Perdue Popcorn Chicken",
+      "manufacturer": "Perdue",
+      "category": "Running On Empty",
+      "videoTitle": "Perdue Popcorn Chicken -- Running On Empty -- Food Review",
+      "videoCode":"Cfl799CSIAM",
+      "dateReleased": "=new Date(2013, 6, 15)",
+      "rating": 5
+    },
+    "103": {
+      "product": "Bawls Root Beer",
+      "manufacturer": "Solvi Acquisition",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #82 Bawls Root Beer",
+      "videoCode":"T6t_CR7Pz4k",
+      "dateReleased": "=new Date(2013, 5, 24)",
+      "rating": 9.5
+    },
+    "102": {
+      "product": "KFC Popcorn Chicken",
+      "manufacturer": "KFC",
+      "category": "Running On Empty",
+      "videoTitle": "KFC Popcorn Chicken & Wings -- Running On Empty -- Food Review",
+      "videoCode":"uVdZYKDh9wI",
+      "dateReleased": "=new Date(2013, 6, 30)",
+      "rating": 8
+    },
+    "103": {
+      "product": "KFC Wings",
+      "manufacturer": "KFC",
+      "category": "Running On Empty",
+      "videoTitle": "KFC Popcorn Chicken & Wings -- Running On Empty -- Food Review",
+      "videoCode":"uVdZYKDh9wI",
+      "dateReleased": "=new Date(2013, 6, 30)",
+      "rating": 6
+    },
+    "104": {
+      "product": "Vegas Fuel Energy Drink Experience",
+      "manufacturer": "VegasFuel",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #83 Vegas Fuel",
+      "videoCode":"AaSsxDLegm0",
+      "dateReleased": "=new Date(2013, 7, 11)",
+      "rating": 7
+    },
+    "105": {
+      "product": "Stuffed Crust Pizza",
+      "manufacturer": "Digiorno",
+      "category": "Running On Empty",
+      "videoTitle": "DIGIORNO Stuffed Crust -- Running On Empty -- Food Review",
+      "videoCode":"o5N57uUFDmE",
+      "dateReleased": "=new Date(2013, 7, 16)",
+      "rating": 7
+    },
+    "106": {
+      "product": "Monster DUB Ballers Blend",
+      "manufacturer": "Monster Inc",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #84 Monster DUB Ballers Blend",
+      "videoCode":"Ccuwd12LGQ4",
+      "dateReleased": "=new Date(2013, 7, 29)",
+      "rating": 8.3
+    },
+    "107": {
+      "product": "Bacon Burger",
+      "manufacturer": "Five Guys",
+      "category": "Running On Empty",
+      "videoTitle": "Five Guys -- Running On Empty -- Food Review",
+      "videoCode":"9pFc29_Giio",
+      "dateReleased": "=new Date(2013, 8, 5)",
+      "rating": 9.8
+    },
+    "108": {
+      "product": "Subway BLT",
+      "manufacturer": "Subway",
+      "category": "Running On Empty",
+      "videoTitle": "Subway BLT -- Running On Empty -- Food Review",
+      "videoCode":"X5ZM_XrF4tk",
+      "dateReleased": "=new Date(2013, 8, 13)",
+      "rating": 6
+    },
+    "109": {
+      "product": "Monster Ultra Blue",
+      "manufacturer": "Monster Inc",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #85 Monster Ultra Blue",
+      "videoCode":"7VcZSaU5vjQ",
+      "dateReleased": "=new Date(2013, 8, 22)",
+      "rating": 8.3
+    },
+    "110": {
+      "product": "Pretzel Burger",
+      "manufacturer": "Wendy's",
+      "category": "Running On Empty",
+      "videoTitle": "Wendy's Pretzel Burger -- Running On Empty -- Food Review",
+      "videoCode":"wWYLYvKpDOs",
+      "dateReleased": "=new Date(2013, 8, 28)",
+      "rating": 4
+    },
+    "111": {
+      "product": "Reese's Peanut Butter Cups",
+      "manufacturer": "The Hershey Company",
+      "category": "Running On Empty",
+      "videoTitle": "Reese's Vs. UNREAL -- Running On Empty -- Food Review",
+      "videoCode":"YCT1Z9pGBd4",
+      "dateReleased": "=new Date(2013, 9, 7)"
+    },
+    "112": {
+      "product": "UNREAL Peanut Butter Cups",
+      "manufacturer": "Unreal",
+      "category": "Running On Empty",
+      "videoTitle": "Reese's Vs. UNREAL -- Running On Empty -- Food Review",
+      "videoCode":"YCT1Z9pGBd4",
+      "dateReleased": "=new Date(2013, 9, 7)"
+    },
+    "113": {
+      "product": "Monster Rehab",
+      "manufacturer": "Monster Inc",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #86 Monster Rehab",
+      "videoCode":"nKha_8vbYj0",
+      "dateReleased": "=new Date(2013, 8, 19)",
+      "rating": 8.3
+    },
+    "114": {
+      "product": "M&M's",
+      "manufacturer": "Mars, Incorporated",
+      "category": "Running On Empty",
+      "videoTitle": "M&M's Vs. UNREAL -- Running On Empty -- Food Review",
+      "videoCode":"yYn3TUgzPD4",
+      "dateReleased": "=new Date(2013, 9, 22)"
+    },
+    "115": {
+      "product": "UNREAL M",
+      "manufacturer": "Unreal",
+      "category": "Running On Empty",
+      "videoTitle": "M&M's Vs. UNREAL -- Running On Empty -- Food Review",
+      "videoCode":"yYn3TUgzPD4",
+      "dateReleased": "=new Date(2013, 9, 22)"
+    },
+    "115": {
+      "product": "Might Wings",
+      "manufacturer": "McDonalds",
+      "category": "Running On Empty",
+      "videoTitle": "McDonalds Might Wings -- Running On Empty -- Food Review",
+      "videoCode":"SpnvjsscQm0",
+      "dateReleased": "=new Date(2013, 9, 27)",
+      "rating": 8
+    },
+    "116": {
+      "product": "Chicken Nuggets",
+      "manufacturer": "Wendy's",
+      "category": "Running On Empty",
+      "videoTitle": "Wendy's Chicken Nuggets -- Running On Empty -- Food Review",
+      "videoCode":"fGjoBYJegtI",
+      "dateReleased": "=new Date(2013, 10, 3)",
+      "rating": 6
+    },
+    "117": {
+      "product": "Monster Cuba-Lima",
+      "manufacturer": "Monster Inc",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #87 Monster Cuba-Lima",
+      "videoCode":"h6G-mLoXONw",
+      "dateReleased": "=new Date(2013, 10, 8)"
+    },
+    "118": {
+      "product": "Pizza",
+      "manufacturer": "Papa Johns",
+      "category": "Running On Empty",
+      "videoTitle": "Papa Johns Pizza & Cookie -- Running On Empty -- Food Review",
+      "videoCode":"-CdOHVU5h00",
+      "dateReleased": "=new Date(2013, 10, 14)",
+      "rating": 8
+    },
+    "119": {
+      "product": "Cookie",
+      "manufacturer": "Papa Johns",
+      "category": "Running On Empty",
+      "videoTitle": "Papa Johns Pizza & Cookie -- Running On Empty -- Food Review",
+      "videoCode":"-CdOHVU5h00",
+      "dateReleased": "=new Date(2013, 10, 14)",
+      "rating": 6.5
+    },
+    "120": {
+      "product": "Rip It Berry Mix",
+      "manufacturer": "National Beverage Corp.",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #88 Rip It Berry Mix",
+      "videoCode":"adA4INTc2n8",
+      "dateReleased": "=new Date(2013, 10, 20)"
+    },
+    "121": {
+      "product": "Boneless Chicken",
+      "manufacturer": "T.G.I. Friday's",
+      "category": "Running On Empty",
+      "videoTitle": "T.G.I. Friday's Boneless Chicken -- Running On Empty -- Food Review",
+      "videoCode":"-CfYfI-VJ7c",
+      "dateReleased": "=new Date(2013, 10, 26)",
+      "rating": 9
+    },
+    "122": {
+      "product": "Breadsticks",
+      "manufacturer": "New York",
+      "category": "Running On Empty",
+      "videoTitle": "New York Breadsticks -- Running On Empty -- Food Review",
+      "videoCode":"dUdkRRicCs0",
+      "dateReleased": "=new Date(2013, 10, 31)",
+      "rating": 7
+    },
+    "123": {
+      "product": "Monster DUB Mad Dog",
+      "manufacturer": "Monster Inc",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #89 Monster DUB Mad Dog",
+      "videoCode":"tIX_Zsua46s",
+      "dateReleased": "=new Date(2013, 11, 10)",
+      "rating": 7.9
+    },
+    "124": {
+      "product": "Bacon McDouble",
+      "manufacturer": "McDonalds",
+      "category": "Running On Empty",
+      "videoTitle": "McDonald's Bacon McDouble-- Running On Empty -- Food Review",
+      "videoCode":"hXBPjhNyGCk",
+      "dateReleased": "=new Date(2013, 11, 14)",
+      "rating": 8.5
+    },
+    "125": {
+      "product": "Pretzel Pub Chicken",
+      "manufacturer": "Wendy's",
+      "category": "Running On Empty",
+      "videoTitle": "Wendy's Pretzel Pub Chicken -- Running On Empty -- Food Review",
+      "videoCode":"Yque6_9HaHw",
+      "dateReleased": "=new Date(2013, 11, 18)",
+      "rating": 7
+    },
+    "126": {
+      "product": "Hamburger",
+      "manufacturer": "Planet Wings",
+      "category": "Running On Empty",
+      "videoTitle": "Planet Wings Burger -- Running On Empty -- Food Review",
+      "videoCode":"RunwIM03Ciw",
+      "dateReleased": "=new Date(2013, 11, 23)",
+      "rating": 9
+    },
+    "127": {
+      "product": "Red Bull Red Edition",
+      "manufacturer": "Red Bull GmbH",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #90 Red Bull, Red Edition",
+      "videoCode":"F2y6wBPiHWE",
+      "dateReleased": "=new Date(2013, 11, 28)",
+      "rating": 6.53
+    },
+    "128": {
+      "product": "Dave's Hot N' Juicy",
+      "manufacturer": "Wendy's",
+      "category": "Running On Empty",
+      "videoTitle": "Wendy's Dave's Hot 'N Juicy -- Running On Empty -- Food Review",
+      "videoCode":"GqVhYWghlL8",
+      "dateReleased": "=new Date(2013, 12, 2)",
+      "rating": 7
+    },
+    "129": {
+      "product": "Suicide Wings",
+      "manufacturer": "Planet Wings",
+      "category": "Running On Empty",
+      "videoTitle": "Planet Wings Suicide Wings -- Running On Empty -- Food Review",
+      "videoCode":"Mjrt_f1cbx0",
+      "dateReleased": "=new Date(2013, 12, 5)",
+      "rating": 9
+    },
+    "130": {
+      "product": "Quarter Pounder Bacon & Cheese",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "Quarter Pounder Bacon & Cheese -- Running On Empty -- Food Review",
+      "videoCode":"Qop8sdSwhzM",
+      "dateReleased": "=new Date(2013, 12, 10)",
+      "rating": 8
+    },
+    "131": {
+      "product": "Butter Garlic Wings",
+      "manufacturer": "Planet Wings",
+      "category": "Running On Empty",
+      "videoTitle": "Planet Wings Butter Garlic Wings -- Running On Empty -- Food Review",
+      "videoCode":"XB9Ki-A9Tac",
+      "dateReleased": "=new Date(2013, 12, 18)",
+      "rating": 7.9
+    },
+    "132": {
+      "product": "Go Cups",
+      "manufacturer": "KFC",
+      "category": "Running On Empty",
+      "videoTitle": "KFC Go Cups -- Running On Empty -- Food Review",
+      "videoCode":"qpcfhcmw-a0",
+      "dateReleased": "=new Date(2013, 12, 23)",
+      "rating": 8.7
+    },
+    "133": {
+      "product": "Monster Zero Ultra",
+      "manufacturer": "Monster Beverage",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #91 Monster Zero Ultra",
+      "videoCode":"bsMJe8Niv9w",
+      "dateReleased": "=new Date(2013, 12, 25)",
+      "rating": 6,
+      "effectiveness": 6
+    },
+    "134": {
+      "product": "Bacon Buffalo Ranch McChicken",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "Bacon Buffalo Ranch McChicken -- Running On Empty -- Food Review",
+      "videoCode":"ApVaUumN5Bo",
+      "dateReleased": "=new Date(2013, 12, 28)",
+      "rating": 6.1
+    },
+    "135": {
+      "product": "Super Sours",
+      "manufacturer": "Rockstar, Inc",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #92 Rockstar Super Sours",
+      "videoCode":"D58mNv5I1Hc",
+      "dateReleased": "=new Date(2013, 12, 31)",
+      "rating": 7
+    },
+    "136": {
+      "product": "Hot Wings",
+      "manufacturer": "Planet Wings",
+      "category": "Running On Empty",
+      "videoTitle": "Planet Wings Hot Wings -- Running On Empty -- Food Review",
+      "videoCode":"HHLmwIhLJkY",
+      "dateReleased": "=new Date(2014, 1, 3)",
+      "rating": 8.34
     }
   }
 }
