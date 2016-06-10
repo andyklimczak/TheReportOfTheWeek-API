@@ -1455,5 +1455,68 @@
       "dateReleased": "=new Date(2014, 5, 3)",
       "rating": 7.422
     },
+    "165": {
+      "product": "Twizzlers (Strawberry)",
+      "manufacturer": "Y&S Candies, Inc.",
+      "category": "Running On Empty",
+      "videoTitle": "Twizzlers (Strawberry) - Running On Empty - Food Review",
+      "videoCode":"behhnn3npys",
+      "dateReleased": "=new Date(2014, 6, 4)",
+      "rating": 8.7
+    },
+    "166": {
+      "product": "Muscle Energy Shake (Strawberry)",
+      "manufacturer": "Monster Beverage",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Drink Review - Muscle Monster Energy Shake (Strawberry)",
+      "videoCode":"OFxhy83oU0E",
+      "dateReleased": "=new Date(2014, 6, 6)",
+      "rating": 7.17
+    },
+    "167": {
+      "product": "Pepperoni Pizza",
+      "manufacturer": "Freschetta Brick Oven",
+      "category": "Running On Empty",
+      "videoTitle": "FRESCHETTA Brick Oven, Pepperoni Pizza - Food Review",
+      "videoCode":"HPFgy5PGUgo",
+      "dateReleased": "=new Date(2014, 6, 9)",
+      "rating": 8.1
+    },
+    "168": {
+      "product": "Smoky Mountain BBQ Wings",
+      "manufacturer": "Planet Wings",
+      "category": "Running On Empty",
+      "videoTitle": "Smokey Mountain BBQ, Planet Wings - Food Review",
+      "videoCode":"QTXu0SD8zoM",
+      "dateReleased": "=new Date(2014, 6, 11)",
+      "rating": 7.9
+    },
+    "169": {
+      "product": "Muscle Energy Shake (Coffee)",
+      "manufacturer": "Monster Beverage",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review $100 Muscle Monster, Coffee",
+      "videoCode":"qENUTpefEGk",
+      "dateReleased": "=new Date(2014, 6, 13)",
+      "rating": 8.339
+    },
+    "170": {
+      "product": "Specialty Chicken",
+      "manufacturer": "Domino's",
+      "category": "Running On Empty",
+      "videoTitle": "Domino's Specialty Chicken & Ultimate Pepperoni Feat Pizza Review",
+      "videoCode":"3xGKWeWdh2g",
+      "dateReleased": "=new Date(2014, 6, 16)",
+      "rating": 7.9
+    },
+    "171": {
+      "product": "Ultimate Pepperoni Feast Pizza",
+      "manufacturer": "Domino's",
+      "category": "Running On Empty",
+      "videoTitle": "Domino's Specialty Chicken & Ultimate Pepperoni Feat Pizza Review",
+      "videoCode":"3xGKWeWdh2g",
+      "dateReleased": "=new Date(2014, 6, 16)",
+      "rating": 8.91
+    }
   }
 }
