@@ -1,5 +1,7 @@
 import bodyParser from 'body-parser';
 import cors from 'cors';
+import compression from 'compression';
+import helmet from 'helmet';
 
 module.exports = app => {
   const port = process.env.PORT || 3000;
@@ -11,4 +13,5 @@ module.exports = app => {
     allowedHeaders: ["Content-Type"]
   }));
   app.use(compression());
+  app.use(helmet());
 };
