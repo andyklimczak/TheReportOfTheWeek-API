@@ -10,4 +10,5 @@ module.exports = app => {
     methods: ["GET"],
     allowedHeaders: ["Content-Type"]
   }));
+  app.use(compression());
 };
