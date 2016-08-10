@@ -7,7 +7,8 @@
     "start": "npm run single",
     "single": "babel-node index.js",
     "clusters": "babel-node clusters.js",
-    "seed": "babel-node seed.js"
+    "seed": "babel-node seed.js",
+    "test": "NODE_ENV=test mocha test/**/*.js"
   },
   "author": "Andy Klimczak",
   "dependencies": {
@@ -22,5 +23,11 @@
     "helmet": "^2.1.1",
     "mongoose": "^4.4.10",
     "mongoose-seeder": "^1.2.1"
+  },
+  "devDependencies": {
+    "babel-register": "^6.11.6",
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2",
+    "supertest": "^2.0.0"
   }
 }
