@@ -7,7 +7,7 @@
       "category": "Energy Crisis",
       "videoTitle": "Energy Crisis--Energy Drink Review",
       "videoCode":"wyD3nCv_emI",
-      "dateReleased": "=new Date(2011, 1, 11)",
+      "dateReleased": "=new Date(2011, 1, 20)",
       "rating": 7
     },
     "2": {
@@ -1905,6 +1905,726 @@
       "videoCode":"n8egz0JaKyk",
       "dateReleased": "=new Date(2014, 8, 30)",
       "rating": 7.9
+    },
+    "215": {
+      "product": "Bacon Mac & Cheese Chips",
+      "manufacturer": "Lay's",
+      "category": "Running On Empty",
+      "videoTitle": "Lay's Bacon Mac & Cheese - Running On Empty - Food Review",
+      "videoCode": "QXNlDiMYr5w",
+      "dateReleased": "=new Date(2014, 9, 5)",
+      "rating": 7.62
+    },
+    "216": {
+      "product": "BBQ Pulled Pork Cheeseburger",
+      "manufacturer": "Wendy's",
+      "category": "Running On Empty",
+      "videoTitle": "Wendy's BBQ Pulled Pork Cheeseburger - Review",
+      "videoCode": "51d0Vcihe2o",
+      "dateReleased": "=new Date(2014, 9, 6)",
+      "rating": 8.4
+    },
+    "217": {
+      "product": "Rising Crust",
+      "manufacturer": "Red Baron",
+      "category": "Running On Empty",
+      "videoTitle": "Red Baron Rising Crust - Running On Empty - Food Review",
+      "videoCode": "rwkjlyv32XI",
+      "dateReleased": "=new Date(2014, 9, 8)",
+      "rating": 7.0
+    },
+    "218": {
+      "product": "Chicken Tenders",
+      "manufacturer": "Planet Wings",
+      "category": "Running On Empty",
+      "videoTitle": "Planet Wings, Chicken Tenders - Running On Empty - Food Review",
+      "videoCode":"Bu7oE0Wecrc",
+      "dateReleased": "=new Date(2014, 8, 11)",
+      "rating": 7.4
+    },
+    "219": {
+      "product": "Pulled Pork Cheese Fries",
+      "manufacturer": "Wendy's",
+      "category": "Running On Empty",
+      "videoTitle": "Wendy's Pulled Pork Chees Fries - Review",
+      "videoCode": "9l2NDXci4YE",
+      "dateReleased": "=new Date(2014, 9, 13)",
+      "rating": 7.0
+    },
+    "220": {
+      "product": "Quarter Pounder Bacon Habanero Ranch",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "McDonald's Quarter Pounder Bacon Habanero Ranch - Review",
+      "videoCode": "Sf3ugUXj5vk",
+      "dateReleased": "=new Date(2014, 9, 15)",
+      "rating": 7.8
+    },
+    "221": {
+      "product": "White Grape",
+      "manufacturer": "Gurrnaid Energy",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #110 Gurrnaid White Grape",
+      "videoCode":"ooWrxb5OBDE",
+      "dateReleased": "=new Date(2014, 9, 19)",
+      "rating": 8.9
+    },
+    "222": {
+      "product": "Liquid Ice Red",
+      "manufacturer": "Liquid Management Partners",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #111 Liquid Ice Red",
+      "videoCode":"Zmhk3me4lZQ",
+      "dateReleased": "=new Date(2014, 9, 22)",
+      "rating": 8.7
+    },
+    "223": {
+      "product": "Pizza & Breadsticks",
+      "manufacturer": "DiGiorno",
+      "category": "Running On Empty",
+      "videoTitle": "Digiorno Pizza & Breadsticks - Running On Empty - Food Review",
+      "videoCode":"QE40WojYT34",
+      "dateReleased": "=new Date(2014, 9, 25)",
+      "rating": 7.2
+    },
+    "224": {
+      "product": "Mountain Dew Kickstart Black Cherry",
+      "manufacturer": "PepsiCo",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #1112 Mtn Dew Kickstart",
+      "videoCode":"UmxbXY3oyuA",
+      "dateReleased": "=new Date(2014, 9, 28)",
+      "rating": 7.5
+    },
+    "225": {
+      "product": "Pumpkin Spice M&M's",
+      "manufacturer": "Mars, Incorporated",
+      "category": "Running On Empty",
+      "videoTitle": "Pumpkin Spice M&Ms -- Running On Empty -- Food Review",
+      "videoCode":"ErLRFfASFRU",
+      "dateReleased": "=new Date(2014, 9, 30)",
+      "rating": 8.0
+    },
+    "226": {
+      "product": "Root Beer Float Oreo's",
+      "manufacturer": "Nabisco",
+      "category": "Running On Empty",
+      "videoTitle": "Root Beer Float Oreo's - Running On Empty - Food Review",
+      "videoCode": "360_oPBfxPg",
+      "dateReleased": "=new Date(2014, 10, 2)",
+      "rating": 8.1
+    },
+    "227": {
+      "product": "Design A Pizza Kit III",
+      "manufacturer": "DiGiorno",
+      "category": "Running On Empty",
+      "videoTitle": "DiGiorno Design A Pizza Kit, Assembly & Review III",
+      "videoCode":"eROcKJhP7W8",
+      "dateReleased": "=new Date(2014, 10, 6)",
+      "rating": 7.8
+    },
+    "228": {
+      "product": "Pineapple",
+      "manufacturer": "Gurrnaid Energy",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #113 Gurrnaid Pineapple",
+      "videoCode":"X_SE4aNlxeo",
+      "dateReleased": "=new Date(2014, 10, 11)",
+      "rating": 8.5
+    },
+    "229": {
+      "product": "Supreme Pizza",
+      "manufacturer": "Tombstone",
+      "category": "Running On Empty",
+      "videoTitle": "Tombstone Supreme Pizza - Running On Empty - Food Review",
+      "videoCode":"Bqg6BjiIzjY",
+      "dateReleased": "=new Date(2014, 10, 17)",
+      "rating": 7.3
+    },
+    "230": {
+      "product": "Mozzarella Sticks",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "McDonald's Mozzarella Sticks - Running On Empty - Food Review",
+      "videoCode":"WyqsAdlCTTE",
+      "dateReleased": "=new Date(2014, 10, 20)",
+      "rating": 8.0
+    },
+    "231": {
+      "product": "Four Cheese Pizza",
+      "manufacturer": "California Pizza Kitchen",
+      "category": "Running On Empty",
+      "videoTitle": "California Pizza Kitchen, Four Cheese Pizza - Review",
+      "videoCode":"BTq66Z1cl2E",
+      "dateReleased": "=new Date(2014, 10, 27)",
+      "rating": 7.4
+    },
+    "232": {
+      "product": "Bacon Portabella Melt on Brioche",
+      "manufacturer": "Wendy's",
+      "category": "Running On Empty",
+      "videoTitle": "Wendy's Bacon Portabella Melt On Brioche - Review",
+      "videoCode": "kuc_USLF1N4",
+      "dateReleased": "=new Date(2014, 11, 1)",
+      "rating": 7.4
+    },
+    "233": {
+      "product": "Peppermint Oreo's",
+      "manufacturer": "Nabisco",
+      "category": "Running On Empty",
+      "videoTitle": "Peppermint Oreo's - Running On Empty - Food Review",
+      "videoCode": "_-Et2uIUqvY",
+      "dateReleased": "=new Date(2014, 11, 5)",
+      "rating": 8.5
+    },
+    "234": {
+      "product": "Giddy-Up BBQ Chicken Pizza",
+      "manufacturer": "Pizza Hut",
+      "category": "Running On Empty",
+      "videoTitle": "Pizza Hut Giddy-Up BBQ Chicken Pizza - Food Review",
+      "videoCode": "DpbWdj-ImuU",
+      "dateReleased": "=new Date(2014, 11, 8)",
+      "rating": 9.0
+    },
+    "235": {
+      "product": "Mountain Dew Kickstart Orange Citrus",
+      "manufacturer": "PepsiCo",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #114 Mtn Dew Kickstart",
+      "videoCode":"3vgb1glJ2HU",
+      "dateReleased": "=new Date(2014, 11, 14)",
+      "rating": 8.4
+    },
+    "236": {
+      "product": "Pizzeria Style Pepperoni Pizza",
+      "manufacturer": "TONY'S",
+      "category": "Running On Empty",
+      "videoTitle": "TONY's Pizzeria Style Pepperoni Pizza - Food Review",
+      "videoCode": "mSOzL0fKUpM",
+      "dateReleased": "=new Date(2014, 11, 17)",
+      "rating": 7.7
+    },
+    "237": {
+      "product": "Buffalo Pizza",
+      "manufacturer": "Pizza Hut",
+      "category": "Running On Empty",
+      "videoTitle": "Pizza Hut Buffalo State Of Mind Pizza - Food Review",
+      "videoCode": "jNucPE6uKsY",
+      "dateReleased": "=new Date(2014, 11, 20)",
+      "rating": 7.9
+    },
+    "238": {
+      "product": "Flavor Sticks",
+      "manufacturer": "Pizza Hut",
+      "category": "Running On Empty",
+      "videoTitle": "Pizza Hut Buffalo State Of Mind Pizza - Food Review",
+      "videoCode": "jNucPE6uKsY",
+      "dateReleased": "=new Date(2014, 11, 20)",
+      "rating": 8.4
+    },
+    "239": {
+      "product": "Monster Ultra Sunrise",
+      "manufacturer": "Monster Beverage",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #115 Monster Ultra Sunrise",
+      "videoCode": "8F6XfrJEQv4",
+      "dateReleased": "=new Date(2014, 11, 25)",
+      "rating": 8.0
+    },
+    "240": {
+      "product": "Grilled Onion Chicken Cheddar Burger",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "McDonald's Grilled Onion Cheddar Burger - Food Review",
+      "videoCode":"uo9T-qL-jnQ",
+      "dateReleased": "=new Date(2014, 11, 28)",
+      "rating": 8.2
+    },
+    "241": {
+      "product": "Rising Crust Pepperoni Pizza",
+      "manufacturer": "ShopRite",
+      "category": "Running On Empty",
+      "videoTitle": "ShopRite Rising Crust Pepperoni Pizza - Food Review",
+      "videoCode":"DGCc3IWBz3A",
+      "dateReleased": "=new Date(2015, 0, 3)",
+      "rating": 8.5
+    },
+    "242": {
+      "product": "Root Beer",
+      "manufacturer": "Gurrnaid Energy",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #116 Gurrnaid Root Beer",
+      "videoCode":"IRzCm3ecuRE",
+      "dateReleased": "=new Date(2015, 0, 8)",
+      "rating": 8.4
+    },
+    "243": {
+      "product": "Supreme Pizza",
+      "manufacturer": "Newman's Own Pizza",
+      "category": "Running On Empty",
+      "videoTitle": "Newman's Own Supreme Pizza - Running On Empty - Food Review",
+      "videoCode":"1pAdSKmkyUM",
+      "dateReleased": "=new Date(2015, 0, 12)",
+      "rating": 8.2
+    },
+    "244": {
+      "product": "Lemon Lime",
+      "manufacturer": "Gurrnaid Energy",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #117 Gurrnaid Lemon Lime",
+      "videoCode":"66laxBhawsU",
+      "dateReleased": "=new Date(2015, 0, 17)",
+      "rating": 8.4
+    },
+    "245": {
+      "product": "Asiago Ranch Chicken Club",
+      "manufacturer": "Wendy's",
+      "category": "Running On Empty",
+      "videoTitle": "Wendy's Asiago Range Chicken Club - Food Review",
+      "videoCode": "x48n3SXoDkc",
+      "dateReleased": "=new Date(2015, 0, 21)",
+      "rating": 7.8
+    },
+    "246": {
+      "product": "Party Sprinkled Iced Brownies",
+      "manufacturer": "Sara Lee",
+      "category": "Running On Empty",
+      "videoTitle": "Sara Lee Party Sprinkled Iced Brownies - Review",
+      "videoCode": "Q0JQvakYfGo",
+      "dateReleased": "=new Date(2015, 0, 25)",
+      "rating": 9.0
+    },
+    "247": {
+      "product": "Mountain Dew Kickstart Fruit Punch",
+      "manufacturer": "PepsiCo",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #118 Mtn Dew Kickstart",
+      "videoCode":"jvt99GTeueI",
+      "dateReleased": "=new Date(2015, 0, 31)",
+      "rating": 8.3
+    },
+    "248": {
+      "product": "Root 9 Ginseng",
+      "manufacturer": "Root 9",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #119 Root 9 Ginseng",
+      "videoCode":"YrGG1cQTcC4",
+      "dateReleased": "=new Date(2015, 1, 4)",
+      "rating": 8.1
+    },
+    "249": {
+      "product": "Frozen Chicken Sliders",
+      "manufacturer": "White Castle",
+      "category": "Running On Empty",
+      "videoTitle": "White Castle Frozen Chicken Sliders - Food Review",
+      "videoCode": "9Mbnp38GK4Y",
+      "dateReleased": "=new Date(2015, 1, 7)",
+      "rating": 8.1
+    },
+    "250": {
+      "product": "Brownie Chocolate Chip Cakes",
+      "manufacturer": "Sara Lee",
+      "category": "Running On Empty",
+      "videoTitle": "Sara Lee Brownie Chocolate Chip Cakes - Review",
+      "videoCode": "mNnHyhiAjEA",
+      "dateReleased": "=new Date(2015, 1, 13)",
+      "rating": 8.5
+    },
+    "251": {
+      "product": "Triple Cheese Covered Stuffed Crust Pizza",
+      "manufacturer": "Pizza Hut",
+      "category": "Running On Empty",
+      "videoTitle": "Pizza Hut Triple Cheese Covered Stuffed Crust Pizza - Review",
+      "videoCode": "n5V-uJtLlVI",
+      "dateReleased": "=new Date(2015, 1, 17)",
+      "rating": 7.6
+    },
+    "252": {
+      "product": "X-Mode Energy Shots",
+      "manufacturer": "X-Mode",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis, Four Year Anniversary - X-Mode Energy Shots",
+      "videoCode":"lFBvQoCqPco",
+      "dateReleased": "=new Date(2015, 1, 20)",
+      "rating": 9.0
+    },
+    "253": {
+      "product": "Popcorn Nuggets",
+      "manufacturer": "KFC",
+      "category": "Running On Empty",
+      "videoTitle": "KFC Popcorn Nuggets - Running On Empty - Food Review",
+      "videoCode": "qQxM67W8Pzs",
+      "dateReleased": "=new Date(2015, 1, 23)",
+      "rating": 8.7
+    },
+    "254": {
+      "product": "Juice Monster",
+      "manufacturer": "Monster Beverage",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #121 Juice Monster",
+      "videoCode": "_M57tPIOVco",
+      "dateReleased": "=new Date(2015, 1, 27)",
+      "rating": 8.6
+    },
+    "255": {
+      "product": "Wavy Milk Chocolate Chips",
+      "manufacturer": "Lay's",
+      "category": "Running On Empty",
+      "videoTitle": "Lay's Wave Milk Chocolate - Running On Empty - Food Review",
+      "videoCode": "5Q-Wh72iN24",
+      "dateReleased": "=new Date(2015, 2, 3)",
+      "rating": 7.2
+    },
+    "256": {
+      "product": "Supreme Pizza",
+      "manufacturer": "Tony's",
+      "category": "Running On Empty",
+      "videoTitle": "Tony's Supreme Pizza - Running On Empty - Food Review",
+      "videoCode": "uqPTo0Ob2wI",
+      "dateReleased": "=new Date(2015, 2, 7)",
+      "rating": 7.3
+    },
+    "257": {
+      "product": "Monster Unleaded",
+      "manufacturer": "Monster Beverage",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #122 Monster Unleaded",
+      "videoCode": "aNRn7y5fzy8",
+      "dateReleased": "=new Date(2015, 2, 12)",
+      "rating": 8.0
+    },
+    "258": {
+      "product": "Red Velvet's M&M's",
+      "manufacturer": "Nabisco",
+      "category": "Running On Empty",
+      "videoTitle": "Red Velvet M&M's - Running On Empty - Food Review",
+      "videoCode": "lFgpZrns3yY",
+      "dateReleased": "=new Date(2015, 2, 15)",
+      "rating": 8.5
+    },
+    "259": {
+      "product": "Chicken Select Tenders",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "McDonald's Chicken Select Tenders - Running On Empty - Food Review",
+      "videoCode": "mGGrgWMrNpY",
+      "dateReleased": "=new Date(2015, 2, 17)",
+      "rating": 8.5
+    },
+    "260": {
+      "product": "Caffeinated Smart Cookie",
+      "manufacturer": "Get Up & Go",
+      "category": "Running On Empty",
+      "videoTitle": "Get up and & Go, Caffeinated Smart Cookie - Review",
+      "videoCode": "kTq7BlWM0yA",
+      "dateReleased": "=new Date(2015, 2, 22)",
+      "rating": 7.5
+    },
+    "261": {
+      "product": "Singles French Bread Pizza",
+      "manufacturer": "Red Baron",
+      "category": "Running On Empty",
+      "videoTitle": "Red Baron Singles French Bread Pizza - Food Review",
+      "videoCode": "Jv-SMdZ2JEs",
+      "dateReleased": "=new Date(2015, 2, 27)",
+      "rating": 8.1
+    },
+    "262": {
+      "product": "Gone Nutty PB&J Strawberry Pop Tarts",
+      "manufacturer": "Kellogg Company",
+      "category": "Running On Empty",
+      "videoTitle": "Pop Tarts Gone Butty PB&J Strawberry - Food Review",
+      "videoCode": "XCTMh7NvRXI",
+      "dateReleased": "=new Date(2015, 2, 31)",
+      "rating": 7.0
+    },
+    "263": {
+      "product": "Holy Pepperoni Pizza",
+      "manufacturer": "Screamin Sicilian Holy",
+      "category": "Running On Empty",
+      "videoTitle": "Screamin Sicilian Holy Pepperoni Pizza - Food Review",
+      "videoCode": "U5VBRPiaJ6g",
+      "dateReleased": "=new Date(2015, 3, 3)",
+      "rating": 8.4
+    },
+    "264": {
+      "product": "Red Bull Yellow Edition",
+      "manufacturer": "Red Bull GmbH",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #123 Red Bull Yellow Edition",
+      "videoCode": "wwiwiOVSDa4",
+      "dateReleased": "=new Date(2015, 3, 8)",
+      "rating": 7.9
+    },
+    "265": {
+      "product": "Chocolate Chip Crisps",
+      "manufacturer": "Sara Lee",
+      "category": "Running On Empty",
+      "videoTitle": "Sara Lee Chocolate Chip Crisps - Running On Empty - Food Review",
+      "videoCode": "NJgZpyvd6Lg",
+      "dateReleased": "=new Date(2015, 3, 12)",
+      "rating": 7.5
+    },
+    "266": {
+      "product": "Wave Mango Salsa Potato Chips",
+      "manufacturer": "Lay's",
+      "category": "Running On Empty",
+      "videoTitle": "Lay's Wavy Mango Salsa Potatao Chips - Running On Empty - Food Review",
+      "videoCode": "W6DyyLqV7vM",
+      "dateReleased": "=new Date(2015, 3, 17)",
+      "rating": 6.2
+    },
+    "267": {
+      "product": "Sweet N' Spicy BBQ Chicken & Rice Bowl",
+      "manufacturer": "KFC",
+      "category": "Running On Empty",
+      "videoTitle": "KFC Sweet N' Spicy BBQ Chicken & Rice Bowl Review",
+      "videoCode": "AuHg9h6T9Z8",
+      "dateReleased": "=new Date(2015, 3, 20)",
+      "rating": 7.9
+    },
+    "268": {
+      "product": "Brick Oven Crust Pepperoni Pizza",
+      "manufacturer": "Red Baron",
+      "category": "Running On Empty",
+      "videoTitle": "Red Baron Brick Oven Crust Pepperoni Pizza - Food Review",
+      "videoCode": "CG9vdI4o1sY",
+      "dateReleased": "=new Date(2015, 3, 24)",
+      "rating": 7.6
+    },
+    "269": {
+      "product": "Red Bull Orange Edition",
+      "manufacturer": "Red Bull GmbH",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #124 Red Bull Orange Edition",
+      "videoCode": "V2CVI_rlbs0",
+      "dateReleased": "=new Date(2015, 3, 28)",
+      "rating": 6.0
+    },
+    "270": {
+      "product": "Twix Unwrapped Bites",
+      "manufacturer": "Mars Inc.",
+      "category": "Running On Empty",
+      "videoTitle": "Twix Unwrapped Bites - Running On Empty - Food Review",
+      "videoCode": "BzAm10Slo6w",
+      "dateReleased": "=new Date(2015, 4, 2)",
+      "rating": 7.7
+    },
+    "271": {
+      "product": "Artisan Grilled Chicken Sandwich",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "McDonald's Artisan Grilled Chicken Sandwich - Review",
+      "videoCode": "qkjDLafCvRg",
+      "dateReleased": "=new Date(2015, 4, 5)",
+      "rating": 6.5
+    },
+    "272": {
+      "product": "Mountain Dew Kickstart Hydrating Boost Strawberry Kiwi",
+      "manufacturer": "PepsiCo",
+      "category": "Energy Crisis",
+      "videoTitle": "Mtn Dew Kickstart Hydrating Boost Strawberry Kiwi Review",
+      "videoCode":"146r5oLko8w",
+      "dateReleased": "=new Date(2015, 4, 9)",
+      "rating": 8.215
+    },
+    "273": {
+      "product": "French Toast Soft'ees (Plain)",
+      "manufacturer": "Entenmann's",
+      "category": "Running On Empty",
+      "videoTitle": "Entenmann's French Toast Soft'ees (Plain) - Food Review",
+      "videoCode": "mPQy7vftlkO",
+      "dateReleased": "=new Date(2015, 4, 13)",
+      "rating": 7.9
+    },
+    "274": {
+      "product": "Crumb Cakes",
+      "manufacturer": "Sara Lee",
+      "category": "Running On Empty",
+      "videoTitle": "Sara Lee Crumb Cakes - Running On Empty - Food Review",
+      "videoCode": "6xDT6B-hLro",
+      "dateReleased": "=new Date(2015, 4, 19)",
+      "rating": 8.24
+    },
+    "275": {
+      "product": "Pizzeria! Thin, Primo Pepperoni",
+      "manufacturer": "DiGiorno",
+      "category": "Running On Empty",
+      "videoTitle": "DiGiorno Pizzeria! Thin, Primo Pepperoni - Food Review",
+      "videoCode": "p1OktWDrWBU",
+      "dateReleased": "=new Date(2015, 4, 23)",
+      "rating": 7.46
+    },
+    "276": {
+      "product": "Mountain Dew Kickstart Hydrating Boost Pineapple Orange Mango",
+      "manufacturer": "PepsiCo",
+      "category": "Energy Crisis",
+      "videoTitle": "Mtn Dew Kickstart Hydrating Boost Pineapple Orange Mango Review",
+      "videoCode":"zjzj4SbJlXo",
+      "dateReleased": "=new Date(2015, 4, 28)",
+      "rating": 7.6
+    },
+    "277": {
+      "product": "Reese's Peanut Bugger Cup Oreo's",
+      "manufacturer": "Nabisco",
+      "category": "Running On Empty",
+      "videoTitle": "Limited Edition Reese's Peanut Butter Cup Oreos - Review",
+      "videoCode": "ZKrnYiRmmlg",
+      "dateReleased": "=new Date(2014, 5, 2)",
+      "rating": 8.4
+    },
+    "278": {
+      "product": "Italian Favorites Meat Trio",
+      "manufacturer": "Digiorno",
+      "category": "Running On Empty",
+      "videoTitle": "DiGiorno Italian Favorites Meat Trio - Food Review",
+      "videoCode": "QV7AYBX0owQ",
+      "dateReleased": "=new Date(2015, 5, 5)",
+      "rating": 8.5
+    },
+    "279": {
+      "product": "Popchips",
+      "manufacturer": "Popchips",
+      "category": "Running On Empty",
+      "videoTitle": "Popchips - Running On Empty - Food Review",
+      "videoCode": "Hs048WlFclc",
+      "dateReleased": "=new Date(2015, 5, 10)",
+      "rating": 7.0
+    },
+    "280": {
+      "product": "Monster Rehab",
+      "manufacturer": "Monster Beverage",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #127 Monster Rehab",
+      "videoCode": "ijN0BDJlfRA",
+      "dateReleased": "=new Date(2015, 5, 13)",
+      "rating": 8.6
+    },
+    "281": {
+      "product": "Chocolatey Strawberry Pop Tarts",
+      "manufacturer": "Kellogg Company",
+      "category": "Running On Empty",
+      "videoTitle": "Pop Tarts Chocolatey Strawberry - Running On Empty - Food Review",
+      "videoCode": "Spc-joqdXRY",
+      "dateReleased": "=new Date(2015, 5, 16)",
+      "rating": 7.9
+    },
+    "282": {
+      "product": "Red Bull Cherry",
+      "manufacturer": "Red Bull GmbH",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #128 Red Bull Cherry",
+      "videoCode": "_froju9UzW4",
+      "dateReleased": "=new Date(2015, 5, 26)",
+      "rating": 8.8
+    },
+    "283": {
+      "product": "Hot Dog Bites Pizza",
+      "manufacturer": "Pizza Hut",
+      "category": "Running On Empty",
+      "videoTitle": "Pizza Hut Hot Dog Bites Pizza - Food Review",
+      "videoCode": "h3O6D2pAkus",
+      "dateReleased": "=new Date(2015, 5, 29)",
+      "rating": 8.0
+    },
+    "284": {
+      "product": "Baconator Fries",
+      "manufacturer": "Wendy's",
+      "category": "Running On Empty",
+      "videoTitle": "Wendy's Baconator Fries - Running On Empty - Food Review",
+      "videoCode": "iCDYYpL4UNE",
+      "dateReleased": "=new Date(2015, 6, 1)",
+      "rating": 7.5
+    },
+    "285": {
+      "product": "Bacon Club Chalupa",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell Bacon Club Chalupa - Food Review",
+      "videoCode": "9Phd25nRgKI",
+      "dateReleased": "=new Date(2015, 6, 4)",
+      "rating": 7.924
+    },
+    "286": {
+      "product": "Bawls Orange",
+      "manufacturer": "Solvi Acquisition",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #129 Bawls Orange",
+      "videoCode": "sc6PGR0JprU",
+      "dateReleased": "=new Date(2015, 6, 9)",
+      "rating": 8.5221
+    },
+    "287": {
+      "product": "Cheese-N-Pretzel Dippers",
+      "manufacturer": "Little Caesars",
+      "category": "Running On Empty",
+      "videoTitle": "Little Caesars Cheese-N-Pretzel Dippers Food Review",
+      "videoCode": "ff6OK3Y83E4",
+      "dateReleased": "=new Date(2015, 6, 21)",
+      "rating": 8.1
+    },
+    "288": {
+      "product": "Single All-Natural Burger",
+      "manufacturer": "Hardee's",
+      "category": "Running On Empty",
+      "videoTitle": "Haradee's Single All-Natural Burger - Food Review",
+      "videoCode": "b9UA0s7SDEc",
+      "dateReleased": "=new Date(2015, 6, 23)",
+      "rating": 8.5
+    },
+    "289": {
+      "product": "Loaded Italian Sandwich",
+      "manufacturer": "Arby's",
+      "category": "Running On Empty",
+      "videoTitle": "Arby's Loaded Italian Sandwich - Food Review",
+      "videoCode": "uIXsxyfU1gY",
+      "dateReleased": "=new Date(2015, 6, 24)",
+      "rating": 8.427
+    },
+    "290": {
+      "product": "Chicken, Fish, Fries & Hushpuppies",
+      "manufacturer": "Long John Silver's",
+      "category": "Running On Empty",
+      "videoTitle": "Long John Silver's Chicken, Fish, Fries & Hushpuppies Review ",
+      "videoCode": "ZF5HIJk8Ot8",
+      "dateReleased": "=new Date(2015, 6, 27)",
+      "rating": 8.7
+    },
+    "291": {
+      "product": "Monster Ultra Citron",
+      "manufacturer": "Monster Beverage",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #130 Monster Ultra Citron",
+      "videoCode": "GkkEIQEYfDE",
+      "dateReleased": "=new Date(2015, 6, 30)",
+      "rating": 7.6
+    },
+    "292": {
+      "product": "BBQ Beef Brisket on Sourdough",
+      "manufacturer": "Starbucks",
+      "category": "Running On Empty",
+      "videoTitle": "Starbucks BBQ Beef Brisket on Sourdough - Food Review",
+      "videoCode": "fRiwANrzwCI",
+      "dateReleased": "=new Date(2015, 7, 5)",
+      "rating": 6.5
+    },
+    "293": {
+      "product": "5 Hour Energy Berry",
+      "manufacturer": "Living Essentials",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #131 5 Hour Energy Berry",
+      "videoCode": "aRoO8JK7C3k",
+      "dateReleased": "=new Date(2015, 7, 11)",
+      "rating": 7.9
+    },
+    "294": {
+      "product": "Bavarian Pretzel Sticks",
+      "manufacturer": "Super Pretzel",
+      "category": "Running On Empty",
+      "videoTitle": "Super Pretzel Bavarian Pretzel Sticks - Food Review",
+      "videoCode": "sou96Xh4kms",
+      "dateReleased": "=new Date(2015, 7, 15)",
+      "rating": 3.5
     }
   }
 }
