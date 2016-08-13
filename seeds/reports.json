@@ -1495,7 +1495,7 @@
       "product": "Muscle Energy Shake (Coffee)",
       "manufacturer": "Monster Beverage",
       "category": "Energy Crisis",
-      "videoTitle": "Energy Crisis--Energy Drink Review $100 Muscle Monster, Coffee",
+      "videoTitle": "Energy Crisis--Energy Drink Review #100 Muscle Monster, Coffee",
       "videoCode":"qENUTpefEGk",
       "dateReleased": "=new Date(2014, 6, 13)",
       "rating": 8.339
@@ -1517,6 +1517,394 @@
       "videoCode":"3xGKWeWdh2g",
       "dateReleased": "=new Date(2014, 6, 16)",
       "rating": 8.91
+    },
+    "172": {
+      "product": "KFC Bites",
+      "manufacturer": "KFC",
+      "category": "Running On Empty",
+      "videoTitle": "KFC Misc. Items -- Running On Empty -- Food Review",
+      "videoCode":"8GRTzMbGg_8",
+      "dateReleased": "=new Date(2014, 6, 22)",
+      "rating": 5.19
+    },
+    "173": {
+      "product": "KFC Drumsticks",
+      "manufacturer": "KFC",
+      "category": "Running On Empty",
+      "videoTitle": "KFC Misc. Items -- Running On Empty -- Food Review",
+      "videoCode":"8GRTzMbGg_8",
+      "dateReleased": "=new Date(2014, 6, 22)",
+      "rating": 8.06
+    },
+    "174": {
+      "product": "Garlic Wings",
+      "manufacturer": "Planet Wings",
+      "category": "Running On Empty",
+      "videoTitle": "Hot Gourmet Garlic Wings - Planet Wings - Food Review",
+      "videoCode":"R5WUnPjE3Eo",
+      "dateReleased": "=new Date(2014, 6, 25)",
+      "rating": 7.52
+    },
+    "175": {
+      "product": "Double Down",
+      "manufacturer": "KFC",
+      "category": "Running On Empty",
+      "videoTitle": "KFC Double Down - Running On Empty - Food Review",
+      "videoCode":"M_fDDf6w-J0",
+      "dateReleased": "=new Date(2014, 7, 2)",
+      "rating": 5.5
+    },
+    "176": {
+      "product": "Thin Crust",
+      "manufacturer": "Red Baron",
+      "category": "Running On Empty",
+      "videoTitle": "Red Baron Thin Crust - Running On Empty - Food Review",
+      "videoCode":"OyQeNYToxtU",
+      "dateReleased": "=new Date(2014, 7, 8)",
+      "rating": 6.13
+    },
+    "177": {
+      "product": "Cheesy Bites",
+      "manufacturer": "Pizza Hut",
+      "category": "Running On Empty",
+      "videoTitle": "Pizza Hut Cheesy Bites Pizza Review - Running On Empty",
+      "videoCode":"c9NqbslDEeM",
+      "dateReleased": "=new Date(2014, 7, 12)",
+      "rating": 9.34
+    },
+    "178": {
+      "product": "Pretzel Twist",
+      "manufacturer": "Dunkin Donuts",
+      "category": "Running On Empty",
+      "videoTitle": "Dunkin Donuts Pretzel Twist - Running On Empty - Food Review",
+      "videoCode":"xLtIDsMQ7dY",
+      "dateReleased": "=new Date(2014, 7, 14)",
+      "rating": 6.65
+    },
+    "179": {
+      "product": "G SHOT Goji Berries",
+      "manufacturer": "KGC",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #101 G SHOT",
+      "videoCode":"g95vGKMTuE4",
+      "dateReleased": "=new Date(2014, 7, 17)",
+      "rating": 3.2
+    },
+    "180": {
+      "product": "Rising Crust Pizza",
+      "manufacturer": "DiGiorno",
+      "category": "Running On Empty",
+      "videoTitle": "DiGiorno Rising Crust - Running On Empty - Food Review",
+      "videoCode":"HjwpPdKm1hc",
+      "dateReleased": "=new Date(2014, 7, 20)",
+      "rating": 8.0
+    },
+    "181": {
+      "product": "Sambazon",
+      "manufacturer": "Sambazon",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #102 Sambazon",
+      "videoCode":"4ppLF7DL3z8",
+      "dateReleased": "=new Date(2014, 7, 23)",
+      "rating": 7.88
+    },
+    "182": {
+      "product": "Oriental Sesame",
+      "manufacturer": "Planet Wings",
+      "category": "Running On Empty",
+      "videoTitle": "Planet Wings Oriental Sesame - Running On Empty - Food Review",
+      "videoCode":"GVdADF2B3G0",
+      "dateReleased": "=new Date(2014, 7, 24)",
+      "rating": 7.3
+    },
+    "183": {
+      "product": "Pretzel Burger (no sauce)",
+      "manufacturer": "Wendy's",
+      "category": "Running On Empty",
+      "videoTitle": "Wendy's Pretzel Burger REVISITED - Running On Empty - Food Review",
+      "videoCode":"kzWhSw3htGw",
+      "dateReleased": "=new Date(2014, 7, 26)",
+      "rating": 7.6
+    },
+    "184": {
+      "product": "Pizzeria!",
+      "manufacturer": "DiGiorno",
+      "category": "Running On Empty",
+      "videoTitle": "DiGiorno Pizzeria! - Running On Empty - Food Review",
+      "videoCode":"BAf8a4S0tvk",
+      "dateReleased": "=new Date(2014, 7, 28)",
+      "rating": 7.1
+    },
+    "185": {
+      "product": "Classic Crust",
+      "manufacturer": "Red Baron",
+      "category": "Running On Empty",
+      "videoTitle": "Red Baron Classic Crust - Running On Empty - Food Review",
+      "videoCode":"LTdo9_T6AzA",
+      "dateReleased": "=new Date(2014, 7, 30)",
+      "rating": 6.0
+    },
+    "186": {
+      "product": "OverCharge Deliruim XT",
+      "manufacturer": "Overcharged Drink",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #103 OverCharge Deliruim XT",
+      "videoCode":"gNMaQ0PUhP0",
+      "dateReleased": "=new Date(2014, 8, 1)",
+      "rating": 8.3
+    },
+    "187": {
+      "product": "Sweet & Tangy",
+      "manufacturer": "Planet Wings",
+      "category": "Running On Empty",
+      "videoTitle": "Planet Wings Sweet & Tangy - Running On Empty - Food Review",
+      "videoCode":"UDzekekaq9w",
+      "dateReleased": "=new Date(2014, 8, 3)",
+      "rating": 6.5
+    },
+    "188": {
+      "product": "Cheese Stuffed Crust",
+      "manufacturer": "DiGiorno",
+      "category": "Running On Empty",
+      "videoTitle": "DiGiorno Cheese Stuffed Crust - Running On Empty - Food Review",
+      "videoCode":"yQDutEegkQY",
+      "dateReleased": "=new Date(2014, 8, 5)",
+      "rating": 7.8
+    },
+    "189": {
+      "product": "Rising Crust Pizza",
+      "manufacturer": "Freschetta",
+      "category": "Running On Empty",
+      "videoTitle": "Freschetta Rising Crust - Running On Empty - Food Review",
+      "videoCode":"hznxMqabmaU",
+      "dateReleased": "=new Date(2014, 8, 7)",
+      "rating": 7.5
+    },
+    "190": {
+      "product": "GR3EN ENERGY",
+      "manufacturer": "Gr3en Superfood Brew",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #104 GR3EN ENERGY",
+      "videoCode":"3634SfE5nfM",
+      "dateReleased": "=new Date(2014, 8, 9)",
+      "rating": 6.89
+    },
+    "191": {
+      "product": "Pizzeria! (Supreme)",
+      "manufacturer": "DiGiorno",
+      "category": "Running On Empty",
+      "videoTitle": "DiGiorno Pizzeria! (Supreme) - Running On Empty - Food Review",
+      "videoCode":"AE6oyW0LroM",
+      "dateReleased": "=new Date(2014, 8, 12)",
+      "rating": 8.1
+    },
+    "192": {
+      "product": "Original Pizza",
+      "manufacturer": "Tombsotne",
+      "category": "Running On Empty",
+      "videoTitle": "Tombstone Pizza - Running On Empty - Food Review",
+      "videoCode":"5XACPtwzehE",
+      "dateReleased": "=new Date(2014, 8, 13)",
+      "rating": 8.2
+    },
+    "193": {
+      "product": "Design A Pizza Kit",
+      "manufacturer": "DiGiorno",
+      "category": "Running On Empty",
+      "videoTitle": "DiGiorno Design A Pizza Kit, Assembly & Review",
+      "videoCode":"9-bNzG_gVN4",
+      "dateReleased": "=new Date(2014, 8, 15)",
+      "rating": 8.3222222
+    },
+    "194": {
+      "product": "Chicken Fries",
+      "manufacturer": "Burgerking",
+      "category": "Running On Empty",
+      "videoTitle": "Burger King Chicken Fries - Running On Empty - Food Review",
+      "videoCode": "4eEZ51i-H4M",
+      "dateReleased": "=new Date(2014, 8, 17)",
+      "rating": 8.7
+    },
+    "195": {
+      "product": "Chocodile Twinkies",
+      "manufacturer": "Hostess",
+      "category": "Running On Empty",
+      "videoTitle": "Chocodile Twinkies - Running On Empty - Food Review",
+      "videoCode": "M_HMc3Vf9bo",
+      "dateReleased": "=new Date(2014, 8, 20)",
+      "rating": 6.1
+    },
+    "196": {
+      "product": "Jalapeño Double",
+      "manufacturer": "McDonaold's",
+      "category": "Running On Empty",
+      "videoTitle": "McDonald's Jalapeño Double - Running On Empty - Food Review",
+      "videoCode": "SoWsrjgkTmI",
+      "dateReleased": "=new Date(2014, 8, 21)",
+      "rating": 8.0
+    },
+    "197": {
+      "product": "Meatball Marinara",
+      "manufacturer": "DiGiorno",
+      "category": "Running On Empty",
+      "videoTitle": "DiGiorno Metaball Marinara - Running On Empty - Food Review",
+      "videoCode": "39Hf-4M1SgQ",
+      "dateReleased": "=new Date(2014, 8, 24)",
+      "rating": 7.7
+    },
+    "198": {
+      "product": "Chocolate Creme Twinkies",
+      "manufacturer": "Hostess",
+      "category": "Running On Empty",
+      "videoTitle": "Creme Twinkies - Running On Empty - Food Review",
+      "videoCode": "tPBqX4JBwCw",
+      "dateReleased": "=new Date(2014, 8, 26)",
+      "rating": 7.6
+    },
+    "199": {
+      "product": "Rising Crust, Supreme Pizza",
+      "manufacturer": "DiGiorno",
+      "category": "Running On Empty",
+      "videoTitle": "DiGiorno Rising Crust, Supreme - Running On Empty - Food Review",
+      "videoCode": "6_lDGL_4naI",
+      "dateReleased": "=new Date(2014, 8, 28)",
+      "rating": 6.8
+    },
+    "200": {
+      "product": "Java Monster",
+      "manufacturer": "Monster Beverage",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #105 Java Monster",
+      "videoCode":"5A_CQoHO-Lk",
+      "dateReleased": "=new Date(2014, 8, 30)",
+      "rating": 8.25
+    },
+    "201": {
+      "product": "Cookie Dough Oreo's",
+      "manufacturer": "Nabisco",
+      "category": "Running On Empty",
+      "videoTitle": "Cookie Dough Oreo's - Running On Empty - Food Review",
+      "videoCode": "Jur2pkvU8z0",
+      "dateReleased": "=new Date(2014, 9, 2)",
+      "rating": 7.5
+    },
+    "202": {
+      "product": "Rising Crust, Pepperoni & Sausage",
+      "manufacturer": "Freschetta",
+      "category": "Running On Empty",
+      "videoTitle": "Freschetta Rising Crust, Pepperoni & Sausage - Review",
+      "videoCode": "V6eEVQMW0vw",
+      "dateReleased": "=new Date(2014, 9, 4)",
+      "rating": 7.7
+    },
+    "203": {
+      "product": "Mountain Dew Kickstart",
+      "manufacturer": "PepsiCo",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #106 Mtn Dew Kickstart",
+      "videoCode":"Cmidjpjvsd4",
+      "dateReleased": "=new Date(2014, 9, 6)",
+      "rating": 8.5
+    },
+    "204": {
+      "product": "Lemon Pepper Wings",
+      "manufacturer": "Planet Wings",
+      "category": "Running On Empty",
+      "videoTitle": "Planet Wings Lemon Pepper - Running On Empty - Food Review",
+      "videoCode":"q_ap7K_C5dI",
+      "dateReleased": "=new Date(2014, 9, 9)",
+      "rating": 7.74
+    },
+    "205": {
+      "product": "Snack Subscription",
+      "manufacturer": "MunchPak",
+      "category": "Running On Empty",
+      "videoTitle": "MunchPak Snack Subscription - Running On Empty - Food Review",
+      "videoCode":"OnSyGRr0aQY",
+      "dateReleased": "=new Date(2014, 9, 11)",
+      "rating": 9.0
+    },
+    "206": {
+      "product": "Pink Grapefruit",
+      "manufacturer": "Gurrnaid Energy",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #107 Gurrnaid Pink Grapefruit ",
+      "videoCode":"n9roBy7IdR0",
+      "dateReleased": "=new Date(2014, 9, 13)",
+      "rating": 8.9,
+      "effectiveness": 6
+    },
+    "207": {
+      "product": "Thin & Crispy",
+      "manufacturer": "DiGiorno",
+      "category": "Running On Empty",
+      "videoTitle": "DiGiorno Thin & Crispy - Running On Empty - Food Review",
+      "videoCode": "UyupJH8ubEE",
+      "dateReleased": "=new Date(2014, 9, 15)",
+      "rating": 7.8
+    },
+    "208": {
+      "product": "Smoked Gouda Chicken on Brioche",
+      "manufacturer": "Wendy's",
+      "category": "Running On Empty",
+      "videoTitle": "Wendy's Smoked Gouda Chicken on Brioche - Review",
+      "videoCode": "8nEJX42D0bk",
+      "dateReleased": "=new Date(2014, 9, 17)",
+      "rating": 7.0
+    },
+    "209": {
+      "product": "Design A Pizza Kit II",
+      "manufacturer": "DiGiorno",
+      "category": "Running On Empty",
+      "videoTitle": "DiGiorno Design A Pizza Kit, Assembly & Review II",
+      "videoCode":"cswdZjA7x78",
+      "dateReleased": "=new Date(2014, 9, 19)",
+      "rating": 7.5
+    },
+    "210": {
+      "product": "BBQ Pulled Pork Sandwich",
+      "manufacturer": "Wendy's",
+      "category": "Running On Empty",
+      "videoTitle": "Wendy's BBQ Pulled Pork Sandwich - Review",
+      "videoCode": "r9Lre0pMiWc",
+      "dateReleased": "=new Date(2014, 9, 22)",
+      "rating": 8.2
+    },
+    "211": {
+      "product": "Liquid Ice",
+      "manufacturer": "Liquid Management Partners",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #108 Liquid Ice",
+      "videoCode":"tlcsIAS5eEc",
+      "dateReleased": "=new Date(2014, 9, 24)",
+      "rating": 8.8
+    },
+    "212": {
+      "product": "Pepperoni Pizza",
+      "manufacturer": "Ellio's Pizza",
+      "category": "Running On Empty",
+      "videoTitle": "Ellio's Pizza - Running On Empty - Food Review",
+      "videoCode":"XZYu2VkQoPE",
+      "dateReleased": "=new Date(2014, 9, 26)",
+      "rating": 7.7
+    },
+    "213": {
+      "product": "Pepperoni Pizza",
+      "manufacturer": "Newman's Own Pizza",
+      "category": "Running On Empty",
+      "videoTitle": "Newman's Own Pizza - Running On Empty - Food Review",
+      "videoCode":"z91AfZa-itA",
+      "dateReleased": "=new Date(2014, 9, 28)",
+      "rating": 6.4
+    },
+    "214": {
+      "product": "Mango Guava",
+      "manufacturer": "Xenergy",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #109 Xenergy",
+      "videoCode":"n8egz0JaKyk",
+      "dateReleased": "=new Date(2014, 9, 30)",
+      "rating": 7.9
     }
   }
 }
