@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "npm run single",
+    "start": "npm run single && npm run seed",
     "single": "babel-node index.js",
     "clusters": "babel-node clusters.js",
     "seed": "babel-node seed.js",
