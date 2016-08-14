@@ -6,9 +6,9 @@ Basic API to provide information on [The Report Of The Week](https://www.youtube
 
 ### Usage
 
-* Check Status
-  * GET https://report-server.herokuapp.com/reports
-* All reports
+* Check status:
+  * GET https://report-server.herokuapp.com
+* All reports (sorted by date):
   * GET https://report-server.herokuapp.com/reports
 
 ## Development
