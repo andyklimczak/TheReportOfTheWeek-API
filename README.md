@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/andyklimczak/project-x-server.svg?branch=master)](https://travis-ci.org/andyklimczak/project-x-server)
+[![Build Status](https://travis-ci.org/andyklimczak/TheReportOfTheWeek-API.svg?branch=master)](https://travis-ci.org/andyklimczak/TheReportOfTheWeek-API)
 
 # The Report Of The Week API
 
