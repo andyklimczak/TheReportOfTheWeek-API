@@ -18,3 +18,7 @@ Basic API to provide information on [The Report Of The Week](https://www.youtube
 2. __npm install__
 3. __npm start__ will load the data and start the server
 4. __npm test__ will run the tests
+
+### Update data
+
+The json information the server returns is created from seeds/reports.json. Information from new videos needs to be entered manually.
