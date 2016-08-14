@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/andyklimczak/project-x-server.svg?branch=master)](https://travis-ci.org/andyklimczak/project-x-server)
 
-# Report Of The Week API
+# The Report Of The Week API
 
 Basic API to provide information on [The Report Of The Week](https://www.youtube.com/user/TheReportOfTheWeek)
 
