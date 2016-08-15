@@ -21,4 +21,4 @@ Basic API to provide information on [The Report Of The Week](https://www.youtube
 
 ### Update data
 
-The json information the server returns is created from seeds/reports.json. Information from new videos needs to be entered manually.
+The json information the server returns is created from seeds/reports.json. Information from new videos needs to be entered manually. Please feel free to update/append new data !
