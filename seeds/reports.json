@@ -4091,6 +4091,33 @@
       "videoCode": "g9XQ8KAdze4",
       "dateReleased": "=new Date(2016, 7, 15)",
       "rating": 7.7
+    },
+    "458": {
+      "product": "Daytona Beach Style Wings",
+      "manufacturer": "Hooters",
+      "category": "Running On Empty",
+      "videoTitle": "Hooters Daytona Beach Style Wings - Review",
+      "videoCode": "-9k1l2duP_g",
+      "dateReleased": "=new Date(2016, 7, 17)",
+      "rating": 7.6
+    },
+    "459": {
+      "product": "General Tso's Chicken",
+      "manufacturer": "Panda Express",
+      "category": "Running On Empty",
+      "videoTitle": "Panda Express General Tso's Chicken - Review",
+      "videoCode": "yXp95dbMsiY",
+      "dateReleased": "=new Date(2016, 7, 19)",
+      "rating": 7.5
+    },
+    "460": {
+      "product": "Hot-N-Ready Caeser Wings",
+      "manufacturer": "Little Caesars",
+      "category": "Running On Empty",
+      "videoTitle": "Little Caesars Hot-N-Ready Caesar Wings - Review",
+      "videoCode": "Jf4g1QcVRTU",
+      "dateReleased": "=new Date(2016, 7, 23)",
+      "rating": 4.7
     }
   }
 }
