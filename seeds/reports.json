@@ -4129,13 +4129,22 @@
       "rating": 7.0
     },
     "462": {
-      "product": "$5 Bonafide Bix Box",
+      "product": "$5 Bonafide Big Box",
       "manufacturer": "Popeyes",
       "category": "Running On Empty",
       "videoTitle": "Popeyes $5 Bonafide Big Box - Review",
       "videoCode": "nIybtGZ9JE8",
       "dateReleased": "=new Date(2016, 7, 30)",
       "rating": 8.7
+    },
+    "463": {
+      "product": "Cheesy Core Burrito",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell Spicy Cheesy Core Burrito - Review",
+      "videoCode": "Uy5RD9DPjuw",
+      "dateReleased": "=new Date(2016, 8, 2)",
+      "rating": 8.35
     }
   }
 }
