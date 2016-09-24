@@ -4145,6 +4145,15 @@
       "videoCode": "Uy5RD9DPjuw",
       "dateReleased": "=new Date(2016, 8, 2)",
       "rating": 8.35
+    },
+    "464": {
+      "product": "Sonic Cherry Limeade",
+      "manufacturer": "Sonic",
+      "category": "Drink Review",
+      "videoTitle": "Sonic Cherry Limeade - Drink Review",
+      "videoCode": "Ogvts2wVW-M",
+      "dateReleased": "=new Date(2016, 8, 4)",
+      "rating": 8
     }
   }
 }
