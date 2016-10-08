@@ -4154,6 +4154,15 @@
       "videoCode": "Ogvts2wVW-M",
       "dateReleased": "=new Date(2016, 8, 4)",
       "rating": 8
+    },
+    "465": {
+      "product": "Chicken Littles",
+      "manufacturer": "KFC",
+      "category": "Running on Empty",
+      "videoTitle": "KFC Chicken Littles - Food Review",
+      "videoCode": "S8ZiY8doLV4",
+      "dateReleased": "=new Date(2016, 8, 7)",
+      "rating": 4.1
     }
   }
 }
