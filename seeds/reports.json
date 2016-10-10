@@ -4163,6 +4163,15 @@
       "videoCode": "S8ZiY8doLV4",
       "dateReleased": "=new Date(2016, 8, 7)",
       "rating": 4.1
+    },
+    "466": {
+      "product": "M-100",
+      "manufacturer": "Monster Beverages",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #153 Monster M-100",
+      "videoCode":"3FjH4Q0tPow",
+      "dateReleased": "=new Date(2016, 8, 9)",
+      "rating": 5.2
     }
   }
 }
