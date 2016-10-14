@@ -4172,6 +4172,15 @@
       "videoCode":"3FjH4Q0tPow",
       "dateReleased": "=new Date(2016, 8, 9)",
       "rating": 5.2
+    },
+    "467": {
+      "product": "Cheetos Chicken Fries",
+      "manufacturer": "Burger King",
+      "category": "Running on Empty",
+      "videoTitle": "Burger King Cheetos Chicken Fries - Food Review",
+      "videoCode": "fOnsK6Vu7U4",
+      "dateReleased": "=new Date(2016, 8, 14)",
+      "rating": 7.1
     }
   }
 }
