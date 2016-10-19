@@ -4181,6 +4181,123 @@
       "videoCode": "fOnsK6Vu7U4",
       "dateReleased": "=new Date(2016, 8, 14)",
       "rating": 7.1
+    },
+    "468": {
+      "product": "Habanero Quesarito",
+      "manufacturer": "Taco Bell",
+      "category": "Running on Empty",
+      "videoTitle": "Taco Bell Cheddar Habanero Quesarito",
+      "videoCode": "6oprSm48hzI",
+      "dateReleased": "=new Date(2016, 8, 16)",
+      "rating": 8.0
+    },
+    "469": {
+      "product": "Airheads White Mystery Freeze",
+      "manufacturer": "Taco Bell",
+      "category": "Drink Review",
+      "videoTitle": "Taco Bell Airheads White Mystery Freeze",
+      "videoCode": "62uqEHhLBqU",
+      "dateReleased": "=new Date(2016, 8, 19)",
+      "rating": 8.31
+    },
+    "470": {
+      "product": "Grilled Cheese Stuffed Crust Pizza",
+      "manufacturer": "Pizza Hut",
+      "category": "Running on Empty",
+      "videoTitle": "Pizza Hut Grilled Cheese Stuffed Crust Pizza - Review",
+      "videoCode": "Gq_JgnoOCCU",
+      "dateReleased": "=new Date(2016, 8, 21)",
+      "rating": 4.2
+    },
+    "471": {
+      "product": "Original Glazed Doughnut",
+      "manufacturer": "Krispy Kreme",
+      "category": "Running on Empty",
+      "videoTitle": "Krispy Kreme Original Glazed Doughnut - Review",
+      "videoCode": "8f8UjRr9yqc",
+      "dateReleased": "=new Date(2016, 8, 23)",
+      "rating": 9.17
+    },
+    "472": {
+      "product": "Smokehouse Pork Belly Sandwich",
+      "manufacturer": "Arby's",
+      "category": "Running on Empty",
+      "videoTitle": "Arby's Smokehouse Pork Belly Sandwich - Review",
+      "videoCode": "xfY9Kia7YiA",
+      "dateReleased": "=new Date(2016, 8, 24)",
+      "rating": 7.0
+    },
+    "473": {
+      "product": "Pizza",
+      "manufacturer": "McDonald's",
+      "category": "Running on Empty",
+      "videoTitle": "McDonald's Pizza - Food Review",
+      "videoCode": "BalhiByCRTQ",
+      "dateReleased": "=new Date(2016, 8, 26)",
+      "rating": 9.0
+    },
+    "474": {
+      "product": "Fiery Cheeseburger",
+      "manufacturer": "Sonic",
+      "category": "Running on Empty",
+      "videoTitle": "Sonic Fiery Cheeseburger - Food Review",
+      "videoCode": "1x_ZNiLgMVw",
+      "dateReleased": "=new Date(2016, 8, 28)",
+      "rating": 6.2
+    },
+    "475": {
+      "product": "Sweet & Spicy Chicken Bites & Fries Box",
+      "manufacturer": "Checkers",
+      "category": "Running on Empty",
+      "videoTitle": "Checkers Sweet & Spicy Chicken Bites & Fries Box - Review",
+      "videoCode": "VR1jIEd7JEc",
+      "dateReleased": "=new Date(2016, 8, 30)",
+      "rating": 7.6
+    },
+    "476": {
+      "product": "BBQ Pulled Pork Sandwich",
+      "manufacturer": "Sonny's",
+      "category": "Running on Empty",
+      "videoTitle": "Sonny's BBQ Pulled Pork Sandwich - Review",
+      "videoCode": "UFeQNAo22JM",
+      "dateReleased": "=new Date(2016, 9, 2)",
+      "rating": 8.8
+    },
+    "477": {
+      "product": "Pan Pizza",
+      "manufacturer": "Papa John's",
+      "category": "Running on Empty",
+      "videoTitle": "Papa John's Pan Pizza - Review",
+      "videoCode": "UIPy0V-Aq8Q",
+      "dateReleased": "=new Date(2016, 9, 6)",
+      "rating": 8.1
+    },
+    "478": {
+      "product": "Nashville Hot Chicken Littles",
+      "manufacturer": "KFC",
+      "category": "Running on Empty",
+      "videoTitle": "KFC Nashville Hot Chicken Littles - Food Review",
+      "videoCode": "9TBDyg92I6E",
+      "dateReleased": "=new Date(2016, 9, 10)",
+      "rating": 7.1
+    },
+    "479": {
+      "product": "Bacon King Sandwich",
+      "manufacturer": "Burger King",
+      "category": "Running on Empty",
+      "videoTitle": "Burger King Bacon King Sandwich - Food Review",
+      "videoCode": "rg-v2sXp3XE",
+      "dateReleased": "=new Date(2016, 9, 12)",
+      "rating": 3.0
+    },
+    "480": {
+      "product": "Beefy Nacho Griller",
+      "manufacturer": "Taco Bell",
+      "category": "Running on Empty",
+      "videoTitle": "Taco Bell Beefy Nacho Griller - Food Review",
+      "videoCode": "NiA3CiQ7l4A",
+      "dateReleased": "=new Date(2016, 9, 15)",
+      "rating": 8.6
     }
   }
 }
