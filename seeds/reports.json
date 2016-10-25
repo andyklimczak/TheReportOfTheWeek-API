@@ -4298,6 +4298,15 @@
       "videoCode": "NiA3CiQ7l4A",
       "dateReleased": "=new Date(2016, 9, 15)",
       "rating": 8.6
+    },
+    "481": {
+      "product": "Swiss Junior Bacon Cheeseburger",
+      "manufacturer": "Wendy's",
+      "category": "Running on Empty",
+      "videoTitle": "Wendy's Swiss Junior Bacon Cheeseburger",
+      "videoCode": "ovtZjUa22Rc",
+      "dateReleased": "=new Date(2016, 9, 18)",
+      "rating": 8.9
     }
   }
 }
