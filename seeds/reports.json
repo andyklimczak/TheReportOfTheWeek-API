@@ -4307,6 +4307,15 @@
       "videoCode": "ovtZjUa22Rc",
       "dateReleased": "=new Date(2016, 9, 18)",
       "rating": 8.9
+    },
+    "482": {
+      "product": "Tuscan Style Chicken Pizza",
+      "manufacturer": "DiGiorno Pizzeria!",
+      "category": "Running on Empty",
+      "videoTitle": "DiGiorno Pizzeria! Tuscan Style Chicken Pizza - Review",
+      "videoCode": "h9kPWPd28SY",
+      "dateReleased": "=new Date(2016, 9, 20)",
+      "rating": 7.6
     }
   }
 }
