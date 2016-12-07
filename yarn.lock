@@ -1720,9 +1720,9 @@ mocha@^3.0.2:
     mkdirp "0.5.1"
     supports-color "3.1.2"
 
-mongo-querystring@^4.0.2:
-  version "4.0.2"
-  resolved "https://registry.yarnpkg.com/mongo-querystring/-/mongo-querystring-4.0.2.tgz#9901335865f89f579fef86ab43595ebbfd0ef90e"
+mongo-querystring@^4.1.0:
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/mongo-querystring/-/mongo-querystring-4.1.0.tgz#03015e793e8b15eb1da833fd21d2935a1f997776"
 
 mongodb-core@2.0.12:
   version "2.0.12"

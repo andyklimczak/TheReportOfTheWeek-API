@@ -21,7 +21,7 @@
     "cors": "^2.7.1",
     "express": "^4.13.4",
     "helmet": "^2.1.1",
-    "mongo-querystring": "^4.0.2",
+    "mongo-querystring": "^4.1.0",
     "mongoose": "^4.4.10",
     "mongoose-seeder": "^1.2.1"
   },
