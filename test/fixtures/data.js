@@ -5,8 +5,7 @@ module.exports = [
     "category": "Energy Crisis",
     "videoTitle": "Energy Crisis--Energy Drink Review",
     "videoCode":"wyD3nCv_emI",
-    "dateReleased": "=new Date(2011, 1, 20)",
-    "dateReleased": "2011-1-20",
+    "dateReleased": new Date(2011, 1, 20),
     "rating": 7
   },
   {
@@ -15,7 +14,7 @@ module.exports = [
     "category": "Energy Crisis",
     "videoTitle": "Energy Crisis--Energy Drink Review #2",
     "videoCode":"a6wTeej6BB8",
-    "dateReleased": "2012-1-27"
+    "dateReleased": new Date(2012, 1, 27)
   },
   {
     "product": "Fuel",
@@ -23,7 +22,7 @@ module.exports = [
     "category": "Energy Crisis",
     "videoTitle": "Energy Crisis--Energy Drink Review #3",
     "videoCode":"u4-hgegFMg8",
-    "dateReleased": "2013-2-6",
+    "dateReleased": new Date(2013, 2, 6),
     "rating": 2
   },
   {
@@ -32,7 +31,7 @@ module.exports = [
     "category": "Running On Empty",
     "videoTitle": "Taco Bell Steak and Potato BOSS Wrap - Food Review",
     "videoCode": "5o67NY6m0G0",
-    "dateReleased": "2014-9-29",
+    "dateReleased": new Date(2014, 9, 29),
     "rating": 6.8
   },
   {
@@ -41,7 +40,7 @@ module.exports = [
     "category": "Running On Empty",
     "videoTitle": "Burger King Buffalo Chicken Fries - Food Review",
     "videoCode": "lMChZUVioHc",
-    "dateReleased": "2015-10-2",
+    "dateReleased": new Date(2015, 10, 2),
     "rating": 7.5
   }
 ];
