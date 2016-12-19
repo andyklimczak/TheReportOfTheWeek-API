@@ -9,7 +9,7 @@ module.exports = app => {
         between: 'dateReleased'
       }
     });
-    Report.find(qs.parse(req.query)).sort('dateReleased').exec((error, reports) => {
+    Report.find(qs.parse(req.query)).sort('dateReleased').lean().exec((error, reports) => {
       if(error) {
         res.status(412).json({msg: error.message});
       } else {
