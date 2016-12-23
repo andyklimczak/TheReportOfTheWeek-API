@@ -4316,6 +4316,15 @@
       "videoCode": "h9kPWPd28SY",
       "dateReleased": "=new Date(2016, 9, 20)",
       "rating": 7.6
+    },
+    "483": {
+      "product": "Cool Habanero Double Stacked Taco",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell Cool Habanero Double Stacked Taco - Review",
+      "videoCode": "Z55gNYbOvpU",
+      "dateReleased": "=new Date(2016, 11, 22)",
+      "rating": 9.5
     }
   }
 }
