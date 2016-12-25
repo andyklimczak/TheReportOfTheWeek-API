@@ -4334,6 +4334,24 @@
       "videoCode": "e0Lep73jxrU",
       "dateReleased": "=new Date(2016, 11, 17)",
       "rating": 8.5
+    },
+    "485": {
+      "product": "A.M. Crunchwrap",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell A.M. Crunchwrap - Review",
+      "videoCode": "9JTBEzwUgi0",
+      "dateReleased": "=new Date(2016, 11, 15)",
+      "rating": 8.3
+    },
+    "486": {
+      "product": "Pokémon GO Frappuccino",
+      "manufacturer": "Starbucks",
+      "category": "Review",
+      "videoTitle": "Starbucks Pokémon GO Frappuccino - Drink Review",
+      "videoCode": "DuauSta4kHw",
+      "dateReleased": "=new Date(2016, 11, 10)",
+      "rating": 7.9
     }
   }
 }
