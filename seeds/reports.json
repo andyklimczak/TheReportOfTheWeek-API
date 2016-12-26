@@ -4318,33 +4318,204 @@
       "rating": 7.6
     },
     "483": {
-      "product": "Cool Habanero Double Stacked Taco",
+      "product": "Rolled Chicken Tacos",
       "manufacturer": "Taco Bell",
       "category": "Running On Empty",
-      "videoTitle": "Taco Bell Cool Habanero Double Stacked Taco - Review",
-      "videoCode": "Z55gNYbOvpU",
-      "dateReleased": "=new Date(2016, 11, 22)",
-      "rating": 9.5
+      "videoTitle": "Taco Bell Rolled Chicken Tacos - Review",
+      "videoCode": "CIO3SO2mW9g",
+      "dateReleased": "=new Date(2016, 9, 21)",
+      "rating": 7.9
     },
     "484": {
-      "product": "Hot Honey Boneless Wings",
-      "manufacturer": "Sonic",
-      "category": "Running On Empty",
-      "videoTitle": "Sonic Hot Honey Boneless Wings - Review",
-      "videoCode": "e0Lep73jxrU",
-      "dateReleased": "=new Date(2016, 11, 17)",
+      "product": "Mutant Super Soda",
+      "manufacturer": "Monster Beverages",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #153 Monster Mutant Super Soda",
+      "videoCode":"97ZKBeDI5Cg",
+      "dateReleased": "=new Date(2016, 9, 23)",
       "rating": 8.5
     },
     "485": {
-      "product": "A.M. Crunchwrap",
-      "manufacturer": "Taco Bell",
+      "product": "Chicken Fajita Flatbread",
+      "manufacturer": "Arby's",
       "category": "Running On Empty",
-      "videoTitle": "Taco Bell A.M. Crunchwrap - Review",
-      "videoCode": "9JTBEzwUgi0",
-      "dateReleased": "=new Date(2016, 11, 15)",
-      "rating": 8.3
+      "videoTitle": "Arby's Chicken Fajita Flatbread - Food Review",
+      "videoCode": "fy0MbqYHxj0",
+      "dateReleased": "=new Date(2016, 9, 25)",
+      "rating": 6.0
     },
     "486": {
+      "product": "Budweiser Beer Cheese Bacon Review",
+      "manufacturer": "Hardees",
+      "category": "Running On Empty",
+      "videoTitle": "Hardees Budweiser Beer Cheese Bacon Burger - Review",
+      "videoCode": "dvQwxoZhhz8",
+      "dateReleased": "=new Date(2016, 9, 27)",
+      "rating": 6.1
+    },
+    "487": {
+      "product": "Chicken Fingers & Sauces",
+      "manufacturer": "Steak 'n Shake",
+      "category": "Running On Empty",
+      "videoTitle": "Steak 'n Shake Chicken Fingers & Sauces - Review",
+      "videoCode": "olqzbrzSZUM",
+      "dateReleased": "=new Date(2016, 9, 29)",
+      "rating": 8.5
+    },
+    "488": {
+      "product": "Frappula Crème Frappuccino",
+      "manufacturer": "Starbucks",
+      "category": "Drink Review",
+      "videoTitle": "Starbucks Frappula Crème Frappuccino - Drink Review ",
+      "videoCode": "Q5QzhS6-1tc",
+      "dateReleased": "=new Date(2016, 9, 31)",
+      "rating": 7.3
+    },
+    "489": {
+      "product": "Hushpuppy Butterfly Shrimp",
+      "manufacturer": "Popeyes",
+      "category": "Running On Empty",
+      "videoTitle": "Popeyes Hushpuppy Butterfly Shrimp - Food Review",
+      "videoCode": "_FIl16Dan3Q",
+      "dateReleased": "=new Date(2016, 10, 3)",
+      "rating": 9.7
+    },
+    "490": {
+      "product": "Chicken McNuggets",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "McDonald's Chicken McNugger - Food Review",
+      "videoCode": "YE5ieWJ-GRY",
+      "dateReleased": "=new Date(2016, 10, 5)",
+      "rating": 8.0
+    },
+    "491": {
+      "product": "Raspberry Jelly Doughnut",
+      "manufacturer": "Krispy Kreme",
+      "category": "Running On Empty",
+      "videoTitle": "Krisyp Kreme Raspberry Jelly Doughnut",
+      "videoCode": "VId0DampEjs",
+      "dateReleased": "=new Date(2016, 10, 10)",
+      "rating": 8.3
+    },
+    "492": {
+      "product": "Fried Chicken Biscuit",
+      "manufacturer": "Biscuitville",
+      "category": "Running On Empty",
+      "videoTitle": "Biscuitville Fried Chicken Biscuit",
+      "videoCode": "fYOknhDmczw",
+      "dateReleased": "=new Date(2016, 10, 14)",
+      "rating": 6.3
+    },
+    "493": {
+      "product": "Hot Wings",
+      "manufacturer": "Hooters",
+      "category": "Running On Empty",
+      "videoTitle": "Hooters Hot Wings - Food Review",
+      "videoCode": "tOyGI2O6kXI",
+      "dateReleased": "=new Date(2016, 10, 16)",
+      "rating": 7.3
+    },
+    "494": {
+      "product": "Steakhouse Burrito & new queso sauce",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell Steakhouse Burrito & NEW Queso Sauce - Review",
+      "videoCode": "BEtawq4MnuQ",
+      "dateReleased": "=new Date(2016, 10, 21)",
+      "rating": 8.5
+    },
+    "495": {
+      "product": "New Grand Mac",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "McDonald's NEW Grand Mac - Review",
+      "videoCode": "IravU6BH1-w",
+      "dateReleased": "=new Date(2016, 10, 24)",
+      "rating": 7.0
+    },
+    "496": {
+      "product": "Pepperoni Stuffed Crust Pizza",
+      "manufacturer": "Little Caesars",
+      "category": "Running On Empty",
+      "videoTitle": "Little Caesars Pepperoni Stuffed Pizza",
+      "videoCode": "lthTeZWxiWA",
+      "dateReleased": "=new Date(2016, 10, 26)",
+      "rating": 6.0
+    },
+    "497": {
+      "product": "Pancakes",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "Burger King 89 Cent Pancakes - Food Review",
+      "videoCode": "L6_1vRFtkhc",
+      "dateReleased": "=new Date(2016, 10, 27)",
+      "rating": 8.81
+    },
+    "498": {
+      "product": "Three Cheese Steak Sandwich",
+      "manufacturer": "Arby's",
+      "category": "Running On Empty",
+      "videoTitle": "Arby's Three Cheese Steak Sandwich - Review",
+      "videoCode": "gZEjBECZE-I",
+      "dateReleased": "=new Date(2016, 10, 29)",
+      "rating": 5.2
+    },
+    "499": {
+      "product": "Bacon Sriracha Fries",
+      "manufacturer": "Wendy's",
+      "category": "Running On Empty",
+      "videoTitle": "Wendy's NEW Bacon Sriracha Fries - Review",
+      "videoCode": "8tZJFL9FitQ",
+      "dateReleased": "=new Date(2016, 11, 1)",
+      "rating": 7.1
+    },
+    "500": {
+      "product": "Cheesy Tots",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "Burger King NEW Cheesy Tots - Review",
+      "videoCode": "dPX0wE7MsXI",
+      "dateReleased": "=new Date(2016, 11, 2)",
+      "rating": 6.9
+    },
+    "501": {
+      "product": "Boneless Wing Bash",
+      "manufacturer": "Popeyes",
+      "category": "Running On Empty",
+      "videoTitle": "Popeyes $5 Boneless Wing Bash - Review",
+      "videoCode": "QASObJxTXDo",
+      "dateReleased": "=new Date(2016, 11, 4)",
+      "rating": 8.92
+    },
+    "502": {
+      "product": "Spicy Sriracha Chicken Sandwhich",
+      "manufacturer": "Wendy's",
+      "category": "Running On Empty",
+      "videoTitle": "Wendy's Spicy Sriracha Chicken Sandwich - Review",
+      "videoCode": "a0mK4pQ5k2U",
+      "dateReleased": "=new Date(2016, 11, 6)",
+      "rating": 8.6
+    },
+    "503": {
+      "product": "Pepperoni Pizza",
+      "manufacturer": "Hungry Howies",
+      "category": "Running On Empty",
+      "videoTitle": "Hungry Howie's Pepperoni Pizza - Review",
+      "videoCode": "Mg6Xxw-6KBM",
+      "dateReleased": "=new Date(2016, 11, 8)",
+      "rating": 6.3
+    },
+    "504": {
+      "product": "Pepperoni Pizza",
+      "manufacturer": "Hungry Howies",
+      "category": "Running On Empty",
+      "videoTitle": "Hungry Howie's Pepperoni Pizza - Review",
+      "videoCode": "Mg6Xxw-6KBM",
+      "dateReleased": "=new Date(2016, 11, 8)",
+      "rating": 6.3
+    },
+    "505": {
       "product": "Pokémon GO Frappuccino",
       "manufacturer": "Starbucks",
       "category": "Drink Review",
@@ -4353,7 +4524,43 @@
       "dateReleased": "=new Date(2016, 11, 10)",
       "rating": 7.9
     },
-    "487": {
+    "506": {
+      "product": "Mac Jr.",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "McDonald's NEW Mac Jr. - Food Review",
+      "videoCode": "4r2pNHFifgY",
+      "dateReleased": "=new Date(2016, 11, 12)",
+      "rating": 8.9
+    },
+    "507": {
+      "product": "A.M. Crunchwrap",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell A.M. Crunchwrap - Review",
+      "videoCode": "9JTBEzwUgi0",
+      "dateReleased": "=new Date(2016, 11, 15)",
+      "rating": 8.3
+    },
+    "508": {
+      "product": "Hot Honey Boneless Wings",
+      "manufacturer": "Sonic",
+      "category": "Running On Empty",
+      "videoTitle": "Sonic Hot Honey Boneless Wings - Review",
+      "videoCode": "e0Lep73jxrU",
+      "dateReleased": "=new Date(2016, 11, 17)",
+      "rating": 8.5
+    },
+    "509": {
+      "product": "Cool Habanero Double Stacked Taco",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell Cool Habanero Double Stacked Taco - Review",
+      "videoCode": "Z55gNYbOvpU",
+      "dateReleased": "=new Date(2016, 11, 22)",
+      "rating": 9.5
+    },
+    "510": {
       "product": "Peppermint Mocha Latte",
       "manufacturer": "Starbucks",
       "category": "Drink Review",
