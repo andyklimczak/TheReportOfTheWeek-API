@@ -4352,6 +4352,15 @@
       "videoCode": "DuauSta4kHw",
       "dateReleased": "=new Date(2016, 11, 10)",
       "rating": 7.9
+    },
+    "487": {
+      "product": "Peppermint Mocha Latte",
+      "manufacturer": "Starbucks",
+      "category": "Drink Review",
+      "videoTitle": "Starbucks Peppermint Mocha Latte - Drink Review",
+      "videoCode": "EQUhGGSn48g",
+      "dateReleased": "=new Date(2016, 11, 24)",
+      "rating": 8.2
     }
   }
 }
