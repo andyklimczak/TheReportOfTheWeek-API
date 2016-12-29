@@ -4568,6 +4568,24 @@
       "videoCode": "EQUhGGSn48g",
       "dateReleased": "=new Date(2016, 11, 24)",
       "rating": 8.2
+    },
+    "511": {
+      "product": "Bacon Chedder Cheesesticks",
+      "manufacturer": "Papa Johns",
+      "category": "Running On Empty",
+      "videoTitle": "Papa Johns Bacon Chedder & Wisconsin Cheesesticks - Review ",
+      "videoCode": "BkjaRbY2Avs",
+      "dateReleased": "=new Date(2016, 11, 27)",
+      "rating": 3
+    },
+    "512": {
+      "product": "Wisconsin Cheesesticks",
+      "manufacturer": "Papa Johns",
+      "category": "Running On Empty",
+      "videoTitle": "Papa Johns Bacon Chedder & Wisconsin Cheesesticks - Review ",
+      "videoCode": "BkjaRbY2Avs",
+      "dateReleased": "=new Date(2016, 11, 27)",
+      "rating": 7
     }
   }
 }
