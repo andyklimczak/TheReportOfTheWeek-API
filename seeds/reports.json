@@ -4586,6 +4586,24 @@
       "videoCode": "BkjaRbY2Avs",
       "dateReleased": "=new Date(2016, 11, 27)",
       "rating": 7
+    },
+    "513": {
+      "product": "Lil' Patty Griller",
+      "manufacturer": "Sonic",
+      "category": "Running On Empty",
+      "videoTitle": "Sonic Lil' Grillers - Food Review",
+      "videoCode": "HCQ0cNd1syE",
+      "dateReleased": "=new Date(2016, 11, 29)",
+      "rating": 8.1
+    },
+    "514": {
+      "product": "Lil' Chicken Griller",
+      "manufacturer": "Sonic",
+      "category": "Running On Empty",
+      "videoTitle": "Sonic Lil' Grillers - Food Review",
+      "videoCode": "HCQ0cNd1syE",
+      "dateReleased": "=new Date(2016, 11, 29)",
+      "rating": 5.4
     }
   }
 }
