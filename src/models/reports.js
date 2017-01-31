@@ -1,4 +1,4 @@
-import mongoose from 'mongoose';
+import mongoose from 'mongoose'
 
 const reportSchema = new mongoose.Schema({
   product: String,
@@ -9,6 +9,6 @@ const reportSchema = new mongoose.Schema({
   dateReleased: Date,
   rating: { type: Number, min: 1, max: 10 },
   effectiveness: Number
-});
+})
 
-module.exports = mongoose.model('Report', reportSchema);
+module.exports = mongoose.model('Report', reportSchema)

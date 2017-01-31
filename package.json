@@ -5,10 +5,11 @@
   "main": "index.js",
   "scripts": {
     "start": "npm run seed && npm run single",
-    "single": "babel-node index.js",
-    "clusters": "babel-node clusters.js",
-    "seed": "babel-node seed.js",
-    "test": "NODE_ENV=test mocha test/**/*.js"
+    "single": "babel-node ./src/index.js",
+    "clusters": "babel-node ./src/clusters.js",
+    "seed": "babel-node seeds/seed.js",
+    "test": "NODE_ENV=test mocha test/**/*.js",
+    "lint": "eslint src test seeds"
   },
   "author": "Andy Klimczak",
   "dependencies": {
@@ -26,8 +27,13 @@
     "mongoose-seeder": "^1.2.1"
   },
   "devDependencies": {
+    "babel-eslint": "^7.1.1",
     "babel-register": "^6.11.6",
     "chai": "^3.5.0",
+    "eslint": "^3.14.1",
+    "eslint-config-standard": "^6.2.1",
+    "eslint-plugin-promise": "^3.4.0",
+    "eslint-plugin-standard": "^2.0.1",
     "mocha": "^3.0.2",
     "supertest": "^2.0.0"
   }

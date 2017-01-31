@@ -4,10 +4,10 @@ describe('Routes: Index', () => {
       request.get('/')
         .expect(200)
         .end((err, res) => {
-          const expected  = {status: 'Report API'};
-          expect(res.body).to.eql(expected);
-          done(err);
-        });
-    });
-  });
-});
+          const expected = {status: 'Report API'}
+          expect(res.body).to.eql(expected)
+          done(err)
+        })
+    })
+  })
+})

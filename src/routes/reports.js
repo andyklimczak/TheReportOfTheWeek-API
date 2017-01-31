@@ -1,5 +1,5 @@
-const Report = require('../models/reports.js');
-const MongoQS = require('mongo-querystring');
+const Report = require('../models/reports.js')
+const MongoQS = require('mongo-querystring')
 
 module.exports = app => {
   app.route('/reports')
@@ -8,13 +8,13 @@ module.exports = app => {
       custom: {
         between: 'dateReleased'
       }
-    });
+    })
     Report.find(qs.parse(req.query)).sort('dateReleased').lean().exec((error, reports) => {
-      if(error) {
-        res.status(412).json({msg: error.message});
+      if (error) {
+        res.status(412).json({msg: error.message})
       } else {
-        res.json(reports);
+        res.json(reports)
       }
-    });
+    })
   })
-};
+}
