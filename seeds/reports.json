@@ -4604,6 +4604,132 @@
       "videoCode": "HCQ0cNd1syE",
       "dateReleased": "=new Date(2016, 11, 29)",
       "rating": 5.4
+    },
+    "515": {
+      "product": "Spicy Sweet Double Stacked Taco",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell Spicy Sweet Double Stacked Taco - Food Review",
+      "videoCode": "1eN2iu-8Tag",
+      "dateReleased": "=new Date(2017, 0, 2)",
+      "rating": 7.5
+    },
+    "516": {
+      "product": "NEW Chicken McGriddle",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "McDonald's NEW Chicken McGriddle - Food Review",
+      "videoCode": "xNyxnZLNwvQ",
+      "dateReleased": "=new Date(2017, 0, 4)",
+      "rating": 6.7
+    },
+    "517": {
+      "product": "Nacho Crunch Double Stacked Taco",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell Nacho Crunch Double Stacked Taco - Food Review",
+      "videoCode": "DVMtah5taYA",
+      "dateReleased": "=new Date(2017, 0, 6)",
+      "rating": 7.0
+    },
+    "518": {
+      "product": "Cinnamon Loaded Crazy Bites",
+      "manufacturer": "Little Caesars",
+      "category": "Running On Empty",
+      "videoTitle": "Little Caesars Cinnamon Loaded Crazy Bites - Review",
+      "videoCode": "ovtiPzEnfoM",
+      "dateReleased": "=new Date(2017, 0, 8)",
+      "rating": 8.8
+    },
+    "519": {
+      "product": "Firecracker Chicken Breast",
+      "manufacturer": "Panda Express",
+      "category": "Running On Empty",
+      "videoTitle": "Panda Express Firecracker Chicken Breat - Review",
+      "videoCode": "jrHrdRbUESc",
+      "dateReleased": "=new Date(2017, 0, 11)",
+      "rating": 7.9
+    },
+    "520": {
+      "product": "BK Joe",
+      "manufacturer": "Burger King",
+      "category": "Drink Review",
+      "videoTitle": "Burger King BK Joe vs. McDonald's McCafé Coffee - Review ",
+      "videoCode": "I2tyhMBmVcU",
+      "dateReleased": "=new Date(2017, 0, 14)",
+      "rating": 7.6
+    },
+    "521": {
+      "product": "McCafé Coffee",
+      "manufacturer": "McDonald's",
+      "category": "Drink Review",
+      "videoTitle": "Burger King BK Joe vs. McDonald's McCafé Coffee - Review ",
+      "videoCode": "I2tyhMBmVcU",
+      "dateReleased": "=new Date(2017, 0, 14)",
+      "rating": 8.6
+    },
+    "522": {
+      "product": "NEW Roadhouse Banconzilla",
+      "manufacturer": "Checkers",
+      "category": "Running On Empty",
+      "videoTitle": "Checkers NEW Roadhouse Baconzilla - Review",
+      "videoCode": "y2khAdUtqTo",
+      "dateReleased": "=new Date(2017, 0, 16)",
+      "rating": 7.3
+    },
+    "523": {
+      "product": "NEW BBQ Bacon King™",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "Burger King NEW BBQ Bacon King™ - Food Review ",
+      "videoCode": "XNcvirByBIE",
+      "dateReleased": "=new Date(2017, 0, 18)",
+      "rating": 2.6
+    },
+    "524": {
+      "product": "Jalapeño McChicken Sandwich",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "McDonald's Jalapeño McChicken Sandwich - Food Review",
+      "videoCode": "aakxseCNfIY",
+      "dateReleased": "=new Date(2017, 0, 21)",
+      "rating": 6.6
+    },
+    "525": {
+      "product": "McChicken Biscuit",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "McDonald's McChicken Biscuit - Food Review",
+      "videoCode": "5Q3rREvapoQ",
+      "dateReleased": "=new Date(2017, 0, 26)",
+      "rating": 6.1
+    },
+    "526": {
+      "product": "Naked Chicken Chalupa",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell Naked Chicken Chalupa - Review",
+      "videoCode": "tnbAtrKrItU",
+      "dateReleased": "=new Date(2017, 0, 27)",
+      "rating": 7.49
+    },
+    "527": {
+      "product": "Georgie Gold Chicken",
+      "manufacturer": "KFC",
+      "category": "Running On Empty",
+      "videoTitle": "KFC Georgia Gold Chicken - Food Review",
+      "videoCode": "-P_Pvo1E5Pc",
+      "dateReleased": "=new Date(2017, 0, 27)",
+      "rating": 7.5
+    },
+    "528": {
+      "product": "Ultimate Meats Pizza",
+      "manufacturer": "Papa Johns",
+      "category": "Running On Empty",
+      "videoTitle": "Papa Johns Ultimate Meats Pizza - Food Review",
+      "videoCode": "ING7_VxVN1c",
+      "dateReleased": "=new Date(2017, 1, 2)",
+      "rating": 8.7
     }
   }
 }
