@@ -4721,6 +4721,132 @@
       "videoCode": "ING7_VxVN1c",
       "dateReleased": "=new Date(2017, 1, 2)",
       "rating": 8.7
+    },
+    "529": {
+      "product": "Bacon Ranch Fries",
+      "manufacturer": "Wendy's",
+      "category": "Running On Empty",
+      "videoTitle": "Wendy's Bacon Ranch Fries - Food Review",
+      "videoCode": "SmpXY-uHmxI",
+      "dateReleased": "=new Date(2017, 1, 5)",
+      "rating": 8.26
+    },
+    "530": {
+      "product": "Jalapeño Chicken Fries",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "Burger King Jalapeño Chicken Fries - Food Review",
+      "videoCode": "u7c2BKaW__g",
+      "dateReleased": "=new Date(2017, 1, 8)",
+      "rating": 8.5
+    },
+    "531": {
+      "product": "Shamrock Shake",
+      "manufacturer": "McDonald's",
+      "category": "Drink Review",
+      "videoTitle": "McDonald's Shamrock Shake - Drink Review",
+      "videoCode": "Yvb5AA4SNA8",
+      "dateReleased": "=new Date(2017, 1, 11)",
+      "rating": 2
+    },
+    "532": {
+      "product": "Heart-Shaped Valentine's Day Pizza",
+      "manufacturer": "Pizza Hut",
+      "category": "Running On Empty",
+      "videoTitle": "Pizza Hut Heart-Shaped Valentine's Day Pizza - Food Review",
+      "videoCode": "x3tk7Y9wWoQ",
+      "dateReleased": "=new Date(2017, 1, 13)",
+      "rating": 7.1
+    },
+    "533": {
+      "product": "Chicken Tender Sub",
+      "manufacturer": "Publix",
+      "category": "Running On Empty",
+      "videoTitle": "Publix Chicken Tender Sub - Food Review",
+      "videoCode": "Kn_3P9YDwJk",
+      "dateReleased": "=new Date(2017, 1, 16)",
+      "rating": 9.5
+    },
+    "534": {
+      "product": "Buffalo Boneless Wings",
+      "manufacturer": "Sonic",
+      "category": "Running On Empty",
+      "videoTitle": "Sonic Buffale Boneless Wings - Food Review",
+      "videoCode": "VnDDnJbQJsM",
+      "dateReleased": "=new Date(2017, 1, 19)",
+      "rating": 8.8
+    },
+    "535": {
+      "product": "Chicken Biscuit",
+      "manufacturer": "Chick-fil-A",
+      "category": "Running On Empty",
+      "videoTitle": "Chick-fil-A Chicken Biscuit - Food Review",
+      "videoCode": "H0i0RaIWkTs",
+      "dateReleased": "=new Date(2017, 1, 22)",
+      "rating": 9.0
+    },
+    "536": {
+      "product": "Hand-Breaded Spicy Chicken Tenders",
+      "manufacturer": "Hardee's",
+      "category": "Running On Empty",
+      "videoTitle": "Hardee's Hand-Breaded Spicy Chicken Tenders - Food Review",
+      "videoCode": "VrWrxWEe08c",
+      "dateReleased": "=new Date(2017, 1, 24)",
+      "rating": 8.3
+    },
+    "537": {
+      "product": "Pancake on a Stick",
+      "manufacturer": "Sonic",
+      "category": "Running On Empty",
+      "videoTitle": "Sonic Pancake on a Stick - Food Review",
+      "videoCode": "68_y89yN4ms",
+      "dateReleased": "=new Date(2017, 1, 27)",
+      "rating": 7.6
+    },
+    "538": {
+      "product": "Smokehouse Pizza",
+      "manufacturer": "Little Caesars",
+      "category": "Running On Empty",
+      "videoTitle": "Little Caesars Smokehouse Pizza - Food Review",
+      "videoCode": "TF01K5vQiKo",
+      "dateReleased": "=new Date(2017, 2, 2)",
+      "rating": 9.2
+    },
+    "539": {
+      "product": "Triple Double Crunchwrap",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell Triple Double Crunchwrap - Food Review",
+      "videoCode": "Od-sF2OnTyM",
+      "dateReleased": "=new Date(2017, 2, 4)",
+      "rating": 9.0
+    },
+    "540": {
+      "product": "NEW Crispy Chicken Sandwich",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "Burger King NEW Crispy Chicken Sandwich - Food Review",
+      "videoCode": "WaGl5Csudf4",
+      "dateReleased": "=new Date(2017, 2, 6)",
+      "rating": 5.5
+    },
+    "541": {
+      "product": "Meat Mountain Sandwich",
+      "manufacturer": "Arby's",
+      "category": "Running On Empty",
+      "videoTitle": "Arby's Meat Mountain Sandwich - Food Review",
+      "videoCode": "iPzb-d9RFFA",
+      "dateReleased": "=new Date(2017, 2, 9)",
+      "rating": 8.5
+    },
+    "541": {
+      "product": "Premium Cod Fillet Fish Sandwich",
+      "manufacturer": "Wendy's",
+      "category": "Running On Empty",
+      "videoTitle": "Wendy's Premium Cod Fillet Fish Sandwich - Food Review",
+      "videoCode": "XDgvpuo-4rE",
+      "dateReleased": "=new Date(2017, 2, 13)",
+      "rating": 7
     }
   }
 }
