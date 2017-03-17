@@ -4847,6 +4847,15 @@
       "videoCode": "XDgvpuo-4rE",
       "dateReleased": "=new Date(2017, 2, 13)",
       "rating": 7
+    },
+    "542": {
+      "product": "Howie Bread",
+      "manufacturer": "Hungry Howie's",
+      "category": "Running On Empty",
+      "videoTitle": "Hungry Howie's Howie Bread - Food Review",
+      "videoCode": "L7slCX25b44",
+      "dateReleased": "=new Date(2017, 2, 16)",
+      "rating": 8.5
     }
   }
 }
