@@ -11,8 +11,8 @@ Basic API to provide information on [The Report Of The Week](https://www.youtube
 * All reports (sorted by date):
   * [GET /reports](https://thereportoftheweek-api.herokuapp.com/reports)
 * Reports by category
-  * [GET /reports?category=Energy Crisis](https://thereportoftheweek-api.herokuapp.com/reports?category=Energy Crisis)
-  * [GET /reports?category=Running On Empty](https://thereportoftheweek-api.herokuapp.com/reports?category=Running On Empty)
+  * [GET /reports?category=Energy Crisis](https://thereportoftheweek-api.herokuapp.com/reports?category=Energy%20Crisis)
+  * [GET /reports?category=Running On Empty](https://thereportoftheweek-api.herokuapp.com/reports?category=Running%20On%20Empty)
 * Reports between certain dates
   * [GET /reports?between=2012-1-1|2013-1-1](https://thereportoftheweek-api.herokuapp.com/reports?between=2012-1-1|2013-1-1)
 
