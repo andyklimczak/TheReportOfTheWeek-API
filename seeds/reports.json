@@ -4856,6 +4856,203 @@
       "videoCode": "L7slCX25b44",
       "dateReleased": "=new Date(2017, 2, 16)",
       "rating": 8.5
+    },
+    "543": {
+      "product": "St. Patrick's Day Green Original Glazed Doughnut",
+      "manufacturer": "Krispy Kreme",
+      "category": "Running On Empty",
+      "videoTitle": "Krispy Kreme St. Patrick's Day Green Original Glazed Doughnut - Review",
+      "videoCode": "ZjYW8A5P-Xc",
+      "dateReleased": "=new Date(2017, 2, 17)",
+      "rating": 9
+    },
+    "544": {
+      "product": "Five Flavor Shrimp",
+      "manufacturer": "Panda Express",
+      "category": "Running On Empty",
+      "videoTitle": "Panda Express Five Flavor Shrimp - Food Review",
+      "videoCode": "XxHYvXCrnQk",
+      "dateReleased": "=new Date(2017, 2, 20)",
+      "rating": 8.6
+    },
+    "545": {
+      "product": "Soft Taco",
+      "manufacturer": "Del Taco",
+      "category": "Running On Empty",
+      "videoTitle": "Del Taco Soft Taco - Food Review",
+      "videoCode": "28trz_8ly0I",
+      "dateReleased": "=new Date(2017, 2, 23)",
+      "rating": 7.1
+    },
+    "546": {
+      "product": "Cheesy Bacon Lil' Doggie",
+      "manufacturer": "Sonic",
+      "category": "Running On Empty",
+      "videoTitle": "Sonic Cheesy Bacon Lil’ Doggie - Food Review",
+      "videoCode": "KihpTE0-xv4",
+      "dateReleased": "=new Date(2017, 2, 26)",
+      "rating": 7
+    },
+    "547": {
+      "product": "Original Hot Wings",
+      "manufacturer": "Wingstop",
+      "category": "Running On Empty",
+      "videoTitle": "Wingstop Original Hot Wings - Food Review",
+      "videoCode": "b4KqAPyAYH8",
+      "dateReleased": "=new Date(2017, 2, 29)",
+      "rating": 8.6
+    },
+    "548": {
+      "product": "Double Pepperoni Pizza",
+      "manufacturer": "Papa John's",
+      "category": "Running On Empty",
+      "videoTitle": "Papa John's Double Pepperoni Pizza - Review",
+      "videoCode": "bf_11eqFAkI",
+      "dateReleased": "=new Date(2017, 3, 2)",
+      "rating": 9.3
+    },
+    "549": {
+      "product": "Honey BBQ Bacon Lil’ Chickie",
+      "manufacturer": "Sonic",
+      "category": "Running On Empty",
+      "videoTitle": "Sonic Honey BBQ Bacon Lil’ Chickie - Food Review",
+      "videoCode": "xd2Ty-reSM4",
+      "dateReleased": "=new Date(2017, 3, 4)",
+      "rating": 7.3
+    },
+    "550": {
+      "product": "NEW Loaded Taco Burrito",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell NEW Loaded Taco Burrito - Food Review",
+      "videoCode": "yaJdtYSH2dQ",
+      "dateReleased": "=new Date(2017, 3, 7)",
+      "rating": 7.6
+    },
+    "551": {
+      "product": "Hot-N-Ready Pepperoni Pizza",
+      "manufacturer": "Little Caesars",
+      "category": "Running On Empty",
+      "videoTitle": "Little Caesars Hot-N-Ready Classic Pepperoni Pizza - Food Review",
+      "videoCode": "iDT5wyZJw5c",
+      "dateReleased": "=new Date(2017, 3, 11)",
+      "rating": 8.7
+    },
+    "552": {
+      "product": "Joker Mad Energy",
+      "manufacturer": "Hansen's Beverages",
+      "category": "Energy Crisis",
+      "videoTitle": "Joker Mad Energy Drink Review - Energy Crisis",
+      "videoCode": "0Nz_KZJcN0o",
+      "dateReleased": "=new Date(2017, 3, 14)",
+      "rating": 8.8
+    },
+    "553": {
+      "product": "Fresh Mozzarella Chicken Sandwich",
+      "manufacturer": "Wendy's",
+      "category": "Running On Empty",
+      "videoTitle": " Wendy's Fresh Mozzarella Chicken Sandwich - Food Review",
+      "videoCode": "kGo-jv6SkF0",
+      "dateReleased": "=new Date(2017, 3, 16)",
+      "rating": 5.6
+    },
+    "554": {
+      "product": "New Steakhouse King",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "Burger King New Steakhouse King - Food Review",
+      "videoCode": "N6hwDVumK1U",
+      "dateReleased": "=new Date(2017, 3, 18)",
+      "rating": 7
+    },
+    "555": {
+      "product": "Zinger Sandwich",
+      "manufacturer": "KFC",
+      "category": "Running On Empty",
+      "videoTitle": "KFC Zinger Sandwich - Food Review",
+      "videoCode": "WthERhzaCQk",
+      "dateReleased": "=new Date(2017, 3, 22)",
+      "rating": 8.1
+    },
+    "556": {
+      "product": "Froot Loops Shake",
+      "manufacturer": "Burger King",
+      "category": "Drink Review",
+      "videoTitle": "Burger King FROOT LOOPS Shake Review ",
+      "videoCode": "AtxO99wtTG4",
+      "dateReleased": "=new Date(2017, 3, 25)",
+      "rating": 9.77
+    },
+    "557": {
+      "product": "Baby Back Rib Burger",
+      "manufacturer": "Hardee's / Carl's Jr.",
+      "category": "Running On Empty",
+      "videoTitle": "Hardee's / Carl's Jr. Baby Back Rib Burger - Food Review",
+      "videoCode": "jDZYP4Xas6o",
+      "dateReleased": "=new Date(2017, 3, 27)",
+      "rating": 7.6
+    },
+    "558": {
+      "product": "Smokehouse Pork Belly Sandwich",
+      "manufacturer": "Arby's",
+      "category": "Running On Empty",
+      "videoTitle": "Arby's Smokehouse Pork Belly Sandwich - Review",
+      "videoCode": "8SMolr3H_nY",
+      "dateReleased": "=new Date(2017, 4, 3)",
+      "rating": 6.5
+    },
+    "559": {
+      "product": "Deluxe Chicken Sandwich",
+      "manufacturer": "Chick-fil-A",
+      "category": "Running On Empty",
+      "videoTitle": "Chick-fil-A Deluxe Chicken Sandwich - Food Review",
+      "videoCode": "wf7m7gOFiMY",
+      "dateReleased": "=new Date(2017, 4, 6)",
+      "rating": 7.2
+    },
+    "560": {
+      "product": "Pepperoni Pizza",
+      "manufacturer": "Hungry Howies",
+      "category": "Running On Empty",
+      "videoTitle": "Hungry Howies and My Fingernails",
+      "videoCode": "t5p8hLxoq5g",
+      "dateReleased": "=new Date(2017, 4, 10)"
+    },
+    "561": {
+      "product": "Naked Chicken Chips",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell Naked Chicken Chips - Food Review",
+      "videoCode": "ajqRtKN1EGM",
+      "dateReleased": "=new Date(2017, 4, 12)",
+      "rating": 8
+    },
+    "562": {
+      "product": "Family Pack",
+      "manufacturer": "MunchPak",
+      "category": "Running On Empty",
+      "videoTitle": "MunchPak Unboxing and Product Review",
+      "videoCode": "2bvx1RhClYY",
+      "dateReleased": "=new Date(2017, 4, 15)",
+      "rating": 9
+    },
+    "563": {
+      "product": "Mac n' Cheetos",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "Burger King Mac n' Cheetos - Food Review ",
+      "videoCode": "OSt4uMRs8dc",
+      "dateReleased": "=new Date(2017, 4, 18)",
+      "rating": 8
+    },
+    "564": {
+      "product": "Bacon 'n Cheese Triple Xtreme Burger",
+      "manufacturer": "Steak 'n Shake",
+      "category": "Running On Empty",
+      "videoTitle": " Steak 'n Shake Bacon 'n Cheese Triple Xtreme Burger - Review",
+      "videoCode": "NAvJeohcCU8",
+      "dateReleased": "=new Date(2017, 4, 21)",
+      "rating": 9.6
     }
   }
 }
