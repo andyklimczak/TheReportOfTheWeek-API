@@ -5053,6 +5053,114 @@
       "videoCode": "NAvJeohcCU8",
       "dateReleased": "=new Date(2017, 4, 21)",
       "rating": 9.6
+    },
+    "565": {
+      "product": "Smokehouse BBQ Chicken Sandwich",
+      "manufacturer": "Chick-fil-A",
+      "category": "Running On Empty",
+      "videoTitle": "Chick-fil-A Smokehouse BBQ Bacon Sandwich - Review",
+      "videoCode": "HXHHQzZ8Oo8",
+      "dateReleased": "=new Date(2017, 4, 27)",
+      "rating": 9.7
+    },
+    "566": {
+      "product": "Maple Bacon Dijon Chicken Sandwich",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "McDonald's Signature Crafted Maple Bacon Dijon Chicken Sandwich - Review",
+      "videoCode": "tWRxV5dOa1U",
+      "dateReleased": "=new Date(2017, 4, 30)",
+      "rating": 1
+    },
+    "567": {
+      "product": "ExtraMostBestest Pizza",
+      "manufacturer": "Little Caesars",
+      "category": "Running On Empty",
+      "videoTitle": "Little Caesars ExtraMostBestest Pizza - Review",
+      "videoCode": "5AxnJ-2icT8",
+      "dateReleased": "=new Date(2017, 5, 1)",
+      "rating": 9.2
+    },
+    "568": {
+      "product": "Cheesy Bites Pizza",
+      "manufacturer": "Pizza Hut",
+      "category": "Running On Empty",
+      "videoTitle": "Pizza Hut Cheesy Bites Pizza - Food Review",
+      "videoCode": "WA51nsSzDas",
+      "dateReleased": "=new Date(2017, 5, 4)",
+      "rating": 8.9
+    },
+    "569": {
+      "product": "Breakfast Quesadilla",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell Breakfast Quesadilla + Breakfast Salsa - Review",
+      "videoCode": "R4vOGYjzhLA",
+      "dateReleased": "=new Date(2017, 5, 8)",
+      "rating": 9.7
+    },
+    "570": {
+      "product": "Breakfast Salsa",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell Breakfast Quesadilla + Breakfast Salsa - Review",
+      "videoCode": "R4vOGYjzhLA",
+      "dateReleased": "=new Date(2017, 5, 8)",
+      "rating": 9.75
+    },
+    "571": {
+      "product": "Sweet & Crunchy Chicken Tenders",
+      "manufacturer": "Popeyes",
+      "category": "Running On Empty",
+      "videoTitle": "Popeyes Sweet & Crunchy Chicken Tenders - Review",
+      "videoCode": "yCMGyJgkiCU",
+      "dateReleased": "=new Date(2017, 5, 15)",
+      "rating": 7.5
+    },
+    "572": {
+      "product": "Bacon Deluxe Burger",
+      "manufacturer": "Culver's",
+      "category": "Running On Empty",
+      "videoTitle": "Culver's Bacon Deluxe Burger - Food Review",
+      "videoCode": "Ut6Cwf3wDIA",
+      "dateReleased": "=new Date(2017, 5, 18)",
+      "rating": 9.4
+    },
+    "573": {
+      "product": "Mushroom & Swiss King",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "Burger King Mushroom & Swiss King - Food Review",
+      "videoCode": "kKH0EHNK_C4",
+      "dateReleased": "=new Date(2017, 5, 20)",
+      "rating": 3
+    },
+    "574": {
+      "product": "New Double Chalupa",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell New Double Chalupa - Food Review",
+      "videoCode": "fQygfZVY4Uw",
+      "dateReleased": "=new Date(2017, 5, 22)",
+      "rating": 8.5
+    },
+    "575": {
+      "product": "Bacon Cheddarburger Pizza",
+      "manufacturer": "Papa John's",
+      "category": "Running On Empty",
+      "videoTitle": "Papa John's Bacon Cheddarburger Pizza - Food Review",
+      "videoCode": "Rz_6XNzxslY",
+      "dateReleased": "=new Date(2017, 5, 25)",
+      "rating": 7
+    },
+    "576": {
+      "product": "Lucky Charms Shake",
+      "manufacturer": "Burger King",
+      "category": "Drink Review",
+      "videoTitle": "Burger King Lucky Charms Shake - Drink Review",
+      "videoCode": "Suhk6i5Eg8Q",
+      "dateReleased": "=new Date(2017, 5, 27)",
+      "rating": 6
     }
   }
 }
