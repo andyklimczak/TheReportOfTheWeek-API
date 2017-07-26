@@ -4,6 +4,19 @@
 
 Basic API to provide information on [The Report Of The Week](https://www.youtube.com/user/TheReportOfTheWeek)
 
+### Example Review
+```json
+{
+    "product": "5 Hour Energy Pomegranate",
+    "manufacturer": "Living Essentials",
+    "category": "Energy Crisis",
+    "videoTitle": "Energy Crisis--Energy Drink Review",
+    "videoCode": "wyD3nCv_emI",
+    "dateReleased": "2011-02-20T00:00:00.000Z",
+    "rating": 7
+}
+```
+
 ### Usage
 
 * Check status:
