@@ -5305,6 +5305,49 @@
       "videoCode": "DnfhD0NG_Cs",
       "dateReleased": "=new Date(2017, 7, 27)",
       "rating": 8.5
+    },
+    "597": {
+      "product": "Backyard BBQ Chicken Pizza",
+      "manufacturer": "Pizza Hut",
+      "category": "Running On Empty",
+      "videoTitle": "Spontaneous Pizza Hut Backyard BBQ Chicken Pizza Review",
+      "videoCode": "2ehc9yzSwz0",
+      "dateReleased": "=new Date(2017, 8, 3)",
+      "rating": 8.95
+    },
+    "598": {
+      "product": "Bacon Angus Cheeseburger",
+      "manufacturer": "Waffle House",
+      "category": "Running On Empty",
+      "videoTitle": "How Waffle House Saved The Day",
+      "videoCode": "xk0lcWWCmcA",
+      "dateReleased": "=new Date(2017, 8, 19)"
+    },
+    "599": {
+      "product": "Waffles and Bacon",
+      "manufacturer": "Waffle House",
+      "category": "Running On Empty",
+      "videoTitle": "How Waffle House Saved The Day",
+      "videoCode": "xk0lcWWCmcA",
+      "dateReleased": "=new Date(2017, 8, 19)"
+    },
+    "600": {
+      "product": "Chicken Biscuit",
+      "manufacturer": "Hardee's",
+      "category": "Running On Empty",
+      "videoTitle": "Hardee's Chicken Biscuit - Food Review",
+      "videoCode": "RsTa6Moh_NM",
+      "dateReleased": "=new Date(2017, 8, 24)",
+      "rating": 9.7
+    },
+    "601": {
+      "product": "1/4 LB Popcorn Chicken",
+      "manufacturer": "Popeyes",
+      "category": "Running On Empty",
+      "videoTitle": "Popeyes 1/4 LB Popcorn Chicken - Food Review",
+      "videoCode": "WY9xOHquZrg",
+      "dateReleased": "=new Date(2017, 8, 26)",
+      "rating": 9
     }
   }
 }
