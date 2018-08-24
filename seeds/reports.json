@@ -5251,6 +5251,60 @@
       "videoCode": "Tcqy5L4zVhs",
       "dateReleased": "=new Date(2017, 6, 31)",
       "rating": 8.6
+    },
+    "591": {
+      "product": "Buffalo Chicken Tender Sub",
+      "manufacturer": "Publix",
+      "category": "Running On Empty",
+      "videoTitle": "Publix Buffalo Chicken Tender Sub - Food Review",
+      "videoCode": "P7TIaltHyd0",
+      "dateReleased": "=new Date(2017, 7, 6)",
+      "rating": 9.6
+    },
+    "592": {
+      "product": "Garlic Parmesan Dunked Chicken Sandwich",
+      "manufacturer": "Sonic",
+      "category": "Running On Empty",
+      "videoTitle": "Sonic Garlic Parmesan Dunked Chicken Sandwich - Food Review",
+      "videoCode": "jTjabK6dHKM",
+      "dateReleased": "=new Date(2017, 7, 8)",
+      "rating": 5
+    },
+    "593": {
+      "product": "Hot Wings",
+      "manufacturer": "Domino's",
+      "category": "Running On Empty",
+      "videoTitle": "Domino's Hot Wings - Food Review",
+      "videoCode": "g99go80HyIk",
+      "dateReleased": "=new Date(2017, 7, 14)",
+      "rating": 9.2
+    },
+    "594": {
+      "product": "Hot Honey Crunch Tenders",
+      "manufacturer": "Popeyes",
+      "category": "Running On Empty",
+      "videoTitle": "Popeyes Hot Honey Crunch Tenders - Food Review",
+      "videoCode": "dzYgjGzwv4U",
+      "dateReleased": "=new Date(2017, 7, 17)",
+      "rating": 8.8
+    },
+    "595": {
+      "product": "Cheesy Tots",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "Burger King Cheesy Tots - Food Review",
+      "videoCode": "xTmnw1EYweo",
+      "dateReleased": "=new Date(2017, 7, 20)",
+      "rating": 7.6
+    },
+    "596": {
+      "product": "Rodeo King Burger",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "Burger King Rodeo King Burger - Food Review",
+      "videoCode": "DnfhD0NG_Cs",
+      "dateReleased": "=new Date(2017, 7, 27)",
+      "rating": 8.5
     }
   }
 }
