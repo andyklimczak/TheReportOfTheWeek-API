@@ -5161,6 +5161,96 @@
       "videoCode": "Suhk6i5Eg8Q",
       "dateReleased": "=new Date(2017, 5, 27)",
       "rating": 6
+    },
+    "581": {
+      "product": "BBQ Bacon Crispy Chicken Sandwich",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "Burger King BBQ Bacon Crispy Chicken Sandwich - Food Review",
+      "videoCode": "Y6w97W90vHg",
+      "dateReleased": "=new Date(2017, 6, 2)",
+      "rating": 0.5
+    },
+    "582": {
+      "product": "Cheddar Biscuit Butterfly Shrimp",
+      "manufacturer": "Popeyes",
+      "category": "Running On Empty",
+      "videoTitle": "Popeyes Cheddar Biscuit Butterfly Shrimp - Food Review",
+      "videoCode": "5d5NJgO38AE",
+      "dateReleased": "=new Date(2017, 6, 4)",
+      "rating": 4.8
+    },
+    "583": {
+      "product": "Parmesan Bread Twists",
+      "manufacturer": "Domino's",
+      "category": "Running On Empty",
+      "videoTitle": "Domino's Parmesan Bread Twists - Food Review",
+      "videoCode": "5h-UN3xmyOI",
+      "dateReleased": "=new Date(2017, 6, 6)",
+      "rating": 7
+    },
+    "584": {
+      "product": "Triple Thick Brown Sugar Bacon BLT",
+      "manufacturer": "Arby's",
+      "category": "Running On Empty",
+      "videoTitle": "Arby's Triple Thick Brown Sugar Bacon BLT - Food Review",
+      "videoCode": "nC-fzkNejpQ",
+      "dateReleased": "=new Date(2017, 6, 9)",
+      "rating": 5
+    },
+    "585": {
+      "product": "Bacon Queso Cheeseburger",
+      "manufacturer": "Wendy's",
+      "category": "Running On Empty",
+      "videoTitle": "Wendy's Bacon Queso Cheeseburger - Food Review",
+      "videoCode": "mM6SUphTT88",
+      "dateReleased": "=new Date(2017, 6, 13)",
+      "rating": 8.4
+    },
+    "586": {
+      "product": "Original Pretzel Dog",
+      "manufacturer": "Sonic",
+      "category": "Running On Empty",
+      "videoTitle": "Sonic Original Pretzel Dog - Food Review",
+      "videoCode": "eorF0Q8yOIM",
+      "dateReleased": "=new Date(2017, 6, 16)",
+      "rating": 8
+    },
+    "587": {
+      "product": "Chicken Poppers",
+      "manufacturer": "Papa John's",
+      "category": "Running On Empty",
+      "videoTitle": "Papa John's Chicken Poppers - Food Review",
+      "videoCode": "sXrMGf99oK0",
+      "dateReleased": "=new Date(2017, 6, 20)",
+      "rating": 8.1
+    },
+    "588": {
+      "product": "Buffalo Chicken Tenders",
+      "manufacturer": "Culver's",
+      "category": "Running On Empty",
+      "videoTitle": "Culver's Buffalo Chicken Tenders - Food Review",
+      "videoCode": "2SOMMNoCESA",
+      "dateReleased": "=new Date(2017, 6, 25)",
+      "rating": 9.38
+    },
+    "589": {
+      "product": "Signature Crafted Sriracha Burger",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "McDonald's Signature Crafted Sriracha Burger - Food Review",
+      "videoCode": "DMcGVjM457w",
+      "dateReleased": "=new Date(2017, 6, 27)",
+      "rating": 4.2
+    },
+    "590": {
+      "product": "Beefy Potato-Rito",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell Beefy Potato-Rito - Food Review",
+      "videoCode": "Tcqy5L4zVhs",
+      "dateReleased": "=new Date(2017, 6, 31)",
+      "rating": 8.6
     }
   }
 }
