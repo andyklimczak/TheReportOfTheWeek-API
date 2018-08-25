@@ -5318,7 +5318,7 @@
     "598": {
       "product": "Bacon Angus Cheeseburger",
       "manufacturer": "Waffle House",
-      "category": "Running On Empty",
+      "category": "Other",
       "videoTitle": "How Waffle House Saved The Day",
       "videoCode": "xk0lcWWCmcA",
       "dateReleased": "=new Date(2017, 8, 19)"
@@ -5326,7 +5326,7 @@
     "599": {
       "product": "Waffles and Bacon",
       "manufacturer": "Waffle House",
-      "category": "Running On Empty",
+      "category": "Other",
       "videoTitle": "How Waffle House Saved The Day",
       "videoCode": "xk0lcWWCmcA",
       "dateReleased": "=new Date(2017, 8, 19)"
@@ -5348,6 +5348,76 @@
       "videoCode": "WY9xOHquZrg",
       "dateReleased": "=new Date(2017, 8, 26)",
       "rating": 9
+    },
+    "602": {
+      "product": "Buttermilk Crispy Tenders",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "McDonald's Buttermilk Crispy Tenders - Food Review",
+      "videoCode": "UN4Kbib0s8c",
+      "dateReleased": "=new Date(2017, 9, 7)",
+      "rating": 9.2
+    },
+    "603": {
+      "product": "Crispy Chicken Quesadilla",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell Crispy Chicken Quesadilla - Food Review",
+      "videoCode": "bhb-m3H5LrQ",
+      "dateReleased": "=new Date(2017, 9, 9)",
+      "rating": 8.7
+    },
+    "604": {
+      "product": "Amtrak Viewliner Roomette",
+      "manufacturer": "Amtrak",
+      "category": "Other",
+      "videoTitle": "My review of the Amtrak Viewliner Roomette (food was amazing)",
+      "videoCode": "6tpmzgmr2Bs",
+      "dateReleased": "=new Date(2017, 9, 14)"
+    },
+    "605": {
+      "product": "Amtrak Signature Steak",
+      "manufacturer": "Amtrak",
+      "category": "Other",
+      "videoTitle": "My review of the Amtrak Viewliner Roomette (food was amazing)",
+      "videoCode": "6tpmzgmr2Bs",
+      "dateReleased": "=new Date(2017, 9, 14)"
+    },
+    "606": {
+      "product": "Spicy Chicken Nuggets",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "Burger King Spicy Chicken Nuggets - Food Review",
+      "videoCode": "deagjmSOFtk",
+      "dateReleased": "=new Date(2017, 9, 17)",
+      "rating": 9
+    },
+    "607": {
+      "product": "Mystery Flavor Oreo Cookies",
+      "manufacturer": "Nabisco",
+      "category": "Running On Empty",
+      "videoTitle": "Mystery Flavor Oreo Cookies - Food Review",
+      "videoCode": "3zYkL54_XiI",
+      "dateReleased": "=new Date(2017, 9, 22)",
+      "rating": 8.4
+    },
+    "608": {
+      "product": "Zombie Frappuccino",
+      "manufacturer": "Starbucks",
+      "category": "Drink Review",
+      "videoTitle": "Starbucks Zombie Frappuccino - Drink Review",
+      "videoCode": "vrrJGXqnPgQ",
+      "dateReleased": "=new Date(2017, 9, 26)",
+      "rating": 8.5
+    },
+    "609": {
+      "product": "Chicken Tenders",
+      "manufacturer": "Wendy's",
+      "category": "Running On Empty",
+      "videoTitle": "Wendy's Chicken Tenders - Food Review",
+      "videoCode": "Sa-KwM2MNtk",
+      "dateReleased": "=new Date(2017, 9, 30)",
+      "rating": 8.6
     }
   }
 }
