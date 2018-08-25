@@ -1360,7 +1360,7 @@
       "product": "Frozen Pizza",
       "manufacturer": "Sbarro",
       "category": "Running On Empty",
-      "videoTitle": "Sbarra Frozen Pizza -- Running On Empty -- Food Review",
+      "videoTitle": "Sbarro Frozen Pizza -- Running On Empty -- Food Review",
       "videoCode":"jUVY1vWmq3Q",
       "dateReleased": "=new Date(2014, 2, 25)",
       "rating": 5
@@ -5418,6 +5418,60 @@
       "videoCode": "Sa-KwM2MNtk",
       "dateReleased": "=new Date(2017, 9, 30)",
       "rating": 8.6
+    },
+    "610": {
+      "product": "Buffalo Chicken Pizza",
+      "manufacturer": "Domino's",
+      "category": "Running On Empty",
+      "videoTitle": "Domino's Buffalo Chicken Pizza - Food Review",
+      "videoCode": "sQUz3Z7NHGI",
+      "dateReleased": "=new Date(2017, 10, 10)",
+      "rating": 7.7
+    },
+    "611": {
+      "product": "Cheddar and Apple Butter Turkey Slider",
+      "manufacturer": "White Castle",
+      "category": "Running On Empty",
+      "videoTitle": "White Castle Cheddar and Apple Butter Turkey Slider - Review",
+      "videoCode": "IGG9pghRxlc",
+      "dateReleased": "=new Date(2017, 10, 14)",
+      "rating": 9
+    },
+    "612": {
+      "product": "Rolled Chicken Tacos (no sauce)",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Trying out Taco Bell's Rolled Chicken Tacos",
+      "videoCode": "_Xs7R4uZ32E",
+      "dateReleased": "=new Date(2017, 10, 20)",
+      "rating": 7.3
+    },
+    "613": {
+      "product": "Rolled Chicken Tacos (with ranch)",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Trying out Taco Bell's Rolled Chicken Tacos",
+      "videoCode": "_Xs7R4uZ32E",
+      "dateReleased": "=new Date(2017, 10, 20)",
+      "rating": 8.6
+    },
+    "614": {
+      "product": "Ultimate Cheesy Crust Pizza",
+      "manufacturer": "Pizza Hut",
+      "category": "Running On Empty",
+      "videoTitle": "Pizza Hut Ultimate Cheesy Crust Pizza - Review",
+      "videoCode": "QvxGI1A3vCE",
+      "dateReleased": "=new Date(2017, 10, 26)",
+      "rating": 9.3
+    },
+    "615": {
+      "product": "New York Style Pepperoni Pizza",
+      "manufacturer": "Sbarro",
+      "category": "Running On Empty",
+      "videoTitle": "Sbarro New York Style Pepperoni Pizza - Food Review",
+      "videoCode": "RnWza5DCYw8",
+      "dateReleased": "=new Date(2017, 10, 28)",
+      "rating": 7.3
     }
   }
 }
