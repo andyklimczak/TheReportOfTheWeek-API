@@ -5472,6 +5472,60 @@
       "videoCode": "RnWza5DCYw8",
       "dateReleased": "=new Date(2017, 10, 28)",
       "rating": 7.3
+    },
+    "616": {
+      "product": "Flamin' Hot Mac n' Cheetos",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "Burger King Flamin' Hot Mac n' Cheetos - Food Review",
+      "videoCode": "Jn1dPnyWuwA",
+      "dateReleased": "=new Date(2017, 11, 3)",
+      "rating": 8.6
+    },
+    "617": {
+      "product": "Christmas Tree Frappuccino",
+      "manufacturer": "Starbucks",
+      "category": "Drink Review",
+      "videoTitle": "Starbucks Christmas Tree Frappuccino - Drink Review",
+      "videoCode": "iBonoqxCL4I",
+      "dateReleased": "=new Date(2017, 11, 7)",
+      "rating": 8
+    },
+    "618": {
+      "product": "Limited Edition Gingerbread Doughnut",
+      "manufacturer": "Krispy Kreme",
+      "category": "Running On Empty",
+      "videoTitle": "Krispy Kreme Limited Edition Gingerbread Doughnut Review",
+      "videoCode": "ddmniIx7D2Q",
+      "dateReleased": "=new Date(2017, 11, 12)",
+      "rating": 6.5
+    },
+    "619": {
+      "product": "JetBlue flight",
+      "manufacturer": "JetBlue",
+      "category": "Other",
+      "videoTitle": "My JetBlue experience",
+      "videoCode": "An6YxxCorhk",
+      "dateReleased": "=new Date(2017, 11, 20)",
+      "rating": 9
+    },
+    "620": {
+      "product": "Hydro Tropical Thunder",
+      "manufacturer": "Monster",
+      "category": "Energy Crisis",
+      "videoTitle": "Monster Hydro Tropical Thunder - Energy Drink Review",
+      "videoCode": "GINghTBVz5c",
+      "dateReleased": "=new Date(2017, 11, 28)",
+      "rating": 6
+    },
+    "621": {
+      "product": "Peppermint Twinkies",
+      "manufacturer": "Hostess",
+      "category": "Running On Empty",
+      "videoTitle": "🔴 Live Peppermint Twinkie Review and Random Talk",
+      "videoCode": "HSFlwlKPNtM",
+      "dateReleased": "=new Date(2017, 11, 31)",
+      "rating": 4.5
     }
   }
 }
