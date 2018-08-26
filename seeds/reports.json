@@ -5526,6 +5526,105 @@
       "videoCode": "HSFlwlKPNtM",
       "dateReleased": "=new Date(2017, 11, 31)",
       "rating": 4.5
+    },
+    "622": {
+      "product": "StackeR",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "The Elusive Taco Bell StackeR Review",
+      "videoCode": "3AMZqjykLus",
+      "dateReleased": "=new Date(2018, 0, 2)",
+      "rating": 8.8
+    },
+    "623": {
+      "product": "Bacon McDouble",
+      "manufacturer": "McDonald’s",
+      "category": "Running On Empty",
+      "videoTitle": "Checking Out the New McDonald’s Dollar Menu",
+      "videoCode": "YiSsAjNtsFc",
+      "dateReleased": "=new Date(2018, 0, 5)",
+      "rating": 6.5
+    },
+    "624": {
+      "product": "Classic Chicken Sandwich",
+      "manufacturer": "McDonald’s",
+      "category": "Running On Empty",
+      "videoTitle": "Checking Out the New McDonald’s Dollar Menu",
+      "videoCode": "YiSsAjNtsFc",
+      "dateReleased": "=new Date(2018, 0, 5)",
+      "rating": 8.3
+    },
+    "625": {
+      "product": "Ghost Pepper Wings",
+      "manufacturer": "Popeyes",
+      "category": "Running On Empty",
+      "videoTitle": "How Spicy are the Ghost Pepper Wings from Popeyes?",
+      "videoCode": "W3YU8AfIiKw",
+      "dateReleased": "=new Date(2018, 0, 11)",
+      "rating": 7.2
+    },
+    "626": {
+      "product": "Fruit Fizz Sparkling Water (Strawberry Peach)",
+      "manufacturer": "Sonic",
+      "category": "Drink Review",
+      "videoTitle": "As If Sonic Didn't Have Enough Drinks Already",
+      "videoCode": "lV2ViiLt1Tk",
+      "dateReleased": "=new Date(2018, 0, 17)",
+      "rating": 7
+    },
+    "627": {
+      "product": "Fruit Fizz Sparkling Water (Mango Lime)",
+      "manufacturer": "Sonic",
+      "category": "Drink Review",
+      "videoTitle": "As If Sonic Didn't Have Enough Drinks Already",
+      "videoCode": "lV2ViiLt1Tk",
+      "dateReleased": "=new Date(2018, 0, 17)",
+      "rating": 4.3
+    },
+    "628": {
+      "product": "Fruit Fizz Sparkling Water (Raspberry Lemon)",
+      "manufacturer": "Sonic",
+      "category": "Drink Review",
+      "videoTitle": "As If Sonic Didn't Have Enough Drinks Already",
+      "videoCode": "lV2ViiLt1Tk",
+      "dateReleased": "=new Date(2018, 0, 17)",
+      "rating": 8.5
+    },
+    "629": {
+      "product": "Banana",
+      "manufacturer": "Chiquita",
+      "category": "Other",
+      "videoTitle": "🔴 Live Stream Reviewbrah Q&A and Misc Talk",
+      "videoCode": "H6OwifpZW-c",
+      "dateReleased": "=new Date(2018, 0, 19)",
+      "rating": 9.4
+    },
+    "630": {
+      "product": "Double Quarter Pound King",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "Will Burger King Redeem Themselves with the Double Quarter Pound King",
+      "videoCode": "p4EF84UtDDE",
+      "dateReleased": "=new Date(2018, 0, 22)",
+      "rating": 8.9
+    },
+    "631": {
+      "product": "Nacho Fries",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Are Taco Bell's Nacho Fries Worth the Hype?",
+      "videoCode": "IBHx9uwCy3w",
+      "dateReleased": "=new Date(2018, 0, 25)",
+      "rating": 9.5
+    },
+    "632": {
+      "product": "Smoky Mountain BBQ Chicken",
+      "manufacturer": "KFC",
+      "category": "Running On Empty",
+      "videoTitle": "Trying Out KFC's New Smoky Mountain BBQ Chicken",
+      "videoCode": "hmjjemb6U_s",
+      "dateReleased": "=new Date(2018, 0, 29)",
+      "rating": 6.8
     }
   }
 }
