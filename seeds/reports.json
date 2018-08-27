@@ -5625,6 +5625,60 @@
       "videoCode": "hmjjemb6U_s",
       "dateReleased": "=new Date(2018, 0, 29)",
       "rating": 6.8
+    },
+    "633": {
+      "product": "Giant 1 Pound Gummy Bear Limited Edition (Blue Raspberry)",
+      "manufacturer": "Maud Borup",
+      "category": "Running On Empty",
+      "videoTitle": "🔴 Saturday Live Stream and I Eat A Giant Gummy Bear",
+      "videoCode": "jjuB_nd6tDE",
+      "dateReleased": "=new Date(2018, 1, 3)",
+      "rating": 8
+    },
+    "634": {
+      "product": "Build Your Own Pizza",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "Vegetarian Pizza from McDonald's is not a Myth",
+      "videoCode": "LpejO1kHoks",
+      "dateReleased": "=new Date(2018, 1, 6)",
+      "rating": 9.3
+    },
+    "635": {
+      "product": "Cherry Mocha",
+      "manufacturer": "Starbucks",
+      "category": "Drink Review",
+      "videoTitle": "Is Starbucks Cherry Mocha the Perfect Valentines Gift?",
+      "videoCode": "b0AJe8oNu0s",
+      "dateReleased": "=new Date(2018, 1, 14)",
+      "rating": 8.5
+    },
+    "636": {
+      "product": "Cheesy Tots (Cold)",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "The Long Awaited Return of the Cheesy Tots!",
+      "videoCode": "_9_a9eHMu78",
+      "dateReleased": "=new Date(2018, 1, 22)",
+      "rating": 1
+    },
+    "637": {
+      "product": "Cheesy Tots (Not Cold)",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "The Long Awaited Return of the Cheesy Tots!",
+      "videoCode": "_9_a9eHMu78",
+      "dateReleased": "=new Date(2018, 1, 22)",
+      "rating": 7
+    },
+    "638": {
+      "product": "Szechuan Sauce",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "How Good is McDonald's New Szechuan Sauce?",
+      "videoCode": "00RpZZThSAs",
+      "dateReleased": "=new Date(2018, 1, 26)",
+      "rating": 9.4
     }
   }
 }
