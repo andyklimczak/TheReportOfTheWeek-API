@@ -5679,6 +5679,50 @@
       "videoCode": "00RpZZThSAs",
       "dateReleased": "=new Date(2018, 1, 26)",
       "rating": 9.4
+    },
+    "639": {
+      "product": "Spicy Crispy Chicken Sandwich",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "Is Burger King's Spicy Crispy Chicken Sandwich Hot Enough?",
+      "videoCode": "1NUesSsTKwY",
+      "dateReleased": "=new Date(2018, 2, 6)",
+      "rating": 8.8
+    },
+    "640": {
+      "product": "Stuffed Crust ExtraMostBestest Pizza",
+      "manufacturer": "Little Caesars",
+      "category": "Running On Empty",
+      "videoTitle": "My Full Analysis of Little Caesars Stuffed Crust Pizza",
+      "videoCode": "DFtTPEwCWSM",
+      "dateReleased": "=new Date(2018, 2, 15)",
+      "rating": 8.5
+    },
+    "641": {
+      "product": "Apple Strawberry Banana Baby Food",
+      "manufacturer": "Gerber",
+      "category": "Running On Empty",
+      "videoTitle": "Gerber Apple Strawberry Banana Baby Food Review",
+      "videoCode": "Gn3uZMqNUUQ",
+      "dateReleased": "=new Date(2018, 2, 19)",
+      "rating": 6.7
+    },
+    "642": {
+      "product": "Crystal Ball Frappuccino",
+      "manufacturer": "Starbucks",
+      "category": "Drink Review",
+      "videoTitle": "What's so special about the Starbucks Crystal Ball Frappuccino?",
+      "videoCode": "IoykfwY_QPs",
+      "dateReleased": "=new Date(2018, 2, 25)",
+      "rating": 9
+    },
+    "643": {
+      "product": "Boarding House Reach",
+      "manufacturer": "Jack White",
+      "category": "Other",
+      "videoTitle": "Nice to meet you Mr. Jack White, now about your new Album...",
+      "videoCode": "2uTabOB3wac",
+      "dateReleased": "=new Date(2018, 2, 29)"
     }
   }
 }
