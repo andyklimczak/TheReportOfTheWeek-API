@@ -5723,6 +5723,41 @@
       "videoTitle": "Nice to meet you Mr. Jack White, now about your new Album...",
       "videoCode": "2uTabOB3wac",
       "dateReleased": "=new Date(2018, 2, 29)"
+    },
+    "644": {
+      "product": "Triple Melt Burrito",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Is Taco Bell's Triple Melt Burrito Worth The Buck?",
+      "videoCode": "qoWylCXNGIU",
+      "dateReleased": "=new Date(2018, 3, 7)",
+      "rating": 7.3
+    },
+    "645": {
+      "product": "Various Zombie Media",
+      "manufacturer": "Various Media Producers",
+      "category": "Other",
+      "videoTitle": "Reviewing Zombie Movies While Sick",
+      "videoCode": "U31cQJLi-mQ",
+      "dateReleased": "=new Date(2018, 3, 11)"
+    },
+    "646": {
+      "product": "Garlic White Cheddar Burger",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "Is McDonald's Garlic White Cheddar Burger Really That Bad?",
+      "videoCode": "2QK6Usg2KT0",
+      "dateReleased": "=new Date(2018, 3, 13)",
+      "rating": 2
+    },
+    "647": {
+      "product": "Spicy Chicken Nuggets",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "Firing It Up With Burger King's Spicy Chicken Nuggets",
+      "videoCode": "pE93PMfhlE4",
+      "dateReleased": "=new Date(2018, 3, 22)",
+      "rating": 8.2
     }
   }
 }
