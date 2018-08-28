@@ -5370,7 +5370,7 @@
     "604": {
       "product": "Amtrak Viewliner Roomette",
       "manufacturer": "Amtrak",
-      "category": "Other",
+      "category": "Travel Review",
       "videoTitle": "My review of the Amtrak Viewliner Roomette (food was amazing)",
       "videoCode": "6tpmzgmr2Bs",
       "dateReleased": "=new Date(2017, 9, 14)"
@@ -5503,7 +5503,7 @@
     "619": {
       "product": "JetBlue flight",
       "manufacturer": "JetBlue",
-      "category": "Other",
+      "category": "Travel Review",
       "videoTitle": "My JetBlue experience",
       "videoCode": "An6YxxCorhk",
       "dateReleased": "=new Date(2017, 11, 20)",
@@ -5719,7 +5719,7 @@
     "643": {
       "product": "Boarding House Reach",
       "manufacturer": "Jack White",
-      "category": "Other",
+      "category": "Music Review",
       "videoTitle": "Nice to meet you Mr. Jack White, now about your new Album...",
       "videoCode": "2uTabOB3wac",
       "dateReleased": "=new Date(2018, 2, 29)"
@@ -5758,6 +5758,76 @@
       "videoCode": "pE93PMfhlE4",
       "dateReleased": "=new Date(2018, 3, 22)",
       "rating": 8.2
+    },
+    "648": {
+      "product": "Stuffed Crust Pan Pizza",
+      "manufacturer": "Pizza Hut",
+      "category": "Running On Empty",
+      "videoTitle": "How Cheesy Is Pizza Hut's Double Cheesy Crust Pizza?",
+      "videoCode": "oUZMSnFE6Gg",
+      "dateReleased": "=new Date(2018, 4, 1)",
+      "rating": 8
+    },
+    "649": {
+      "product": "Spirit of Aloha Dinner Show",
+      "manufacturer": "Disney's Polynesian Village Resort",
+      "category": "Service Review",
+      "videoTitle": "Disney's Spirit of Aloha Dinner Show Review",
+      "videoCode": "AEROtTqmbjg",
+      "dateReleased": "=new Date(2018, 4, 5)",
+      "rating": 6
+    },
+    "650": {
+      "product": "Warheads Super Sour Spray Candy (Apple)",
+      "manufacturer": "Impact Confections",
+      "category": "Running On Empty",
+      "videoTitle": "🔴 Friday Night Live Stream - Q&A, Misc Talk & Possible Review!",
+      "videoCode": "qNrVUksxTPc",
+      "dateReleased": "=new Date(2018, 4, 11)",
+      "rating": 7.5
+    },
+    "651": {
+      "product": "Wild Naked Chicken Chalupa",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "The New Taco Bell Wild Naked Chicken Chalupa Review",
+      "videoCode": "ZXdeulvm9hY",
+      "dateReleased": "=new Date(2018, 4, 14)",
+      "rating": 8
+    },
+    "652": {
+      "product": "Hoop-Dee-Doo Musical Revue",
+      "manufacturer": "Disney's Fort Wilderness Resort",
+      "category": "Service Review",
+      "videoTitle": "My Disney Port Orleans Resort Room Tour and Vacation Review",
+      "videoCode": "Pf8oA6_mH4c",
+      "dateReleased": "=new Date(2018, 4, 17)"
+    },
+    "653": {
+      "product": "Vacation",
+      "manufacturer": "Disney's Port Orleans Resort - Riverside",
+      "category": "Service Review",
+      "videoTitle": "My Disney Port Orleans Resort Room Tour and Vacation Review",
+      "videoCode": "Pf8oA6_mH4c",
+      "dateReleased": "=new Date(2018, 4, 17)"
+    },
+    "654": {
+      "product": "Quarter Pounder with Cheese",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "How Fresh Is McDonald's New Quarter Pounder?",
+      "videoCode": "Fu3xLIFl9Ck",
+      "dateReleased": "=new Date(2018, 4, 19)",
+      "rating": 8.7
+    },
+    "655": {
+      "product": "Blueberry Glazed Doughnut",
+      "manufacturer": "Krispy Kreme",
+      "category": "Running On Empty",
+      "videoTitle": "How Blue Are Krispy Kreme's New Blueberry Glazed Doughnuts?",
+      "videoCode": "G7uOVI_uIwY",
+      "dateReleased": "=new Date(2018, 4, 23)",
+      "rating": 6.2
     }
   }
 }
