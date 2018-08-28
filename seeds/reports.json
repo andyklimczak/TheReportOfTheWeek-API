@@ -5882,6 +5882,78 @@
       "videoCode": "U_OF7R-Ao0s",
       "dateReleased": "=new Date(2018, 5, 26)",
       "rating": 6
+    },
+    "662": {
+      "product": "American Brewhouse King",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "Burger King American Brewhouse King Review!",
+      "videoCode": "Z8gpKkSxtW4",
+      "dateReleased": "=new Date(2018, 6, 2)",
+      "rating": 5
+    },
+    "663": {
+      "product": "Bacon Smokehouse Burger",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "Is McDonald's Bacon Smokehouse Burger Really That Smoky?",
+      "videoCode": "yvckvt6WpKQ",
+      "dateReleased": "=new Date(2018, 6, 5)",
+      "rating": 7
+    },
+    "664": {
+      "product": "Buffalo Chicken Sandwich",
+      "manufacturer": "Wendy's",
+      "category": "Running On Empty",
+      "videoTitle": "Is Wendy's New Buffalo Chicken Sandwich Worth A Dollar?",
+      "videoCode": "eoubWoXzkPE",
+      "dateReleased": "=new Date(2018, 6, 11)",
+      "rating": 6.8
+    },
+    "665": {
+      "product": "Nacho Fries",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Nacho Fries from Taco Bell are Back!",
+      "videoCode": "IjeKbFeBv4Q",
+      "dateReleased": "=new Date(2018, 6, 14)",
+      "rating": 9.5
+    },
+    "666": {
+      "product": "Crispy Chicken Tenders",
+      "manufacturer": "Sonic",
+      "category": "Running On Empty",
+      "videoTitle": "What Happened To Sonic's Crispy Chicken Tenders?",
+      "videoCode": "pNgIOl6sT3g",
+      "dateReleased": "=new Date(2018, 6, 18)",
+      "rating": 5
+    },
+    "667": {
+      "product": "Cheesy Bites Pizza",
+      "manufacturer": "Pizza Hut",
+      "category": "Running On Empty",
+      "videoTitle": "Reviewing My Favorite Pizza (Pizza Hut Cheesy Bites)",
+      "videoCode": "5Vu0IUVBA-A",
+      "dateReleased": "=new Date(2018, 6, 21)",
+      "rating": 9.17
+    },
+    "668": {
+      "product": "Donut Fries",
+      "manufacturer": "Dunkin' Donuts",
+      "category": "Running On Empty",
+      "videoTitle": "I Finally Review Dunkin' Donuts Donut Fries",
+      "videoCode": "Ox-tst9rmFY",
+      "dateReleased": "=new Date(2018, 6, 24)",
+      "rating": 7.26
+    },
+    "669": {
+      "product": "Watermelon Freeze",
+      "manufacturer": "Taco Bell",
+      "category": "Drink Review",
+      "videoTitle": "How Refreshing is Taco Bell's Watermelon Freeze?",
+      "videoCode": "nNJ2sfGiNAc",
+      "dateReleased": "=new Date(2018, 6, 27)",
+      "rating": 7
     }
   }
 }
