@@ -5828,6 +5828,60 @@
       "videoCode": "G7uOVI_uIwY",
       "dateReleased": "=new Date(2018, 4, 23)",
       "rating": 6.2
+    },
+    "656": {
+      "product": "Rip'n Chick'n",
+      "manufacturer": "Popeyes",
+      "category": "Running On Empty",
+      "videoTitle": "Checking Out Popeyes New Rip'n Chick'n!",
+      "videoCode": "bCzfkUppkaw",
+      "dateReleased": "=new Date(2018, 5, 1)",
+      "rating": 7.5
+    },
+    "657": {
+      "product": "Chicken McGriddle",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "Revisiting McDonald's Chicken McGriddle",
+      "videoCode": "9hUc2OPTanc",
+      "dateReleased": "=new Date(2018, 5, 4)",
+      "rating": 8
+    },
+    "658": {
+      "product": "Pretzel Chicken Fries",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "Are Burger King's Pretzel Chicken Fries Any Good?",
+      "videoCode": "GIRbGOEUp0Q",
+      "dateReleased": "=new Date(2018, 5, 9)",
+      "rating": 7
+    },
+    "659": {
+      "product": "Pickle Juice Slush",
+      "manufacturer": "Sonic",
+      "category": "Drink Review",
+      "videoTitle": "I Try Sonic's New Pickle Juice Slush Drink",
+      "videoCode": "3y9atqR6YS4",
+      "dateReleased": "=new Date(2018, 5, 14)",
+      "rating": 8.3
+    },
+    "660": {
+      "product": "The Classic with Bacon",
+      "manufacturer": "IHOP",
+      "category": "Running On Empty",
+      "videoTitle": "IHOb Burger ?",
+      "videoCode": "wkaFMqQzy9A",
+      "dateReleased": "=new Date(2018, 5, 16)",
+      "rating": 8.5
+    },
+    "661": {
+      "product": "Pickle Fried Chicken (Sandwich)",
+      "manufacturer": "KFC",
+      "category": "Running On Empty",
+      "videoTitle": "Pickle Fried Chicken at KFC ?",
+      "videoCode": "U_OF7R-Ao0s",
+      "dateReleased": "=new Date(2018, 5, 26)",
+      "rating": 6
     }
   }
 }
