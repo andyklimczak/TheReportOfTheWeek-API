@@ -93,7 +93,7 @@
       "dateReleased": "=new Date(2011, 3, 30)"
     },
     "11": {
-      "product": "FRS Health Energy Drink Apricote",
+      "product": "FRS Healthy Energy Drink (Apricot Nectarine)",
       "manufacturer": "FRS",
       "category": "Energy Crisis",
       "videoTitle": "Energy Crisis--Energy Drink Review #11",
@@ -264,7 +264,7 @@
     },
     "31": {
       "product": "Foosh Energy Mints",
-      "manufacturer": "VRoom Foods",
+      "manufacturer": "Vroom Foods",
       "category": "Energy Crisis",
       "videoTitle": "Energy Crisis--Energy Drink Review #32",
       "videoCode":"NvKLuSX9z0k",
@@ -346,6 +346,7 @@
     },
     "41": {
       "product": "Java Shot Hopped Up Hazelnut",
+      "manufacturer": "Stacker 2",
       "category": "Energy Crisis",
       "videoTitle": "Energy Crisis--Energy Drink Review #42",
       "videoCode":"WdiKQ0Yv3bU",
@@ -369,7 +370,7 @@
     },
     "44": {
       "product": "McDonalds Cheap Eats",
-      "manufacturer": "McDonalds",
+      "manufacturer": "McDonald's",
       "category": "Running On Empty",
       "videoTitle": "Running On Empty--Food Review--McDonalds",
       "videoCode":"PIRLpUX6QPI",
@@ -378,7 +379,7 @@
     },
     "45": {
       "product": "Zombie Blood Energy Potion",
-      "manufacturer": "Harcos",
+      "manufacturer": "Harcos Labs",
       "category": "Energy Crisis",
       "videoTitle": "Energy Crisis--Energy Drink Review #45",
       "videoCode":"4q6btn3eHuA",
@@ -386,7 +387,7 @@
     },
     "46": {
       "product": "Big Mac",
-      "manufacturer": "McDonalds",
+      "manufacturer": "McDonald's",
       "category": "Running On Empty",
       "videoTitle": "Running On Empty--Food Review--McDonalds Part 2.",
       "videoCode":"0v1EKcKrYQU",
@@ -403,7 +404,7 @@
     },
     "48": {
       "product": "Chicken McBites",
-      "manufacturer": "McDonalds",
+      "manufacturer": "McDonald's",
       "category": "Running On Empty",
       "videoTitle": "Running On Empty--Food Review--McDonalds Part 3.",
       "videoCode":"-n86lWE-wbs",
@@ -412,7 +413,7 @@
     },
     "49": {
       "product": "Monster Absolute Zero",
-      "manufacturer": "Monster Beverages",
+      "manufacturer": "Monster Beverage",
       "category": "Energy Crisis",
       "videoTitle": "Energy Crisis--Energy Drink Review #48",
       "videoCode":"iIQUtxOZbk0",
@@ -420,7 +421,7 @@
     },
     "50": {
       "product": "Angus Bacon and Cheeseburger",
-      "manufacturer": "McDonalds",
+      "manufacturer": "McDonald's",
       "category": "Running On Empty",
       "videoTitle": "Running On Empty--Food Review--McDonalds Part 4.",
       "videoCode":"ggged0zoQLY",
@@ -437,7 +438,7 @@
     },
     "52": {
       "product": "Chicken Selected, Chicken sandwhich, fries",
-      "manufacturer": "McDonalds",
+      "manufacturer": "McDonald's",
       "category": "Running On Empty",
       "videoTitle": "Running On Empty--Food Review--McDonalds Part 5.",
       "videoCode":"3_LdU8UTS-A",
@@ -454,7 +455,7 @@
     },
     "54": {
       "product": "Ranch BLT",
-      "manufacturer": "McDonalds",
+      "manufacturer": "McDonald's",
       "category": "Running On Empty",
       "videoTitle": "Running On Empty--Food Review--McDonalds Part 6.",
       "videoCode":"9Tr_9MqWmOo",
@@ -472,7 +473,7 @@
     },
     "56": {
       "product": "Angus Deluxe Burger",
-      "manufacturer": "McDonalds",
+      "manufacturer": "McDonald's",
       "category": "Running On Empty",
       "videoTitle": "Running On Empty--Food Review--McDonalds Part 7.",
       "videoCode":"gG4XWLfJeDc",
@@ -489,7 +490,7 @@
     },
     "58": {
       "product": "Filet-O-Fish Sandwhich",
-      "manufacturer": "McDonalds",
+      "manufacturer": "McDonald's",
       "category": "Running On Empty",
       "videoTitle": "Running On Empty--Food Review--McDonalds Part 8.",
       "videoCode":"CxrPO_JcKA8",
@@ -514,7 +515,7 @@
     },
     "61": {
       "product": "Angus Deluxe Snack Wrap Combo",
-      "manufacturer": "McDonalds",
+      "manufacturer": "McDonald's",
       "category": "Running On Empty",
       "videoTitle": "Running On Empty--Food Review--McDonalds Part 9.",
       "videoCode":"4erAAzWNOg8",
@@ -523,7 +524,7 @@
     },
     "62": {
       "product": "Rockstar Sugar Free",
-      "manufacturer": "Rockstar Inc",
+      "manufacturer": "Rockstar, Inc",
       "category": "Energy Crisis",
       "videoTitle": "Energy Crisis-Energy Drink Review #55",
       "videoCode":"QnB-kVN-E-Q",
@@ -531,7 +532,7 @@
     },
     "63": {
       "product": "Chicken Snack Wrap & Chicken Sandwich",
-      "manufacturer": "McDonalds",
+      "manufacturer": "McDonald's",
       "category": "Running On Empty",
       "videoTitle": "Running On Empty--Food Review--McDonalds Part 10.",
       "videoCode":"r3RZBCnmoqQ",
@@ -548,7 +549,7 @@
     },
     "65": {
       "product": "Double Quarter Pounder Combo",
-      "manufacturer": "McDonalds",
+      "manufacturer": "McDonald's",
       "category": "Running On Empty",
       "videoTitle": "Running On Empty--Food Review--McDonalds Part 11.",
       "videoCode":"JfJMpjNXvxg",
@@ -589,7 +590,7 @@
     },
     "70": {
       "product": "Monster Energy MIXXD",
-      "manufacturer": "Monster Energy",
+      "manufacturer": "Monster Beverage",
       "category": "Energy Crisis",
       "videoTitle": "Energy Crisis-Energy Drink Review #60",
       "videoCode":"-iYdaodhfzA",
@@ -613,7 +614,7 @@
     },
     "73": {
       "product": "Rockstar Energy Drink Recovery",
-      "manufacturer": "Rockstar Inc",
+      "manufacturer": "Rockstar, Inc",
       "category": "Energy Crisis",
       "videoTitle": "Energy Crisis-Energy Drink Review #64",
       "videoCode":"kZEF5Mr_4D0",
@@ -621,7 +622,7 @@
     },
     "74": {
       "product": "Monster Hitman Energy Shooter",
-      "manufacturer": "Monster Energy",
+      "manufacturer": "Monster Beverage",
       "category": "Energy Crisis",
       "videoTitle": "Energy Crisis-Energy Drink Review #65",
       "videoCode":"TvLox5_C1QQ",
@@ -637,7 +638,7 @@
     },
     "76": {
       "product": "Monster Extra Strength Black Ice",
-      "manufacturer": "Monster Energy",
+      "manufacturer": "Monster Beverage",
       "category": "Energy Crisis",
       "videoTitle": "Energy Crisis-Energy Drink Review #67",
       "videoCode":"tZEUebjQi8k",
@@ -779,7 +780,7 @@
     },
     "92": {
       "product": "Red Bull, The Blue Edition",
-      "manufacturer": "Redbull GmbH",
+      "manufacturer": "Red Bull GmbH",
       "category": "Energy Crisis",
       "videoTitle": "Energy Crisis--Energy Drink Review #76 - Red Bull, The Blue Edition",
       "videoCode":"9n2vcTvCjm8",
@@ -797,7 +798,7 @@
     },
     "94": {
       "product": "Red Bull, Silver Edition",
-      "manufacturer": "Redbull GmbH",
+      "manufacturer": "Red Bull GmbH",
       "category": "Energy Crisis",
       "videoTitle": "Energy Crisis--Energy Drink Review #78 - Red Bull, Silver Edition",
       "videoCode":"RQRBeuA-Izs",
@@ -833,7 +834,7 @@
     },
     "98": {
       "product": "Dripping Strips",
-      "manufacturer": "Digiorno",
+      "manufacturer": "DiGiorno",
       "category": "Running On Empty",
       "videoTitle": "DIGIORNO Dipping Strips -- Running On Empty -- Food Review",
       "videoCode":"gSW5sg2rCL8",
@@ -913,7 +914,7 @@
     },
     "107": {
       "product": "Stuffed Crust Pizza",
-      "manufacturer": "Digiorno",
+      "manufacturer": "DiGiorno",
       "category": "Running On Empty",
       "videoTitle": "DIGIORNO Stuffed Crust -- Running On Empty -- Food Review",
       "videoCode":"o5N57uUFDmE",
@@ -922,7 +923,7 @@
     },
     "108": {
       "product": "Monster DUB Ballers Blend",
-      "manufacturer": "Monster Inc",
+      "manufacturer": "Monster Beverage",
       "category": "Energy Crisis",
       "videoTitle": "Energy Crisis--Energy Drink Review #84 Monster DUB Ballers Blend",
       "videoCode":"Ccuwd12LGQ4",
@@ -949,7 +950,7 @@
     },
     "111": {
       "product": "Monster Ultra Blue",
-      "manufacturer": "Monster Inc",
+      "manufacturer": "Monster Beverage",
       "category": "Energy Crisis",
       "videoTitle": "Energy Crisis--Energy Drink Review #85 Monster Ultra Blue",
       "videoCode":"7VcZSaU5vjQ",
@@ -983,7 +984,7 @@
     },
     "115": {
       "product": "Monster Rehab",
-      "manufacturer": "Monster Inc",
+      "manufacturer": "Monster Beverage",
       "category": "Energy Crisis",
       "videoTitle": "Energy Crisis--Energy Drink Review #86 Monster Rehab",
       "videoCode":"nKha_8vbYj0",
@@ -1008,7 +1009,7 @@
     },
     "118": {
       "product": "Mighty Wings",
-      "manufacturer": "McDonalds",
+      "manufacturer": "McDonald's",
       "category": "Running On Empty",
       "videoTitle": "McDonalds Mighty Wings -- Running On Empty -- Food Review",
       "videoCode":"SpnvjsscQm0",
@@ -1026,7 +1027,7 @@
     },
     "120": {
       "product": "Monster Cuba-Lima",
-      "manufacturer": "Monster Inc",
+      "manufacturer": "Monster Beverage",
       "category": "Energy Crisis",
       "videoTitle": "Energy Crisis--Energy Drink Review #87 Monster Cuba-Lima",
       "videoCode":"h6G-mLoXONw",
@@ -1034,7 +1035,7 @@
     },
     "121": {
       "product": "Pizza",
-      "manufacturer": "Papa Johns",
+      "manufacturer": "Papa John's",
       "category": "Running On Empty",
       "videoTitle": "Papa Johns Pizza & Cookie -- Running On Empty -- Food Review",
       "videoCode":"-CdOHVU5h00",
@@ -1043,7 +1044,7 @@
     },
     "122": {
       "product": "Cookie",
-      "manufacturer": "Papa Johns",
+      "manufacturer": "Papa John's",
       "category": "Running On Empty",
       "videoTitle": "Papa Johns Pizza & Cookie -- Running On Empty -- Food Review",
       "videoCode":"-CdOHVU5h00",
@@ -1078,7 +1079,7 @@
     },
     "126": {
       "product": "Monster DUB Mad Dog",
-      "manufacturer": "Monster Inc",
+      "manufacturer": "Monster Beverage",
       "category": "Energy Crisis",
       "videoTitle": "Energy Crisis--Energy Drink Review #89 Monster DUB Mad Dog",
       "videoCode":"tIX_Zsua46s",
@@ -1087,7 +1088,7 @@
     },
     "127": {
       "product": "Bacon McDouble",
-      "manufacturer": "McDonalds",
+      "manufacturer": "McDonald's",
       "category": "Running On Empty",
       "videoTitle": "McDonald's Bacon McDouble-- Running On Empty -- Food Review",
       "videoCode":"hXBPjhNyGCk",
@@ -1313,7 +1314,7 @@
     },
     "152": {
       "product": "Rockstar Pure Zero",
-      "manufacturer": "Rockstar Inc",
+      "manufacturer": "Rockstar, Inc",
       "category": "Energy Crisis",
       "videoTitle": "Energy Crisis, Three Year Anniversary Review -- Rockstar Pure Zero",
       "videoCode":"Mk11GpaSw7M",
@@ -1375,8 +1376,8 @@
       "rating": 8.1
     },
     "159": {
-      "product": "Three Meat Medley Pizza",
-      "manufacturer": "Freschetta Brick Oven",
+      "product": "Brick Oven Three Meat Medley Pizza",
+      "manufacturer": "Freschetta",
       "category": "Running On Empty",
       "videoTitle": "Freschetta Brick Oven, Three Meat Medley - Food Review",
       "videoCode":"JJ5FjPD06D0",
@@ -1438,8 +1439,8 @@
       "rating": 8.138
     },
     "166": {
-      "product": "Supreme Pizza",
-      "manufacturer": "Freschetta Brick Oven",
+      "product": "Brick Oven Supreme Pizza",
+      "manufacturer": "Freschetta",
       "category": "Running On Empty",
       "videoTitle": "Freschetta Brick Oven Supreme Pizza - Food Review",
       "videoCode":"5iKBAZORiU4",
@@ -1474,8 +1475,8 @@
       "rating": 7.17
     },
     "170": {
-      "product": "Pepperoni Pizza",
-      "manufacturer": "Freschetta Brick Oven",
+      "product": "Brick Oven Pepperoni Pizza",
+      "manufacturer": "Freschetta",
       "category": "Running On Empty",
       "videoTitle": "FRESCHETTA Brick Oven, Pepperoni Pizza - Food Review",
       "videoCode":"HPFgy5PGUgo",
@@ -1574,7 +1575,7 @@
     },
     "181": {
       "product": "Pretzel Twist",
-      "manufacturer": "Dunkin Donuts",
+      "manufacturer": "Dunkin' Donuts",
       "category": "Running On Empty",
       "videoTitle": "Dunkin Donuts Pretzel Twist - Running On Empty - Food Review",
       "videoCode":"xLtIDsMQ7dY",
@@ -1583,7 +1584,7 @@
     },
     "182": {
       "product": "G SHOT Goji Berries",
-      "manufacturer": "KGC",
+      "manufacturer": "Gogee G Shot",
       "category": "Energy Crisis",
       "videoTitle": "Energy Crisis--Energy Drink Review #101 G SHOT",
       "videoCode":"g95vGKMTuE4",
@@ -1718,7 +1719,7 @@
     },
     "197": {
       "product": "Chicken Fries",
-      "manufacturer": "Burgerking",
+      "manufacturer": "Burger King",
       "category": "Running On Empty",
       "videoTitle": "Burger King Chicken Fries - Running On Empty - Food Review",
       "videoCode": "4eEZ51i-H4M",
@@ -1736,7 +1737,7 @@
     },
     "199": {
       "product": "Jalapeño Double",
-      "manufacturer": "McDonaold's",
+      "manufacturer": "McDonald's",
       "category": "Running On Empty",
       "videoTitle": "McDonald's Jalapeño Double - Running On Empty - Food Review",
       "videoCode": "SoWsrjgkTmI",
@@ -2097,7 +2098,7 @@
     },
     "239": {
       "product": "Pizzeria Style Pepperoni Pizza",
-      "manufacturer": "TONY'S",
+      "manufacturer": "Tony's",
       "category": "Running On Empty",
       "videoTitle": "TONY's Pizzeria Style Pepperoni Pizza - Food Review",
       "videoCode": "mSOzL0fKUpM",
@@ -2340,7 +2341,7 @@
     },
     "266": {
       "product": "Holy Pepperoni Pizza",
-      "manufacturer": "Screamin Sicilian Holy",
+      "manufacturer": "Screamin' Sicilian",
       "category": "Running On Empty",
       "videoTitle": "Screamin Sicilian Holy Pepperoni Pizza - Food Review",
       "videoCode": "U5VBRPiaJ6g",
@@ -2403,7 +2404,7 @@
     },
     "273": {
       "product": "Twix Unwrapped Bites",
-      "manufacturer": "Mars Inc.",
+      "manufacturer": "Mars, Incorporated",
       "category": "Running On Empty",
       "videoTitle": "Twix Unwrapped Bites - Running On Empty - Food Review",
       "videoCode": "BzAm10Slo6w",
@@ -2475,7 +2476,7 @@
     },
     "281": {
       "product": "Italian Favorites Meat Trio",
-      "manufacturer": "Digiorno",
+      "manufacturer": "DiGiorno",
       "category": "Running On Empty",
       "videoTitle": "DiGiorno Italian Favorites Meat Trio - Food Review",
       "videoCode": "QV7AYBX0owQ",
@@ -2691,7 +2692,7 @@
     },
     "305": {
       "product": "Bacon 'N Cheese Double",
-      "manufacturer": "Steak N' Shake",
+      "manufacturer": "Steak 'n Shake",
       "category": "Running On Empty",
       "videoTitle": "Steak N' Shake Bacon 'N Cheese Double Review",
       "videoCode": "InXnTUDM_Nc",
@@ -2700,7 +2701,7 @@
     },
     "306": {
       "product": "Peanut Butter Cheesecake",
-      "manufacturer": "Dunkin Donuts",
+      "manufacturer": "Dunkin' Donuts",
       "category": "Running On Empty",
       "videoTitle": "Peanut Butter Cheesecake?? A Dunkin Donuts Error - Review",
       "videoCode": "lxEoqPKlpUw",
@@ -2934,7 +2935,7 @@
     },
     "332": {
       "product": "Sweet Black Pepper Bacon Breakfast Sandwich",
-      "manufacturer": "Dunkin Donuts",
+      "manufacturer": "Dunkin' Donuts",
       "category": "Running On Empty",
       "videoTitle": "Dunkin Donuts Sweeet Black Pepper Bacon Breakfast Sandwich Review",
       "videoCode": "J2mpNslSf8I",
@@ -3131,7 +3132,7 @@
     },
     "354": {
       "product": "Steakhouse Thickburger",
-      "manufacturer": "Hardees",
+      "manufacturer": "Hardee's",
       "category": "Running On Empty",
       "videoTitle": "Hardees Steakhouse Thickburger - Food Review",
       "videoCode": "AGVatYpwQTY",
@@ -3149,7 +3150,7 @@
     },
     "356": {
       "product": "Stacker 2",
-      "manufacturer": "Stacker",
+      "manufacturer": "Stacker 2",
       "category": "Energy Crisis",
       "videoTitle": "Energy Crisis--Energy Drink Review #139 Stacker 2",
       "videoCode": "aNFNiofMgJc",
@@ -3257,7 +3258,7 @@
     },
     "368": {
       "product": "1-2-3 Punch",
-      "manufacturer": "Hansen's Energy",
+      "manufacturer": "Hansen's",
       "category": "Energy Crisis",
       "videoTitle": "Energy Crisis--Energy Drink Review #140 Hansen's Energy 1-2-3 Punch",
       "videoCode": "Lxvj77Bju1w",
@@ -3401,7 +3402,7 @@
     },
     "384": {
       "product": "Sausage GranDDe Burrito",
-      "manufacturer": "Dunkin Donuts",
+      "manufacturer": "Dunkin' Donuts",
       "category": "Running On Empty",
       "videoTitle": "Dunkin Donuts Sausage GranDDe Burrito - Food Review",
       "videoCode": "dSwqS-MGiyo",
@@ -3446,7 +3447,7 @@
     },
     "389": {
       "product": "Beer Battered Cod Fish Sandwich",
-      "manufacturer": "Hardees",
+      "manufacturer": "Hardee's",
       "category": "Running On Empty",
       "videoTitle": "Hardees Beer Battered Cod Fish Sandwhich - Food Review",
       "videoCode": "_CVa8WPsqPA",
@@ -3454,7 +3455,7 @@
       "rating": 5.0
     },
     "390": {
-      "product": "Monster",
+      "product": "Monster Energy",
       "manufacturer": "Monster Beverage",
       "category": "Energy Crisis",
       "videoTitle": "Monster Energy Drink Re-Reviewed (I Am Back!)",
@@ -3463,7 +3464,7 @@
       "rating": 9.7
     },
     "391": {
-      "product": "Brick Oven, Pepperoni Pizza",
+      "product": "Brick Oven Pepperoni Pizza",
       "manufacturer": "Freschetta",
       "category": "Running On Empty",
       "videoTitle": "Freschetta Brick Oven, Pepperoni Pizza - Food Review",
@@ -3698,7 +3699,7 @@
     },
     "417": {
       "product": "Monster Gronk",
-      "manufacturer": "Monster Beverages",
+      "manufacturer": "Monster Beverage",
       "category": "Energy Crisis",
       "videoTitle": "Energy Crisis--Energy Drink Review #148 Monster Gronk",
       "videoCode": "yIL4Pg_dCZw",
@@ -3716,7 +3717,7 @@
     },
     "419": {
       "product": "Midnight Moonshine Burger",
-      "manufacturer": "Hardees",
+      "manufacturer": "Hardee's",
       "category": "Running On Empty",
       "videoTitle": "Hardee's Midnight Moonshine Burger - Food Review",
       "videoCode": "mR__gdqjmQo",
@@ -3734,7 +3735,7 @@
     },
     "421": {
       "product": "Monster Pipeline Punch",
-      "manufacturer": "Monster Beverages",
+      "manufacturer": "Monster Beverage",
       "category": "Energy Crisis",
       "videoTitle": "Energy Crisis--Energy Drink Review #149 Monster Pipeline Punch",
       "videoCode": "h7EgxxqP8U0",
@@ -3860,7 +3861,7 @@
     },
     "435": {
       "product": "Wildberry Smoothie",
-      "manufacturer": "Dunkin Donuts",
+      "manufacturer": "Dunkin' Donuts",
       "category": "Drink Review",
       "videoTitle": "Dunkin Donuts Wildberry Smoothie - Drink Review",
       "videoCode": "z3UrB6yC_Ng",
@@ -3887,7 +3888,7 @@
     },
     "438": {
       "product": "Peppercorn Bacon Steakburger",
-      "manufacturer": "Steak 'N Shake",
+      "manufacturer": "Steak 'n Shake",
       "category": "Running On Empty",
       "videoTitle": "Steak 'n Shake Peppercorn Bacon Steakburger - Food Review",
       "videoCode": "roD3Sl1wgoY",
@@ -4076,7 +4077,7 @@
     },
     "460": {
       "product": "Whopperito",
-      "manufacturer": "Burger Kings",
+      "manufacturer": "Burger King",
       "category": "Running On Empty",
       "videoTitle": "Burger King Whopperito - Food Review",
       "videoCode": "g9XQ8KAdze4",
@@ -4157,7 +4158,7 @@
     },
     "469": {
       "product": "M-100",
-      "manufacturer": "Monster Beverages",
+      "manufacturer": "Monster Beverage",
       "category": "Energy Crisis",
       "videoTitle": "Energy Crisis--Energy Drink Review #153 Monster M-100",
       "videoCode":"3FjH4Q0tPow",
@@ -4301,7 +4302,7 @@
     },
     "485": {
       "product": "Tuscan Style Chicken Pizza",
-      "manufacturer": "DiGiorno Pizzeria!",
+      "manufacturer": "DiGiorno",
       "category": "Running On Empty",
       "videoTitle": "DiGiorno Pizzeria! Tuscan Style Chicken Pizza - Review",
       "videoCode": "h9kPWPd28SY",
@@ -4319,7 +4320,7 @@
     },
     "487": {
       "product": "Mutant Super Soda",
-      "manufacturer": "Monster Beverages",
+      "manufacturer": "Monster Beverage",
       "category": "Energy Crisis",
       "videoTitle": "Energy Crisis--Energy Drink Review #153 Monster Mutant Super Soda",
       "videoCode":"97ZKBeDI5Cg",
@@ -4337,7 +4338,7 @@
     },
     "489": {
       "product": "Budweiser Beer Cheese Bacon Review",
-      "manufacturer": "Hardees",
+      "manufacturer": "Hardee's",
       "category": "Running On Empty",
       "videoTitle": "Hardees Budweiser Beer Cheese Bacon Burger - Review",
       "videoCode": "dvQwxoZhhz8",
@@ -4490,7 +4491,7 @@
     },
     "506": {
       "product": "Pepperoni Pizza",
-      "manufacturer": "Hungry Howies",
+      "manufacturer": "Hungry Howie's",
       "category": "Running On Empty",
       "videoTitle": "Hungry Howie's Pepperoni Pizza - Review",
       "videoCode": "Mg6Xxw-6KBM",
@@ -4499,7 +4500,7 @@
     },
     "507": {
       "product": "Pepperoni Pizza",
-      "manufacturer": "Hungry Howies",
+      "manufacturer": "Hungry Howie's",
       "category": "Running On Empty",
       "videoTitle": "Hungry Howie's Pepperoni Pizza - Review",
       "videoCode": "Mg6Xxw-6KBM",
@@ -4562,7 +4563,7 @@
     },
     "514": {
       "product": "Bacon Chedder Cheesesticks",
-      "manufacturer": "Papa Johns",
+      "manufacturer": "Papa John's",
       "category": "Running On Empty",
       "videoTitle": "Papa Johns Bacon Chedder & Wisconsin Cheesesticks - Review ",
       "videoCode": "BkjaRbY2Avs",
@@ -4571,7 +4572,7 @@
     },
     "515": {
       "product": "Wisconsin Cheesesticks",
-      "manufacturer": "Papa Johns",
+      "manufacturer": "Papa John's",
       "category": "Running On Empty",
       "videoTitle": "Papa Johns Bacon Chedder & Wisconsin Cheesesticks - Review ",
       "videoCode": "BkjaRbY2Avs",
@@ -4715,7 +4716,7 @@
     },
     "531": {
       "product": "Ultimate Meats Pizza",
-      "manufacturer": "Papa Johns",
+      "manufacturer": "Papa John's",
       "category": "Running On Empty",
       "videoTitle": "Papa Johns Ultimate Meats Pizza - Food Review",
       "videoCode": "ING7_VxVN1c",
@@ -4940,7 +4941,7 @@
     },
     "556": {
       "product": "Joker Mad Energy",
-      "manufacturer": "Hansen's Beverages",
+      "manufacturer": "Hansen's",
       "category": "Energy Crisis",
       "videoTitle": "Joker Mad Energy Drink Review - Energy Crisis",
       "videoCode": "0Nz_KZJcN0o",
@@ -4985,7 +4986,7 @@
     },
     "561": {
       "product": "Baby Back Rib Burger",
-      "manufacturer": "Hardee's / Carl's Jr.",
+      "manufacturer": "Hardee's",
       "category": "Running On Empty",
       "videoTitle": "Hardee's / Carl's Jr. Baby Back Rib Burger - Food Review",
       "videoCode": "jDZYP4Xas6o",
@@ -5012,7 +5013,7 @@
     },
     "564": {
       "product": "Pepperoni Pizza",
-      "manufacturer": "Hungry Howies",
+      "manufacturer": "Hungry Howie's",
       "category": "Running On Empty",
       "videoTitle": "Hungry Howies and My Fingernails",
       "videoCode": "t5p8hLxoq5g",
@@ -5511,7 +5512,7 @@
     },
     "620": {
       "product": "Hydro Tropical Thunder",
-      "manufacturer": "Monster",
+      "manufacturer": "Monster Beverage",
       "category": "Energy Crisis",
       "videoTitle": "Monster Hydro Tropical Thunder - Energy Drink Review",
       "videoCode": "GINghTBVz5c",
@@ -5538,7 +5539,7 @@
     },
     "623": {
       "product": "Bacon McDouble",
-      "manufacturer": "McDonald’s",
+      "manufacturer": "McDonald's",
       "category": "Running On Empty",
       "videoTitle": "Checking Out the New McDonald’s Dollar Menu",
       "videoCode": "YiSsAjNtsFc",
@@ -5547,7 +5548,7 @@
     },
     "624": {
       "product": "Classic Chicken Sandwich",
-      "manufacturer": "McDonald’s",
+      "manufacturer": "McDonald's",
       "category": "Running On Empty",
       "videoTitle": "Checking Out the New McDonald’s Dollar Menu",
       "videoCode": "YiSsAjNtsFc",
