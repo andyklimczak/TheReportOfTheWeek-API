@@ -5954,6 +5954,69 @@
       "videoCode": "nNJ2sfGiNAc",
       "dateReleased": "=new Date(2018, 6, 27)",
       "rating": 7
+    },
+    "670": {
+      "product": "Chicken Tenders",
+      "manufacturer": "Wendy's",
+      "category": "Running On Empty",
+      "videoTitle": "Revisiting Wendy's Chicken Tenders!",
+      "videoCode": "2OFmRxaUoTU",
+      "dateReleased": "=new Date(2018, 7, 2)",
+      "rating": 8.2
+    },
+    "671": {
+      "product": "BeeBad Energy Drink",
+      "manufacturer": "Parodi Group",
+      "category": "Energy Crisis",
+      "videoTitle": "Trying Out BeeBad Energy Drink",
+      "videoCode": "29Pq-FYqeRU",
+      "dateReleased": "=new Date(2018, 7, 9)",
+      "rating": 8.82
+    },
+    "672": {
+      "product": "5 Meat Feast",
+      "manufacturer": "Little Caesars",
+      "category": "Running On Empty",
+      "videoTitle": "Little Caesars New Pizza With Tons of Meat!",
+      "videoCode": "TOz2gTwh6bk",
+      "dateReleased": "=new Date(2018, 7, 11)",
+      "rating": 7.7
+    },
+    "673": {
+      "product": "Honey Sesame Chicken Breast",
+      "manufacturer": "Panda Express",
+      "category": "Running On Empty",
+      "videoTitle": "Is Honey Sesame Chicken The Best Panda Express Item?",
+      "videoCode": "nPpuANNNeDc",
+      "dateReleased": "=new Date(2018, 7, 16)",
+      "rating": 9.8
+    },
+    "674": {
+      "product": "Jalapeño King",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "Will You Need Paramedics On Standby To Eat Burger King's Jalapeno King?",
+      "videoCode": "e9IgyMYqTUA",
+      "dateReleased": "=new Date(2018, 7, 20)",
+      "rating": 6.7
+    },
+    "675": {
+      "product": "Sweet N’ Spicy Honey BBQ Glazed Tenders",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "The Elusive New McDonald's Sweet N’ Spicy Honey BBQ Glazed Tenders",
+      "videoCode": "yIKwkBxov2I",
+      "dateReleased": "=new Date(2018, 7, 23)",
+      "rating": 8.4
+    },
+    "676": {
+      "product": "Double Cheesy Gordita Crunch",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell Double Cheesy Gordita Crunch Review",
+      "videoCode": "UYb7ePQSsPk",
+      "dateReleased": "=new Date(2018, 7, 27)",
+      "rating": 5.5
     }
   }
 }
