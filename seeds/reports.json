@@ -6008,6 +6008,15 @@
       "videoCode": "UYb7ePQSsPk",
       "dateReleased": "=new Date(2018, 7, 27)",
       "rating": 5.5
+    },
+    "676": {
+      "product": "Froot Loops Mini Donuts",
+      "manufacturer": "Hardee's",
+      "category": "Running On Empty",
+      "videoTitle": "Do Hardee's Mini Donuts Really Taste Like Froot Loops Cereal?",
+      "videoCode": "aAHHA38NW1U",
+      "dateReleased": "=new Date(2018, 8, 1)",
+      "rating": 8.5
     }
   }
 }
