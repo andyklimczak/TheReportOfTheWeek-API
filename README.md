@@ -2,7 +2,12 @@
 
 API to provide information on reviews by [The Report of the Week](https://www.youtube.com/user/TheReportOfTheWeek)
 
-## Example Review
+## Data
+
+This API returns all reviews done on The Report of the Week youtube channel.
+This data is recorded in the [reports.json file](./data/reports.json).
+
+### Example Review
 
 ```json
 {
@@ -17,7 +22,7 @@ API to provide information on reviews by [The Report of the Week](https://www.yo
 }
 ```
 
-## Endponts
+## Endpoints
 
 - Health check:
   - Path

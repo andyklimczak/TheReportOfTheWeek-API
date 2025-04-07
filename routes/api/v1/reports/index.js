@@ -59,7 +59,7 @@ export default async function (fastify, opts) {
       reports = reports.filter(report => report.dateReleased <= maxDate)
     }
 
-    reports = reports.sort((a, b) => b.dateReleased.localcompare(a.dateReleased))
+    reports = reports.sort((a, b) => b.dateReleased.localeCompare(a.dateReleased))
 
     return { reports }
   })
