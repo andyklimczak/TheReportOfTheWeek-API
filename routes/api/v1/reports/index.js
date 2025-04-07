@@ -9,7 +9,7 @@ export default async function (fastify, opts) {
       properties: {
         category: {
           type: 'string',
-          enum: ['Energy Crisis', 'Running On Empty']
+          enum: ['Energy Crisis', 'Running On Empty', 'Other', 'Drink Review', 'Music Review', 'Travel Review']
         },
         min_rating: {
           type: 'number',

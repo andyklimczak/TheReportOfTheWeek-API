@@ -32,7 +32,7 @@ This data is recorded in the [reports.json file](./data/reports.json).
     - [/api/v1/reports](https://the-report-of-the-week-api.com/api/v1/reports)
   - Query Params:
     - `category`
-      - Enum: `['Running On Empty', 'Energy Crisis']`
+      - Enum: `['Running On Empty', 'Energy Crisis', 'Other', 'Drink Review', 'Music Review', 'Travel Review']`
       - Example:
         - `?category=Energy Crisis`
     - `min_rating`
