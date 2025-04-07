@@ -34,7 +34,7 @@ export default async function (fastify, opts) {
   }
   fastify.get('/', { schema }, async function (request, reply) {
     const dirname = fileURLToPath(new URL('.', import.meta.url))
-    const dbPath = join(dirname, '../../../../data/reports2.json')
+    const dbPath = join(dirname, '../../../../data/reports.json')
     const db = await JSONFilePreset(dbPath, { reports: [] })
     let reports = db.data.reports
 
@@ -66,7 +66,7 @@ export default async function (fastify, opts) {
 
   fastify.get('/:reportId', async function (request, reply) {
     const dirname = fileURLToPath(new URL('.', import.meta.url))
-    const dbPath = join(dirname, '../../../../data/reports2.json')
+    const dbPath = join(dirname, '../../../../data/reports.json')
     const db = await JSONFilePreset(dbPath, { reports: [] })
 
     const { reportId } = request.params

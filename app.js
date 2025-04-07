@@ -1,6 +1,7 @@
 import path from 'node:path'
 import AutoLoad from '@fastify/autoload'
 import { fileURLToPath } from 'node:url'
+import fastifyStatic from '@fastify/static'
 
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
@@ -10,6 +11,9 @@ export const options = {}
 
 export default async function (fastify, opts) {
   // Place here your custom code!
+  fastify.register(fastifyStatic, {
+    root: path.join(__dirname, 'public'),
+  })
 
   // Do not touch the following lines
 
