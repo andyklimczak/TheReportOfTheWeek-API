@@ -12,7 +12,7 @@ export const options = {}
 export default async function (fastify, opts) {
   // Place here your custom code!
   fastify.register(fastifyStatic, {
-    root: path.join(__dirname, 'public'),
+    root: path.join(__dirname, 'public')
   })
 
   // Do not touch the following lines
