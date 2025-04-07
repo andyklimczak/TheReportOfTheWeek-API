@@ -19,8 +19,33 @@ API to provide information on reviews by [The Report of the Week](https://www.yo
 
 ## Endponts
 
-- Health check: `/healthz`
+- Health check:
+  - Path
+    - [/healthz](https://the-report-of-the-week-api.com/healthz)
 - Get reports
+  - Path
+    - [/api/v1/reports](https://the-report-of-the-week-api.com/api/v1/reports)
+  - Query Params:
+    - `category`
+      - Enum: `['Running On Empty', 'Energy Crisis']`
+      - Example:
+        - `?category=Energy Crisis`
+    - `min_rating`
+      - Example:
+        - `?min_rating=6.9`
+    - `max_rating`
+        - Example:
+            - `?max_rating=6.9`
+    - `min_date`
+        - Example:
+            - `?min_date=2017-01-01`
+    - `max_date`
+        - Example:
+            - `?max_date=2017-01-01`
+- Get Report
+  - Path
+    - [/api/v1/reports/:reportId](https://the-report-of-the-week-api.com/api/v1/reports/0b399d91-1673-4708-ba60-f1312b037b35)
+    
 
 ## Local Setup
 
@@ -38,7 +63,3 @@ For production mode
 ### `npm run test`
 
 Run the test cases.
-
-## Learn More
-
-To learn Fastify, check out the [Fastify documentation](https://fastify.dev/docs/latest/).
