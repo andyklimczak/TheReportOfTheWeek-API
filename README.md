@@ -24,7 +24,7 @@ This data is recorded in the [reports.json file](./data/reports.json).
 
 ## Docs
 
-[OpenAPI Docs](https://the-report-of-the-weekapi/docs)
+[OpenAPI Docs](https://thereportoftheweekapi.com/docs)
 
 ## Local Setup
 
