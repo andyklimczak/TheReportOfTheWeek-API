@@ -1,0 +1,13 @@
+name: CI
+on: [push]
+jobs:
+  test-lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v1
+        with:
+          node-version: 22
+      - run: npm install standard
+      - run: npm run lint
+      - run: npm run test

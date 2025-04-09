@@ -1,46 +1,44 @@
-[![Build Status](https://travis-ci.org/andyklimczak/TheReportOfTheWeek-API.svg?branch=master)](https://travis-ci.org/andyklimczak/TheReportOfTheWeek-API)
+# The Report of the Week API
 
-# The Report Of The Week API
+API to provide information on reviews by [The Report of the Week](https://www.youtube.com/user/TheReportOfTheWeek)
 
-Basic API to provide information on [The Report Of The Week](https://www.youtube.com/user/TheReportOfTheWeek)
+## Data
+
+This API returns all reviews done on The Report of the Week youtube channel.
+This data is recorded in the [reports.json file](./data/reports.json).
 
 ### Example Review
+
 ```json
 {
-    "product": "5 Hour Energy Pomegranate",
-    "manufacturer": "Living Essentials",
-    "category": "Energy Crisis",
-    "videoTitle": "Energy Crisis--Energy Drink Review",
-    "videoCode": "wyD3nCv_emI",
-    "dateReleased": "2011-02-20T00:00:00.000Z",
-    "rating": 7
+  "product": "5 Hour Energy Pomegranate",
+  "manufacturer": "Living Essentials",
+  "category": "Energy Crisis",
+  "videoTitle": "Energy Crisis--Energy Drink Review",
+  "videoCode": "wyD3nCv_emI",
+  "dateReleased": "2011-02-20",
+  "rating": 7.0,
+  "id": "0b399d91-1673-4708-ba60-f1312b037b35"
 }
 ```
 
-### Usage
+## Docs
 
-* Check status:
-  * [GET /](https://thereportoftheweek-api.herokuapp.com/)
-* All reports (sorted by date):
-  * [GET /reports](https://thereportoftheweek-api.herokuapp.com/reports)
-* Reports by category
-  * [GET /reports?category=Energy Crisis](https://thereportoftheweek-api.herokuapp.com/reports?category=Energy%20Crisis)
-  * [GET /reports?category=Running On Empty](https://thereportoftheweek-api.herokuapp.com/reports?category=Running%20On%20Empty)
-* Reports between certain dates
-  * [GET /reports?between=2012-1-1|2013-1-1](https://thereportoftheweek-api.herokuapp.com/reports?between=2012-1-1|2013-1-1)
-  
-### Example Frontends
+[OpenAPI Docs](https://the-report-of-the-weekapi/docs)
 
-* [The Report of the Week Client](https://thereportoftheweek-client.herokuapp.com/) Interactive charts using React, Redux, and Recharts
+## Local Setup
 
-## Development
+In the project directory, you can run:
 
-0. Install mongodb, node, and npm
-1. Clone the repo
-2. __npm install__
-3. __npm start__ will load the data and start the server
-4. __npm test__ will run the tests
+### `npm run dev`
 
-### Update data
+To start the app in dev mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The json information the server returns is created from seeds/reports.json. Information from new videos needs to be entered manually. Please feel free to update/append new data !
+### `npm start`
+
+For production mode
+
+### `npm run test`
+
+Run the test cases.
