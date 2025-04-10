@@ -11,3 +11,18 @@ jobs:
       - run: npm install standard
       - run: npm run lint
       - run: npm run test
+  deploy:
+    runs-on: ubuntu-latest
+    needs: test-lint
+    if: github.ref == 'refs/heads/master'
+    steps:
+      - name: Cloning repo
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Push to dokku
+        uses: dokku/github-action@master
+        with:
+          git_remote_url: 'ssh://dokku@68.183.155.19/api'
+          ssh_private_key: ${{ secrets.SSH_PRIVATE_KEY }}
