@@ -9,6 +9,8 @@ test('list reports route', async (t) => {
     url: '/api/v1/reports'
   })
   assert.strictEqual(JSON.parse(res.payload).reports.length, 677)
+  assert.strictEqual(res.statusCode, 200)
+  assert.strictEqual(res.headers['content-type'], 'application/json; charset=utf-8')
 })
 
 test('list reports route : category', async (t) => {
@@ -18,6 +20,8 @@ test('list reports route : category', async (t) => {
     url: '/api/v1/reports?category=Running On Empty'
   })
   assert.strictEqual(JSON.parse(res.payload).reports.length, 477)
+  assert.strictEqual(res.statusCode, 200)
+  assert.strictEqual(res.headers['content-type'], 'application/json; charset=utf-8')
 })
 
 test('list reports route : min_rating', async (t) => {
@@ -27,6 +31,8 @@ test('list reports route : min_rating', async (t) => {
     url: '/api/v1/reports?min_rating=5.4'
   })
   assert.strictEqual(JSON.parse(res.payload).reports.length, 548)
+  assert.strictEqual(res.statusCode, 200)
+  assert.strictEqual(res.headers['content-type'], 'application/json; charset=utf-8')
 })
 
 test('list reports route : max_rating', async (t) => {
@@ -36,6 +42,8 @@ test('list reports route : max_rating', async (t) => {
     url: '/api/v1/reports?max_rating=5.4'
   })
   assert.strictEqual(JSON.parse(res.payload).reports.length, 46)
+  assert.strictEqual(res.statusCode, 200)
+  assert.strictEqual(res.headers['content-type'], 'application/json; charset=utf-8')
 })
 
 test('list reports route : min_date', async (t) => {
@@ -45,6 +53,8 @@ test('list reports route : min_date', async (t) => {
     url: '/api/v1/reports?min_date=2015-01-01'
   })
   assert.strictEqual(JSON.parse(res.payload).reports.length, 430)
+  assert.strictEqual(res.statusCode, 200)
+  assert.strictEqual(res.headers['content-type'], 'application/json; charset=utf-8')
 })
 
 test('list reports route : max_date', async (t) => {
@@ -54,6 +64,8 @@ test('list reports route : max_date', async (t) => {
     url: '/api/v1/reports?max_date=2015-01-01'
   })
   assert.strictEqual(JSON.parse(res.payload).reports.length, 247)
+  assert.strictEqual(res.statusCode, 200)
+  assert.strictEqual(res.headers['content-type'], 'application/json; charset=utf-8')
 })
 
 test('get report route', async (t) => {
@@ -74,6 +86,7 @@ test('get report route', async (t) => {
       id: '0b399d91-1673-4708-ba60-f1312b037b35'
     }
   })
+  assert.strictEqual(res.headers['content-type'], 'application/json; charset=utf-8')
 })
 
 test('get report route : invalid id', async (t) => {
@@ -85,4 +98,6 @@ test('get report route : invalid id', async (t) => {
   assert.deepStrictEqual(JSON.parse(res.payload), {
     statusCode: 404, error: 'Not Found', message: 'Report with id not-real-id not found'
   })
+  assert.strictEqual(res.statusCode, 404)
+  assert.strictEqual(res.headers['content-type'], 'application/json; charset=utf-8')
 })

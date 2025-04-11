@@ -61,7 +61,7 @@ export default async function (fastify, opts) {
 
     reports = reports.sort((a, b) => b.dateReleased.localeCompare(a.dateReleased))
 
-    return { reports }
+    return reply.code(200).header('Content-Type', 'application/json').send({ reports })
   })
 
   fastify.get('/:reportId', async function (request, reply) {
@@ -75,6 +75,6 @@ export default async function (fastify, opts) {
       throw fastify.httpErrors.notFound(`Report with id ${reportId} not found`)
     }
 
-    return { report }
+    return reply.code(200).header('Content-Type', 'application/json').send({ report })
   })
 }
