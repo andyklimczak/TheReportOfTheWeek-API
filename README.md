@@ -2,10 +2,16 @@
 
 API to provide information on reviews by [The Report of the Week](https://www.youtube.com/user/TheReportOfTheWeek)
 
+## Endpoints & Docs
+
+Checkout the [OpenAPI Docs](https://thereportoftheweekapi.com/docs) for more info and to test the endpoints.
+
+The base URL is `https://www.thereportoftheweek.com`.
+
 ## Data
 
 This API returns all reviews done on The Report of the Week youtube channel.
-This data is recorded in the [reports.json file](./data/reports.json).
+All the reviews live in the [reports.json file](./data/reports.json) if you're just interested pulling in the data into your own datastore..
 
 ### Example Review
 
@@ -21,10 +27,6 @@ This data is recorded in the [reports.json file](./data/reports.json).
   "id": "0b399d91-1673-4708-ba60-f1312b037b35"
 }
 ```
-
-## Docs
-
-[OpenAPI Docs](https://thereportoftheweekapi.com/docs)
 
 ## Local Setup
 
