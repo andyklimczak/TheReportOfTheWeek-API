@@ -24,7 +24,7 @@
     "@fastify/swagger": "^9.5.2",
     "@fastify/swagger-ui": "^5.2.3",
     "fastify": "^5.6.1",
-    "fastify-cli": "^7.3.0",
+    "fastify-cli": "^7.4.1",
     "fastify-plugin": "^5.1.0",
     "lowdb": "^7.0.1"
   },
