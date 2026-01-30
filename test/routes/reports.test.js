@@ -1,6 +1,14 @@
 import { test } from 'node:test'
 import * as assert from 'node:assert'
+import fs from 'node:fs'
+import path from 'node:path'
+import { fileURLToPath } from 'node:url'
 import { build } from '../helper.js'
+
+const __filename = fileURLToPath(import.meta.url)
+const __dirname = path.dirname(__filename)
+const reportsPath = path.join(__dirname, '../../data/reports.json')
+const allReports = JSON.parse(fs.readFileSync(reportsPath, 'utf8')).reports
 
 test('list reports route', async (t) => {
   const app = await build(t)
@@ -8,7 +16,7 @@ test('list reports route', async (t) => {
   const res = await app.inject({
     url: '/api/v1/reports'
   })
-  assert.strictEqual(JSON.parse(res.payload).reports.length, 677)
+  assert.strictEqual(JSON.parse(res.payload).reports.length, allReports.length)
   assert.strictEqual(res.statusCode, 200)
   assert.strictEqual(res.headers['content-type'], 'application/json; charset=utf-8')
 })
@@ -19,7 +27,8 @@ test('list reports route : category', async (t) => {
   const res = await app.inject({
     url: '/api/v1/reports?category=Running On Empty'
   })
-  assert.strictEqual(JSON.parse(res.payload).reports.length, 477)
+  const expected = allReports.filter(r => r.category === 'Running On Empty').length
+  assert.strictEqual(JSON.parse(res.payload).reports.length, expected)
   assert.strictEqual(res.statusCode, 200)
   assert.strictEqual(res.headers['content-type'], 'application/json; charset=utf-8')
 })
@@ -30,7 +39,8 @@ test('list reports route : min_rating', async (t) => {
   const res = await app.inject({
     url: '/api/v1/reports?min_rating=5.4'
   })
-  assert.strictEqual(JSON.parse(res.payload).reports.length, 548)
+  const expected = allReports.filter(r => r.rating >= 5.4).length
+  assert.strictEqual(JSON.parse(res.payload).reports.length, expected)
   assert.strictEqual(res.statusCode, 200)
   assert.strictEqual(res.headers['content-type'], 'application/json; charset=utf-8')
 })
@@ -41,7 +51,8 @@ test('list reports route : max_rating', async (t) => {
   const res = await app.inject({
     url: '/api/v1/reports?max_rating=5.4'
   })
-  assert.strictEqual(JSON.parse(res.payload).reports.length, 46)
+  const expected = allReports.filter(r => r.rating <= 5.4).length
+  assert.strictEqual(JSON.parse(res.payload).reports.length, expected)
   assert.strictEqual(res.statusCode, 200)
   assert.strictEqual(res.headers['content-type'], 'application/json; charset=utf-8')
 })
@@ -52,7 +63,8 @@ test('list reports route : min_date', async (t) => {
   const res = await app.inject({
     url: '/api/v1/reports?min_date=2015-01-01'
   })
-  assert.strictEqual(JSON.parse(res.payload).reports.length, 430)
+  const expected = allReports.filter(r => typeof r.dateReleased === 'string' && r.dateReleased >= '2015-01-01').length
+  assert.strictEqual(JSON.parse(res.payload).reports.length, expected)
   assert.strictEqual(res.statusCode, 200)
   assert.strictEqual(res.headers['content-type'], 'application/json; charset=utf-8')
 })
@@ -63,7 +75,8 @@ test('list reports route : max_date', async (t) => {
   const res = await app.inject({
     url: '/api/v1/reports?max_date=2015-01-01'
   })
-  assert.strictEqual(JSON.parse(res.payload).reports.length, 247)
+  const expected = allReports.filter(r => typeof r.dateReleased === 'string' && r.dateReleased <= '2015-01-01').length
+  assert.strictEqual(JSON.parse(res.payload).reports.length, expected)
   assert.strictEqual(res.statusCode, 200)
   assert.strictEqual(res.headers['content-type'], 'application/json; charset=utf-8')
 })

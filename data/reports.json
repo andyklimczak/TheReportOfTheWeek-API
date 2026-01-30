@@ -60,7 +60,6 @@
     {
       "product": "Pomegranate Blueberry Energy Drink",
       "manufacturer": "Archer Farms",
-
       "videoTitle": "Energy Crisis--Energy Drink Review #7",
       "videoCode": "IuP0EVSoR7Y",
       "dateReleased": "2011-04-10",
@@ -155,6 +154,16 @@
       "videoCode": "EAoszKySOks",
       "dateReleased": "2011-05-28",
       "id": "a4b567b0-baed-447d-a815-fda6626e7c0e"
+    },
+    {
+      "product": "Red Bull Summer Edition",
+      "manufacturer": "Red Bull GmbH",
+      "category": "Energy Crisis",
+      "videoTitle": "Energy Crisis--Energy Drink Review #150 Red Bull Summer Edition",
+      "videoCode": "R3tV9JIJ6G4",
+      "dateReleased": "2011-06-01",
+      "rating": 8.5,
+      "id": "416d7d50-6cd3-4eab-b3f9-6680f21ff7ef"
     },
     {
       "product": "4 For Kick Energy Drink",
@@ -1624,6 +1633,16 @@
       "id": "2af9d8f2-00f1-44b9-a197-2f4d487bfc4c"
     },
     {
+      "product": "Reese's Peanut Bugger Cup Oreo's",
+      "manufacturer": "Nabisco",
+      "category": "Running On Empty",
+      "videoTitle": "Limited Edition Reese's Peanut Butter Cup Oreos - Review",
+      "videoCode": "ZKrnYiRmmlg",
+      "dateReleased": "2014-06-02",
+      "rating": 8.4,
+      "id": "6c15cda2-932d-4a61-ac10-761467f77a23"
+    },
+    {
       "product": "Twizzlers (Strawberry)",
       "manufacturer": "Y&S Candies, Inc.",
       "category": "Running On Empty",
@@ -2024,6 +2043,16 @@
       "id": "6e354f87-3cc0-4b46-81eb-d0def2d4fb64"
     },
     {
+      "product": "Chicken Tenders",
+      "manufacturer": "Planet Wings",
+      "category": "Running On Empty",
+      "videoTitle": "Planet Wings, Chicken Tenders - Running On Empty - Food Review",
+      "videoCode": "Bu7oE0Wecrc",
+      "dateReleased": "2014-09-11",
+      "rating": 7.4,
+      "id": "0ce2de5f-9f9b-4229-90c5-b3e60bbd2852"
+    },
+    {
       "product": "Snack Subscription",
       "manufacturer": "MunchPak",
       "category": "Running On Empty",
@@ -2153,16 +2182,6 @@
       "dateReleased": "2014-10-08",
       "rating": 7.0,
       "id": "9aa4df38-2acf-4841-98d0-dd7c7adbdbe4"
-    },
-    {
-      "product": "Chicken Tenders",
-      "manufacturer": "Planet Wings",
-      "category": "Running On Empty",
-      "videoTitle": "Planet Wings, Chicken Tenders - Running On Empty - Food Review",
-      "videoCode": "Bu7oE0Wecrc",
-      "dateReleased": "2014-09-11",
-      "rating": 7.4,
-      "id": "0ce2de5f-9f9b-4229-90c5-b3e60bbd2852"
     },
     {
       "product": "Pulled Pork Cheese Fries",
@@ -2745,16 +2764,6 @@
       "id": "875001ac-ba60-46ef-901e-64663de99826"
     },
     {
-      "product": "Reese's Peanut Bugger Cup Oreo's",
-      "manufacturer": "Nabisco",
-      "category": "Running On Empty",
-      "videoTitle": "Limited Edition Reese's Peanut Butter Cup Oreos - Review",
-      "videoCode": "ZKrnYiRmmlg",
-      "dateReleased": "2014-06-02",
-      "rating": 8.4,
-      "id": "6c15cda2-932d-4a61-ac10-761467f77a23"
-    },
-    {
       "product": "Italian Favorites Meat Trio",
       "manufacturer": "DiGiorno",
       "category": "Running On Empty",
@@ -3285,16 +3294,6 @@
       "id": "ebaae0ba-162d-4d3d-9bb6-6a39c6b3c1c0"
     },
     {
-      "product": "Chips Ahoy! Limited Edition Hot Cocoa Cookie",
-      "manufacturer": "Nabisco",
-      "category": "Running On Empty",
-      "videoTitle": "Chips Ahoy! Limited Edition Hot Cocoa Cookies - Review",
-      "videoCode": "Kj7mJbS2044",
-      "dateReleased": "2015-11-15",
-      "rating": 8.7,
-      "id": "9b9382a0-c3c4-4ba5-977e-70d52391a06b"
-    },
-    {
       "product": "Turkey Slider (Bistro Turkey)",
       "manufacturer": "White Castle",
       "category": "Running On Empty",
@@ -3323,6 +3322,16 @@
       "dateReleased": "2015-11-15",
       "rating": 7.7,
       "id": "2642153e-d849-4186-beb0-87af13ea5dfe"
+    },
+    {
+      "product": "Chips Ahoy! Limited Edition Hot Cocoa Cookie",
+      "manufacturer": "Nabisco",
+      "category": "Running On Empty",
+      "videoTitle": "Chips Ahoy! Limited Edition Hot Cocoa Cookies - Review",
+      "videoCode": "Kj7mJbS2044",
+      "dateReleased": "2015-11-15",
+      "rating": 8.7,
+      "id": "9b9382a0-c3c4-4ba5-977e-70d52391a06b"
     },
     {
       "product": "Deep Dish Pepperoni Pizza",
@@ -4194,16 +4203,6 @@
       "id": "381aada0-28fb-44a3-9a1c-14cd198dddb8"
     },
     {
-      "product": "Red Bull Summer Edition",
-      "manufacturer": "Red Bull GmbH",
-      "category": "Energy Crisis",
-      "videoTitle": "Energy Crisis--Energy Drink Review #150 Red Bull Summer Edition",
-      "videoCode": "R3tV9JIJ6G4",
-      "dateReleased": "2011-06-01",
-      "rating": 8.5,
-      "id": "416d7d50-6cd3-4eab-b3f9-6680f21ff7ef"
-    },
-    {
       "product": "Mountain Dew Kickstart Midnight Grape Flavor",
       "manufacturer": "PepsiCo",
       "category": "Energy Crisis",
@@ -4364,6 +4363,16 @@
       "id": "18fe3942-1e00-4239-8e2c-2686c4c0cc75"
     },
     {
+      "product": "Mtn Dew Baja Blast",
+      "manufacturer": "PepsiCo",
+      "category": "Drink Review",
+      "videoTitle": "Mtn Dew Baja Blast - Drink Review",
+      "videoCode": "TmpxfYDYsAU",
+      "dateReleased": "2016-07-06",
+      "rating": 8.5,
+      "id": "19161dd5-4ac9-48c6-9241-26a65b9c3852"
+    },
+    {
       "product": "Brown Sugar Bacon BLT",
       "manufacturer": "Arby's",
       "category": "Running On Empty",
@@ -4404,16 +4413,6 @@
       "id": "9a1e937e-3e91-458a-84d4-d96a76a37e65"
     },
     {
-      "product": "Mtn Dew Baja Blast",
-      "manufacturer": "PepsiCo",
-      "category": "Drink Review",
-      "videoTitle": "Mtn Dew Baja Blast - Drink Review",
-      "videoCode": "TmpxfYDYsAU",
-      "dateReleased": "2016-07-06",
-      "rating": 8.5,
-      "id": "19161dd5-4ac9-48c6-9241-26a65b9c3852"
-    },
-    {
       "product": "Big Flavor Dipper Pizza",
       "manufacturer": "Pizza Hut",
       "category": "Running On Empty",
@@ -4434,16 +4433,6 @@
       "id": "402676ec-df99-4f75-b605-e92552850a77"
     },
     {
-      "product": "Soylent 2.0",
-      "manufacturer": "Soylent",
-      "category": "Meal Review",
-      "videoTitle": "Soylent 2.0 - Meal Review",
-      "videoCode": "PdqCYZqKNTo",
-      "dateReleased": "2016-07-26",
-      "rating": 8.8,
-      "id": "0796c375-9948-4ff2-9d00-fc4fbbba00a0"
-    },
-    {
       "product": "Chicken Fillet Biscuit",
       "manufacturer": "Hardee's",
       "category": "Running On Empty",
@@ -4452,6 +4441,16 @@
       "dateReleased": "2016-07-26",
       "rating": 8.1,
       "id": "80ff22ff-9f65-4ff6-9225-8c3e4180603b"
+    },
+    {
+      "product": "Soylent 2.0",
+      "manufacturer": "Soylent",
+      "category": "Meal Review",
+      "videoTitle": "Soylent 2.0 - Meal Review",
+      "videoCode": "PdqCYZqKNTo",
+      "dateReleased": "2016-07-26",
+      "rating": 8.8,
+      "id": "0796c375-9948-4ff2-9d00-fc4fbbba00a0"
     },
     {
       "product": "Spicy Triple Double Crunchwrap",
@@ -5214,16 +5213,6 @@
       "id": "96a00de0-0f7d-42e5-9385-bdede8af1594"
     },
     {
-      "product": "Naked Chicken Chalupa",
-      "manufacturer": "Taco Bell",
-      "category": "Running On Empty",
-      "videoTitle": "Taco Bell Naked Chicken Chalupa - Review",
-      "videoCode": "tnbAtrKrItU",
-      "dateReleased": "2017-01-27",
-      "rating": 7.49,
-      "id": "c4552cf4-57e4-4107-bcd1-81047512a202"
-    },
-    {
       "product": "Georgie Gold Chicken",
       "manufacturer": "KFC",
       "category": "Running On Empty",
@@ -5232,6 +5221,16 @@
       "dateReleased": "2017-01-27",
       "rating": 7.5,
       "id": "36a70354-0c95-4dd0-bec6-f877249e9ff1"
+    },
+    {
+      "product": "Naked Chicken Chalupa",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell Naked Chicken Chalupa - Review",
+      "videoCode": "tnbAtrKrItU",
+      "dateReleased": "2017-01-27",
+      "rating": 7.49,
+      "id": "c4552cf4-57e4-4107-bcd1-81047512a202"
     },
     {
       "product": "Ultimate Meats Pizza",
@@ -6693,6 +6692,4726 @@
       "dateReleased": "2018-09-01",
       "rating": 8.5,
       "id": "b5fcc3d4-cf56-422d-9d7a-92fef985062e"
+    },
+    {
+      "product": "Italian Hero Pizza",
+      "manufacturer": "Papa John's",
+      "category": "Running On Empty",
+      "videoTitle": "Papa John's NEW Italian Hero Pizza Review",
+      "videoCode": "sMXM-8Qxo6g",
+      "dateReleased": "2018-09-08",
+      "rating": 7.0,
+      "id": "13a0e24b-7b2d-44ae-bd62-7297d9dc4d65"
+    },
+    {
+      "product": "Dave's Single",
+      "manufacturer": "Wendy's",
+      "category": "Running On Empty",
+      "videoTitle": "Is Wendy's FREE Dave's Single Burger Worth Downloading the App?",
+      "videoCode": "S4UTfZdTx3w",
+      "dateReleased": "2018-09-12",
+      "rating": 8.6,
+      "id": "82b413e5-fb32-456c-978e-be90a34f702e"
+    },
+    {
+      "product": "Triple Double Crunchwrap",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Is Taco Bell's Triple Double Crunchwrap Any Better This Year?",
+      "videoCode": "Qh0awZm1uC4",
+      "dateReleased": "2018-09-15",
+      "rating": 6.5,
+      "id": "3a3fb640-dfd6-40d7-b24f-29e475213fbe"
+    },
+    {
+      "product": "Crispy Chicken Tenders",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "Giving Burger King's New Crispy Chicken Tenders A Try!",
+      "videoCode": "hGqFC8NuPv4",
+      "dateReleased": "2018-09-22",
+      "rating": 7.5,
+      "id": "39703da9-13e0-4a66-a1e3-b626271d537e"
+    },
+    {
+      "product": "Hot Honey Chicken Tenders",
+      "manufacturer": "KFC",
+      "category": "Running On Empty",
+      "videoTitle": "NEW KFC Hot Honey Chicken Tenders Review!",
+      "videoCode": "bt-jMjwnnvE",
+      "dateReleased": "2018-09-27",
+      "rating": 7.0,
+      "id": "b536cfa4-7728-4945-a00f-6cb8e90b72f9"
+    },
+    {
+      "product": "Bacon Smokehouse Buttermilk Crispy Chicken Sandwich",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "I Review McDonald's Bacon Smokehouse Buttermilk Crispy Chicken Sandwich",
+      "videoCode": "9l0CxtcLsxY",
+      "dateReleased": "2018-10-01",
+      "rating": 7.2,
+      "id": "5e74f1ca-af25-483f-8da9-4fe27c566374"
+    },
+    {
+      "product": "Beefy Crunch Burrito",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Is Taco Bell's NEW Beefy Crunch Burrito Duo Worth $2?",
+      "videoCode": "6NWnUXaGdT0",
+      "dateReleased": "2018-10-04",
+      "rating": 8.0,
+      "id": "a056bdcf-2c7f-418e-a695-5c64ec2c4890"
+    },
+    {
+      "product": "S'Awesome Bacon Classic Single",
+      "manufacturer": "Wendy's",
+      "category": "Running On Empty",
+      "videoTitle": "How Good Is Wendy's NEW S'Awesome Bacon Cheeseburger?",
+      "videoCode": "frEal7sYFVc",
+      "dateReleased": "2018-10-10",
+      "rating": 5.9,
+      "id": "3b22b27e-07bd-451b-92e8-6a916f806f0c"
+    },
+    {
+      "product": "Frozen Fanta Scary Black Cherry Slush",
+      "manufacturer": "Burger King",
+      "category": "Drink Review",
+      "videoTitle": "How Terrifying Is Burger King's Frozen Fanta Black Cherry Drink?",
+      "videoCode": "oYHSjdvUQpw",
+      "dateReleased": "2018-10-16",
+      "rating": 8.8,
+      "id": "5d0080ef-0ec9-4aec-9e8e-0145674f13fc"
+    },
+    {
+      "product": "Caramel Apple Freeze",
+      "manufacturer": "Taco Bell",
+      "category": "Drink Review",
+      "videoTitle": "Taco Bell Caramel Apple Freeze + Mysterious PR Unboxing",
+      "videoCode": "y1VVCAe0oFE",
+      "dateReleased": "2018-10-20",
+      "rating": 7.4,
+      "id": "63de49c6-eafe-4775-a7d0-06974a904259"
+    },
+    {
+      "product": "Nightmare King",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "I Got It! Burger King's Halloween Nightmare Burger Review",
+      "videoCode": "2Bm_cxiCsm0",
+      "dateReleased": "2018-10-26",
+      "rating": 6.7,
+      "id": "2cfea9f2-7292-4e5f-98ee-afe70fec286f"
+    },
+    {
+      "product": "Superfood Side",
+      "manufacturer": "Chick-fil-A",
+      "category": "Running On Empty",
+      "videoTitle": "Fast Food Kale? Is Chick-fil-A's Superfood Side Scary?",
+      "videoCode": "h9YxDiMsTQE",
+      "dateReleased": "2018-10-30",
+      "rating": 9.0,
+      "id": "1ad4c061-58e4-44f9-93e3-f5cca050a03c"
+    },
+    {
+      "product": "Little Caesars Thin Crust Pepperoni Pizza",
+      "manufacturer": "Little Caesars",
+      "category": "Running On Empty",
+      "videoTitle": "Little Caesars Thin Crust Pepperoni Pizza Review",
+      "videoCode": "9-Spbn1PeUY",
+      "dateReleased": "2018-11-05",
+      "rating": 8.0,
+      "id": "17e838c9-aad7-441a-ad75-2ad1c221f660"
+    },
+    {
+      "product": "McRib",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "My First McRib from McDonald's",
+      "videoCode": "KmXBdmjD5is",
+      "dateReleased": "2018-11-09",
+      "rating": 7.92,
+      "id": "3436c2e6-52af-49d4-b509-9872d1e2bd36"
+    },
+    {
+      "product": "Double Cheeseburger Pizza",
+      "manufacturer": "Papa John's",
+      "category": "Running On Empty",
+      "videoTitle": "Papa John's NEW Double Cheeseburger Pizza Review",
+      "videoCode": "NUv_Sk-ToLw",
+      "dateReleased": "2018-11-14",
+      "rating": 7.1,
+      "id": "a8677260-f1e5-48a4-9ed2-a5b2642d0a4e"
+    },
+    {
+      "product": "Chicken and Waffle Sandwich",
+      "manufacturer": "KFC",
+      "category": "Running On Empty",
+      "videoTitle": "The NEW Chicken And Waffles From KFC",
+      "videoCode": "Z5F82uMIAso",
+      "dateReleased": "2018-11-18",
+      "rating": 7.0,
+      "id": "f3f6a9e9-827a-4a85-a2d5-27f13619abff"
+    },
+    {
+      "product": "Holiday Turkey and Stuffing Panini",
+      "manufacturer": "Starbucks",
+      "category": "Running On Empty",
+      "videoTitle": "Starbucks Thanksgiving Holiday Turkey & Stuffing Panini Review",
+      "videoCode": "smETHFpojzs",
+      "dateReleased": "2018-11-21",
+      "rating": 8.6,
+      "id": "d673264c-1176-4ba3-8b71-e370e7964de0"
+    },
+    {
+      "product": "Buffalo chicken sandwich",
+      "manufacturer": "Arby's",
+      "category": "Running On Empty",
+      "videoTitle": "My Favorite Food From Arby's!",
+      "videoCode": "QXXp9gfiNF8",
+      "dateReleased": "2018-11-25",
+      "rating": 8.4,
+      "id": "6bb0e4db-d400-4683-a46c-c6b2d53c9fe8"
+    },
+    {
+      "product": "Taco Bell Rolled Chicken Tacos",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell Rolled Chicken Tacos Re-Reviewed",
+      "videoCode": "qfWPlb464SE",
+      "dateReleased": "2018-11-28",
+      "rating": 8.0,
+      "id": "a6f7e29c-95ee-48c8-8465-2c0661b856e3"
+    },
+    {
+      "product": "Bacon Maple Chicken Sandwich",
+      "manufacturer": "Wendy's",
+      "category": "Running On Empty",
+      "videoTitle": "Wendy's NEW Bacon Maple Chicken Sandwich Review",
+      "videoCode": "ttlhYGo5YmY",
+      "dateReleased": "2018-12-04",
+      "rating": 8.5,
+      "id": "77344c04-c673-4ddc-961f-d5068914c693"
+    },
+    {
+      "product": "Cini Minis",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "Burger King Cini Minis Are Back! (Millennials Go NUTS!)",
+      "videoCode": "i7ccFLYwF78",
+      "dateReleased": "2018-12-08",
+      "rating": 8.3,
+      "id": "ec3290b5-9451-4311-9d5b-7b87e27053de"
+    },
+    {
+      "product": "Mushroom & Swiss Burger",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "McDonald's NEW Mushroom & Swiss Burger Review",
+      "videoCode": "P37Mfa_mCv8",
+      "dateReleased": "2018-12-16",
+      "rating": 8.0,
+      "id": "8366966d-bbc3-431e-9197-cada0bf72fa0"
+    },
+    {
+      "product": "Peppermint Mocha Frappuccino",
+      "manufacturer": "Starbucks",
+      "category": "Running On Empty",
+      "videoTitle": "CHRISTMAS BLOWOUT with Starbucks & Doughnuts",
+      "videoCode": "gEpclpCHHX0",
+      "dateReleased": "2018-12-24",
+      "rating": 8.6,
+      "id": "931cf0da-00cd-495e-a1d1-76eb5b1a0fda"
+    },
+    {
+      "product": "Papa John's Cheesesticks",
+      "manufacturer": "Papa John's",
+      "category": "Running On Empty",
+      "videoTitle": "Are Papa John's FREE Cheesesticks Worth Selling Your Soul?",
+      "videoCode": "jEMrCAv3w7w",
+      "dateReleased": "2018-12-28",
+      "rating": 9.3,
+      "id": "9c6f6e8d-1877-42fd-a115-ae632f0bd528"
+    },
+    {
+      "product": "Naked Chicken Chalupa",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "The Naked Chicken Chalupa Is BACK At Taco Bell!!",
+      "videoCode": "v39spoofisY",
+      "dateReleased": "2019-01-02",
+      "rating": 9.0,
+      "id": "b6793b81-9f06-4793-8aa6-7eea3853ff98"
+    },
+    {
+      "product": "McChicken sandwich",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "Surviving McDonald's McChicken",
+      "videoCode": "rFW-3edQmF8",
+      "dateReleased": "2019-01-09",
+      "rating": null,
+      "id": "87af8495-7726-4766-b086-4304195bf654"
+    },
+    {
+      "product": "KFC Nashville Hot Extra Crispy Chicken",
+      "manufacturer": "KFC",
+      "category": "Running On Empty",
+      "videoTitle": "KFC Nashville Hot Extra Crispy Chicken Review",
+      "videoCode": "6TdOFoxUbXs",
+      "dateReleased": "2019-01-13",
+      "rating": 8.0,
+      "id": "2a0fa2f7-10f2-4e6b-8986-05ac3e8fe9a6"
+    },
+    {
+      "product": "Bacon Melt Sonic Signature Slinger",
+      "manufacturer": "Sonic",
+      "category": "Running On Empty",
+      "videoTitle": "What does Sonic's Bacon Melt Slinger taste like?",
+      "videoCode": "lStuUFmvu1M",
+      "dateReleased": "2019-01-16",
+      "rating": 6.5,
+      "id": "5a1e8650-ff55-415f-8f40-e8acdb84c171"
+    },
+    {
+      "product": "Big King XL",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "Does the Big King XL really taste like a Big Mac?",
+      "videoCode": "mgEDteU_-hs",
+      "dateReleased": "2019-01-19",
+      "rating": 8.6,
+      "id": "52388066-f363-4051-a8f9-b53ea513bfb8"
+    },
+    {
+      "product": "Taco Bell Nacho Fries",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Are Taco Bell's Nacho Fries still good?",
+      "videoCode": "dNT6HmVGe4I",
+      "dateReleased": "2019-01-26",
+      "rating": 9.5,
+      "id": "c0bd7773-df6b-4c71-9213-1ae5155795a3"
+    },
+    {
+      "product": "Pretzel Crust Pizza",
+      "manufacturer": "Little Caesars",
+      "category": "Running On Empty",
+      "videoTitle": "Reviewing Little Caesars NEW Pretzel Crust Pizza!",
+      "videoCode": "maBCZWEfFQg",
+      "dateReleased": "2019-01-30",
+      "rating": 6.0,
+      "id": "a714520e-4ba7-4b87-8194-7a539bbd094a"
+    },
+    {
+      "product": "Big Mac Bacon",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "How the Big Mac Bacon Destroyed My Soul",
+      "videoCode": "L2jT3sdnJ28",
+      "dateReleased": "2019-02-04",
+      "rating": null,
+      "id": "49d037d4-f53b-45d9-8632-ea19c13863c5"
+    },
+    {
+      "product": "Barbecue Cheeseburger",
+      "manufacturer": "Wendy's",
+      "category": "Running On Empty",
+      "videoTitle": "Wendy's NEW Barbecue Cheeseburger Review",
+      "videoCode": "g7N53B9C49w",
+      "dateReleased": "2019-02-12",
+      "rating": 9.0,
+      "id": "79bc2a87-064c-4757-8bb7-ca56946a62a7"
+    },
+    {
+      "product": "Ultimate Cheesy Crust Pizza",
+      "manufacturer": "Pizza Hut",
+      "category": "Running On Empty",
+      "videoTitle": "Pizza Hut's Ultimate Cheesy Crust Pizza is Back!!!",
+      "videoCode": "8RamCgvJKKE",
+      "dateReleased": "2019-02-17",
+      "rating": 8.0,
+      "id": "b8e0e527-c65c-46fb-a4f6-6126d7cdf68d"
+    },
+    {
+      "product": "Southern Butterfly Shrimp",
+      "manufacturer": "Popeyes",
+      "category": "Running On Empty",
+      "videoTitle": "Will Popeyes Redeem Themselves with the Southern Butterfly Shrimp?",
+      "videoCode": "5rvW4nsmcTE",
+      "dateReleased": "2019-02-22",
+      "rating": 8.3,
+      "id": "5ea680ab-3c9c-4b29-9cb5-402bbe0dcb2a"
+    },
+    {
+      "product": "Steak Rattlesnake Fries Burrito",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell Steak Rattlesnake Fries Burrito Review",
+      "videoCode": "-o39jCLZ6s8",
+      "dateReleased": "2019-03-03",
+      "rating": 9.1,
+      "id": "6ad7a66d-3933-47d0-adb4-8628f560c613"
+    },
+    {
+      "product": "Extra Most Bestest pizza",
+      "manufacturer": "Little Caesars",
+      "category": "Running On Empty",
+      "videoTitle": "My Favorite Pizza From Little Caesars",
+      "videoCode": "yXLP1mGRmpA",
+      "dateReleased": "2019-03-06",
+      "rating": 8.8,
+      "id": "84b8c08d-bbee-4e3e-9196-c24c754c93ed"
+    },
+    {
+      "product": "McDonald's Donut Sticks",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "Will McDonald's NEW Donut Sticks Get Us To Mars?",
+      "videoCode": "qLxTVnl6AvY",
+      "dateReleased": "2019-03-12",
+      "rating": 7.7,
+      "id": "8b31ef52-c0f9-48d1-b85d-28c3eff63c5b"
+    },
+    {
+      "product": "P'Zone",
+      "manufacturer": "Pizza Hut",
+      "category": "Running On Empty",
+      "videoTitle": "My FIRST P'Zone from Pizza Hut",
+      "videoCode": "wLLpHI7tTnw",
+      "dateReleased": "2019-03-21",
+      "rating": 8.0,
+      "id": "04d60211-09af-46cc-985d-c278181d49b9"
+    },
+    {
+      "product": "Bacon Cheesy Tots",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "Are Burger King's Bacon Cheesy Tots Really That Terrible?",
+      "videoCode": "It4LK3nH_do",
+      "dateReleased": "2019-03-25",
+      "rating": 2.0,
+      "id": "738115be-32dc-42e3-a8ca-60016b515fb4"
+    },
+    {
+      "product": "Bacon-wrapped deep-dish pizza",
+      "manufacturer": "Little Caesars",
+      "category": "Running On Empty",
+      "videoTitle": "Little Caesars NEW Bacon Wrapped Deep Deep Dish Pizza Review",
+      "videoCode": "f4aJyQBA63E",
+      "dateReleased": "2019-04-01",
+      "rating": 8.55,
+      "id": "de806db8-6e65-4bfc-b3d6-ff8bd1798b05"
+    },
+    {
+      "product": "B BLT sandwich",
+      "manufacturer": "Sonic",
+      "category": "Running On Empty",
+      "videoTitle": "Sonic's NEW BBLT Sandwich Review (BLT With Extra Bacon!)",
+      "videoCode": "er915Vo2R9U",
+      "dateReleased": "2019-04-05",
+      "rating": 7.1,
+      "id": "954883bb-76d8-4283-b5d4-039baaed6f6c"
+    },
+    {
+      "product": "Angry Whopper",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "The Best Burger I've Ever Had From Burger King!",
+      "videoCode": "-ABljxG69SE",
+      "dateReleased": "2019-04-15",
+      "rating": 9.4,
+      "id": "3c61b0cb-0331-47ec-8693-0f3be11eec67"
+    },
+    {
+      "product": "Papa John's Ultimate Pepperoni Pizza",
+      "manufacturer": "Papa John's",
+      "category": "Running On Empty",
+      "videoTitle": "Papa John's Ultimate Pepperoni Pizza Review",
+      "videoCode": "0yRs6r88yTg",
+      "dateReleased": "2019-04-27",
+      "rating": 9.7,
+      "id": "64f5dd20-ccb1-4d1a-bda5-3955bb5a07d1"
+    },
+    {
+      "product": "The Coke vs. Pepsi Challenge",
+      "manufacturer": "The Coca-Cola Company; PepsiCo",
+      "category": "Drink Review",
+      "videoTitle": "The Coke vs. Pepsi Challenge",
+      "videoCode": "IS2a7Xs6c1c",
+      "dateReleased": "2019-05-11",
+      "rating": 8.0,
+      "id": "3f51954c-1212-45e2-bbe9-e7dae477b0ec"
+    },
+    {
+      "product": "Domino's Pepperoni Pan Pizza",
+      "manufacturer": "Domino's",
+      "category": "Running On Empty",
+      "videoTitle": "Domino's Pepperoni Pan Pizza Take-Two",
+      "videoCode": "6SEEXdSIWek",
+      "dateReleased": "2019-05-14",
+      "rating": 6.5,
+      "id": "8c4c7311-ab5c-43d9-9c6a-381456e19238"
+    },
+    {
+      "product": "Grande Nachos Box",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Is Taco Bell's $5 Grande Nachos Box Worth It?",
+      "videoCode": "h6jHS6hh9Ww",
+      "dateReleased": "2019-05-19",
+      "rating": 5.5,
+      "id": "e3d2795a-ee4d-49b8-a74e-c8bc607b2932"
+    },
+    {
+      "product": "Sonic Red Bull Cherry Limeade Slush",
+      "manufacturer": "Sonic (with Red Bull)",
+      "category": "Energy Crisis",
+      "videoTitle": "Sonic Red Bull Cherry Limeade Slush Review!",
+      "videoCode": "cKTdmaimJLE",
+      "dateReleased": "2019-05-24",
+      "rating": 4.0,
+      "id": "e1e2a4c9-0c56-4433-a8f2-49df970e8cc0"
+    },
+    {
+      "product": "Favorite items from McDonald's",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "My Favorite Fast Food Items From McDonald's",
+      "videoCode": "Wvr4ljRLtf4",
+      "dateReleased": "2019-05-28",
+      "rating": null,
+      "id": "82cfd52d-65d5-4a52-8a5f-c1aeb5c4bad7"
+    },
+    {
+      "product": "Pizza Hut Pan Pizza",
+      "manufacturer": "Pizza Hut",
+      "category": "Running On Empty",
+      "videoTitle": "Bye Pizza Hut Pan Pizza!",
+      "videoCode": "Il8X6McoDGQ",
+      "dateReleased": "2019-06-02",
+      "rating": 7.0,
+      "id": "7462cee9-c1ad-4be1-8126-8dea2b43b7be"
+    },
+    {
+      "product": "McDonald's Grand McExtreme Bacon Burger",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "McDonald's Grand McExtreme Bacon Burger Review",
+      "videoCode": "HehqX_Ju5do",
+      "dateReleased": "2019-06-06",
+      "rating": 3.0,
+      "id": "da39988e-fbe9-424f-ad34-da053bd4163e"
+    },
+    {
+      "product": "Nacho Fries",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "We Need To Talk About These Nacho Fries...",
+      "videoCode": "PkSkAz7eDwI",
+      "dateReleased": "2019-06-13",
+      "rating": 7.0,
+      "id": "4014187f-f392-4a8a-be53-8efc118349e2"
+    },
+    {
+      "product": "Rodeo King",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "Burger King's NEW Rodeo King Review",
+      "videoCode": "i4cICeXig2w",
+      "dateReleased": "2019-06-18",
+      "rating": 8.1,
+      "id": "6d154d02-1583-4767-bbd2-27da2656dde8"
+    },
+    {
+      "product": "Stuffed Crust Extra Most Bestest Pizza",
+      "manufacturer": "Little Caesars",
+      "category": "Running On Empty",
+      "videoTitle": "Little Caesars Stuffed Crust Pizza Review",
+      "videoCode": "EaUlfk3AdUg",
+      "dateReleased": "2019-06-29",
+      "rating": 8.0,
+      "id": "0c79c1dc-fb83-49a1-a18e-9256d5198845"
+    },
+    {
+      "product": "Cheetos Sandwich",
+      "manufacturer": "KFC",
+      "category": "Running On Empty",
+      "videoTitle": "How Cheesy Is KFC's NEW Cheetos Sandwich?",
+      "videoCode": "c2zakEQrsSA",
+      "dateReleased": "2019-07-02",
+      "rating": 8.1,
+      "id": "bcd368a9-7e1e-4332-8e78-7e8cd1b114af"
+    },
+    {
+      "product": "Burger King one-dollar tacos",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "Tacos at Burger King??",
+      "videoCode": "JrZzzQxIUvU",
+      "dateReleased": "2019-07-10",
+      "rating": 6.85,
+      "id": "79835a5f-82c3-4f39-a559-beb8f8b5921f"
+    },
+    {
+      "product": "Steak Reaper Ranch Fries Supreme",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Are Taco Bell's Reaper Fries The Hottest Ever?",
+      "videoCode": "OeLPiktYXYY",
+      "dateReleased": "2019-07-15",
+      "rating": 5.0,
+      "id": "53c7791b-9253-4377-a48a-e3ff9d3c450f"
+    },
+    {
+      "product": "Sichuan Hot Chicken (Chicken Tenders)",
+      "manufacturer": "Panda Express",
+      "category": "Running On Empty",
+      "videoTitle": "Panda Express has Spicy Hot Chicken Tenders!",
+      "videoCode": "Mf6xNZkIcEY",
+      "dateReleased": "2019-07-19",
+      "rating": 5.4,
+      "id": "d767e09c-d1cd-4773-8872-d9052acfe5e9"
+    },
+    {
+      "product": "Bacon Jalapeno Cheeseburger",
+      "manufacturer": "Wendy's",
+      "category": "Running On Empty",
+      "videoTitle": "Wendy's Bacon Jalapeno Cheeseburger is Crazy!",
+      "videoCode": "CFZq41kyLcs",
+      "dateReleased": "2019-07-22",
+      "rating": 6.1,
+      "id": "1a495228-1ca4-4920-bc36-dd921512ba6f"
+    },
+    {
+      "product": "Culver's Deluxe burger; Wisconsin cheese curds; Cookies and Cream frozen custard",
+      "manufacturer": "Culver's",
+      "category": "Running On Empty",
+      "videoTitle": "My Favorite Fast Food Items From Culver's",
+      "videoCode": "V1bc6ORRBFw",
+      "dateReleased": "2019-07-29",
+      "rating": null,
+      "id": "15ba0575-9388-4931-af43-04e67b3e84de"
+    },
+    {
+      "product": "Taco Bell Doritos Locos Taco",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "I Pick The BEST Taco Bell Doritos Locos Taco",
+      "videoCode": "btNoKpe4WtM",
+      "dateReleased": "2019-08-01",
+      "rating": 8.8,
+      "id": "c774d484-4d7b-41c5-b4bb-4417d3dba82a"
+    },
+    {
+      "product": "Quarter Pounder with Cheese and Bacon",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "The McDonald's Quarter Pounder Bacon Burger of my Dreams!",
+      "videoCode": "3msm4EO4E4s",
+      "dateReleased": "2019-08-05",
+      "rating": 8.0,
+      "id": "5c6b6a7a-21ea-4ed8-ab0c-0eeb967208c3"
+    },
+    {
+      "product": "Impossible Whopper",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "Trying Burger King's NEW Impossible Whopper!!",
+      "videoCode": "O0bVTxRIWAM",
+      "dateReleased": "2019-08-08",
+      "rating": 8.2,
+      "id": "af71512a-28e3-4f05-9684-f4c1ed6a84aa"
+    },
+    {
+      "product": "Wendy's Spicy Chicken Nuggets",
+      "manufacturer": "Wendy's",
+      "category": "Running On Empty",
+      "videoTitle": "Wendy's Spicy Chicken Nuggets are BACK!!",
+      "videoCode": "WAnkubJbijk",
+      "dateReleased": "2019-08-13",
+      "rating": 8.6,
+      "id": "267e9a86-d021-4377-a589-0d06de6bbae3"
+    },
+    {
+      "product": "Triple Double Crunchwrap",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell did it again...",
+      "videoCode": "EJplfz5O3mY",
+      "dateReleased": "2019-08-17",
+      "rating": 7.0,
+      "id": "0bfdae66-861d-4523-8da8-102d704197d2"
+    },
+    {
+      "product": "Popeyes Chicken Sandwich vs. Chick-fil-A Original Chicken Sandwich",
+      "manufacturer": "Popeyes; Chick-fil-A",
+      "category": "Running On Empty",
+      "videoTitle": "Popeyes vs. Chick-fil-A Which Chicken Sandwich is better?",
+      "videoCode": "9-exROcuLp8",
+      "dateReleased": "2019-08-21",
+      "rating": null,
+      "id": "15a79d43-de7a-47ef-a7dd-0ef4d3ba81de"
+    },
+    {
+      "product": "Quattro Pizza",
+      "manufacturer": "Little Caesars",
+      "category": "Running On Empty",
+      "videoTitle": "Trying out Little Caesars NEW Quattro Pizza!",
+      "videoCode": "vFv6g8Zs2tY",
+      "dateReleased": "2019-08-29",
+      "rating": 6.2,
+      "id": "066f2691-063a-4cd5-98e7-67bf6eb02d22"
+    },
+    {
+      "product": "Spicy BBQ Glazed Tenders",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "What do McDonald's Spicy BBQ Glazed Tenders taste like?",
+      "videoCode": "OfX4cf7BbeA",
+      "dateReleased": "2019-09-02",
+      "rating": 7.0,
+      "id": "79652cb2-58ff-47c1-a1ba-3ac0e5523989"
+    },
+    {
+      "product": "Chick-fil-A Mac and Cheese",
+      "manufacturer": "Chick-fil-A",
+      "category": "Running On Empty",
+      "videoTitle": "Is Chick-fil-A's Mac and Cheese better than Grandma's?",
+      "videoCode": "MTAxDC5hijw",
+      "dateReleased": "2019-09-06",
+      "rating": 7.4,
+      "id": "60ae8cea-4f93-40b9-9ab7-c2cfdb033702"
+    },
+    {
+      "product": "Toasted Cheddar Chalupa",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell's NEW Toasted Cheddar Chalupa Review",
+      "videoCode": "dniAaI79K24",
+      "dateReleased": "2019-09-13",
+      "rating": 4.9,
+      "id": "7be4b9e6-292b-4101-97a5-17555e31878e"
+    },
+    {
+      "product": "Spicy BBQ Chicken Sandwich",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "McDonald's NEW Spicy BBQ Chicken Sandwich Review!",
+      "videoCode": "7xr5Y0KVyAM",
+      "dateReleased": "2019-09-17",
+      "rating": 7.5,
+      "id": "51afe700-b354-4901-a52d-70b0ac315ee8"
+    },
+    {
+      "product": "Pizza Hut Stuffed Cheez-It",
+      "manufacturer": "Pizza Hut",
+      "category": "Running On Empty",
+      "videoTitle": "Just how Cheesy is Pizza Hut's Stuffed Cheez-It?",
+      "videoCode": "pkyv1doPaHA",
+      "dateReleased": "2019-09-19",
+      "rating": 6.0,
+      "id": "fd22c79e-53f1-422a-b693-d8088460acc4"
+    },
+    {
+      "product": "Pretzel Bacon King",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "Trying Burger King's NEW Pretzel Bacon King!",
+      "videoCode": "Ve-bjAfATzk",
+      "dateReleased": "2019-09-24",
+      "rating": 3.0,
+      "id": "42aa63a4-419a-4c24-87b4-e268953acae2"
+    },
+    {
+      "product": "Monster Energy Zero Ultra",
+      "manufacturer": "Monster Energy",
+      "category": "Energy Crisis",
+      "videoTitle": "What's going on with Monster Energy Zero Ultra?",
+      "videoCode": "0u6mmHW4jdQ",
+      "dateReleased": "2019-09-29",
+      "rating": 8.0,
+      "id": "383941b0-6588-480e-8daf-bb78c3a65bbd"
+    },
+    {
+      "product": "Steak 'n Shake (favorite menu items: triple steakburger with bacon, Cajun fries, vanilla Coke)",
+      "manufacturer": "Steak 'n Shake",
+      "category": "Running On Empty",
+      "videoTitle": "What are the Best Items from Steak 'n Shake?",
+      "videoCode": "Lbj7UiWJQSY",
+      "dateReleased": "2019-10-03",
+      "rating": 8.3,
+      "id": "0062aec7-614b-4953-9bcc-614af90d3b5c"
+    },
+    {
+      "product": "Honey Sesame Chicken",
+      "manufacturer": "Panda Express",
+      "category": "Running On Empty",
+      "videoTitle": "Did Panda Express Drop the Ball this time?",
+      "videoCode": "RaIw_KGfQD0",
+      "dateReleased": "2019-10-06",
+      "rating": 8.4,
+      "id": "c13b515e-59d1-4b96-bc33-b1d211d865e9"
+    },
+    {
+      "product": "McRib",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "McDonald's McRib is BACK!",
+      "videoCode": "VR-Z1aQbyMU",
+      "dateReleased": "2019-10-09",
+      "rating": 8.6,
+      "id": "4e41480c-db49-4338-b194-e117b3629c1c"
+    },
+    {
+      "product": "KFC Kentucky Fried Wings",
+      "manufacturer": "KFC",
+      "category": "Running On Empty",
+      "videoTitle": "KFC's NEW Kentucky Fried Wings Review",
+      "videoCode": "SGmoAj7i2o0",
+      "dateReleased": "2019-10-12",
+      "rating": 7.1,
+      "id": "b4daf350-db57-45a5-bc28-40667ce71ba5"
+    },
+    {
+      "product": "Jack-O'-Lantern Pizza",
+      "manufacturer": "Papa John's",
+      "category": "Running On Empty",
+      "videoTitle": "Why Papa John's Jack-O'-Lantern Pizza Scares Me",
+      "videoCode": "i7zBIyOHcFc",
+      "dateReleased": "2019-10-16",
+      "rating": 4.0,
+      "id": "57e323e3-980d-48d0-a7df-080c45c9883f"
+    },
+    {
+      "product": "Voodoo Chicken Tenders",
+      "manufacturer": "Popeyes",
+      "category": "Running On Empty",
+      "videoTitle": "Popeyes NEW Voodoo Chicken Tenders Review",
+      "videoCode": "V63yQpOXi_Q",
+      "dateReleased": "2019-10-22",
+      "rating": 8.5,
+      "id": "cce87753-0006-4ee2-90b3-8950e07f95f9"
+    },
+    {
+      "product": "Sonic Fried Oreos",
+      "manufacturer": "Sonic",
+      "category": "Running On Empty",
+      "videoTitle": "Sonic Fried Oreos Review!",
+      "videoCode": "biU7VdZRd4Y",
+      "dateReleased": "2019-10-25",
+      "rating": 5.0,
+      "id": "489b953e-83e1-4365-b43c-84c4ceb5389d"
+    },
+    {
+      "product": "Double Chalupa",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell Totally BLEW IT with the Double Chalupa",
+      "videoCode": "XIfO7FfQUAM",
+      "dateReleased": "2019-10-29",
+      "rating": 3.0,
+      "id": "c672f436-c637-42a9-9084-26ad1152aa1e"
+    },
+    {
+      "product": "Smoky Sriracha Wings",
+      "manufacturer": "Pizza Hut",
+      "category": "Running On Empty",
+      "videoTitle": "Pizza Hut's NEW Smoky Sriracha Chicken Wings Review",
+      "videoCode": "7P0udMqWKdM",
+      "dateReleased": "2019-11-02",
+      "rating": 8.1,
+      "id": "48d461d0-a7d8-4d11-8289-f8f6e4077b6a"
+    },
+    {
+      "product": "Popeyes Spicy Chicken Sandwich (comparative review of 5 spicy chicken sandwiches)",
+      "manufacturer": "Popeyes",
+      "category": "Running On Empty",
+      "videoTitle": "5 Spicy Chicken Sandwiches in 1 Day! Will Popeyes WIN?",
+      "videoCode": "3FxxU7iqmA4",
+      "dateReleased": "2019-11-04",
+      "rating": 9.0,
+      "id": "b1181e79-4904-462a-9fc8-7cfb6e4fbab3"
+    },
+    {
+      "product": "Garlic Parmesan Crust Pizza",
+      "manufacturer": "Papa John's",
+      "category": "Running On Empty",
+      "videoTitle": "Recovering With Papa John's Garlic Parmesan Crust Pizza",
+      "videoCode": "8gx2lPaSctU",
+      "dateReleased": "2019-11-13",
+      "rating": 6.0,
+      "id": "76784a3e-da11-4422-9440-e953a3680e01"
+    },
+    {
+      "product": "Stuffed Garlic Knots Pizza",
+      "manufacturer": "Pizza Hut",
+      "category": "Running On Empty",
+      "videoTitle": "Did Pizza Hut Get It Right This Time?",
+      "videoCode": "7rwBhIbwLuA",
+      "dateReleased": "2019-11-22",
+      "rating": 5.7,
+      "id": "4ca4dce0-207d-46e3-9f4f-5d9f63477786"
+    },
+    {
+      "product": "Nashville Hot Chicken and Waffles (Sandwich)",
+      "manufacturer": "KFC",
+      "category": "Running On Empty",
+      "videoTitle": "Did KFC just ruin Chicken And Waffles?",
+      "videoCode": "8nHcRaTfZEI",
+      "dateReleased": "2019-11-26",
+      "rating": 1.0,
+      "id": "e6f6a8b2-9161-46bc-87ac-b7ae0af5d153"
+    },
+    {
+      "product": "Bacon BBQ Burger",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "McDonald's NEW Bacon BBQ Burger Review!",
+      "videoCode": "oUEKnQy_Ds4",
+      "dateReleased": "2019-12-01",
+      "rating": 8.6,
+      "id": "9b72b880-3459-42ec-935c-1c355ab30d38"
+    },
+    {
+      "product": "Meatzza pizza",
+      "manufacturer": "Domino's",
+      "category": "Running On Empty",
+      "videoTitle": "Is Dominos MeatZZa Pizza Worth Getting?",
+      "videoCode": "bcj27PCOB7E",
+      "dateReleased": "2019-12-06",
+      "rating": 7.0,
+      "id": "2a5cad09-1f62-4be7-a01a-119552087cba"
+    },
+    {
+      "product": "Freschetta Rising Crust Frozen Pizza",
+      "manufacturer": "Freschetta",
+      "category": "Running On Empty",
+      "videoTitle": "Frozen Pizza - The Adventure (2019)",
+      "videoCode": "AiVJ2ZSbpho",
+      "dateReleased": "2019-12-10",
+      "rating": 7.5,
+      "id": "1602782b-ef0b-4f6f-adf7-7f2f8cab2181"
+    },
+    {
+      "product": "Taco Bell Rolled Chicken Tacos",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Are Taco Bell's Rolled Chicken Tacos Any Better This Time?",
+      "videoCode": "FFAVCXIew5U",
+      "dateReleased": "2019-12-14",
+      "rating": 7.3,
+      "id": "a2cb663a-7ae0-4650-bdc8-8d6a89048074"
+    },
+    {
+      "product": "Starbucks double smoked bacon cheddar and egg sandwich",
+      "manufacturer": "Starbucks",
+      "category": "Running On Empty",
+      "videoTitle": "The BEST Fast Food Breakfast Sandwich",
+      "videoCode": "WDqv5cwNTPg",
+      "dateReleased": "2019-12-19",
+      "rating": 8.8,
+      "id": "949a0503-7615-445e-8bc9-c9b0a299fd47"
+    },
+    {
+      "product": "DiGiorno Stuffed Crust Pizza",
+      "manufacturer": "DiGiorno",
+      "category": "Running On Empty",
+      "videoTitle": "DiGiorno Stuffed Crust Pizza for Christmas Dinner?",
+      "videoCode": "LmC6qYpIo2c",
+      "dateReleased": "2019-12-24",
+      "rating": 5.0,
+      "id": "27dc263c-9a40-4a7e-8fb5-fd0844d158f0"
+    },
+    {
+      "product": "Monster Ultra Paradise",
+      "manufacturer": "Monster Energy",
+      "category": "Energy Crisis",
+      "videoTitle": "Cheers to a New Year with Monster Ultra Paradise!",
+      "videoCode": "JFB5wk8hi1M",
+      "dateReleased": "2019-12-30",
+      "rating": 8.0,
+      "id": "757c6813-a13d-4e7b-9b06-28b3f8a0e892"
+    },
+    {
+      "product": "Extra Cheesy Alfredo Garlic Parmesan Crust Pizza",
+      "manufacturer": "Papa John's",
+      "category": "Running On Empty",
+      "videoTitle": "Is Papa John's Extra Cheesy Alfredo Pizza TOO Cheesy?",
+      "videoCode": "3Abnmizvi_4",
+      "dateReleased": "2020-01-04",
+      "rating": 5.8,
+      "id": "46bff7d3-d4c0-4b81-9844-f3c07f1db2b8"
+    },
+    {
+      "product": "Reaper Ranch Double Stacked Taco",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "How Spicy is Taco Bell's Reaper Ranch Double Stacked Taco?",
+      "videoCode": "4XFh1s42yvA",
+      "dateReleased": "2020-01-10",
+      "rating": 8.3,
+      "id": "52a9cac5-86c7-4923-9776-3aa96b2cab8c"
+    },
+    {
+      "product": "Cheddar Bacon King",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "Is Burger King's Cheddar Bacon King Its Best Yet?",
+      "videoCode": "v5LJnabak-w",
+      "dateReleased": "2020-01-21",
+      "rating": 7.0,
+      "id": "3d959bce-a641-4cab-b2b7-2ab9a5fd9373"
+    },
+    {
+      "product": "Jell-O (strawberry, orange, blue raspberry)",
+      "manufacturer": "Jell-O",
+      "category": "Running On Empty",
+      "videoTitle": "Jell-O, How are ya?",
+      "videoCode": "_PgWRhHO4DA",
+      "dateReleased": "2020-02-01",
+      "rating": 7.2,
+      "id": "b7eff483-c184-4ce0-93a7-e86284378202"
+    },
+    {
+      "product": "Coca-Cola Energy (Original & Cherry)",
+      "manufacturer": "Coca-Cola",
+      "category": "Energy Crisis",
+      "videoTitle": "Does Coke Have The Best Energy Drink?",
+      "videoCode": "4bXtP7dP888",
+      "dateReleased": "2020-02-06",
+      "rating": 9.0,
+      "id": "d5fd7e5c-83e5-411e-953c-59e382b3b556"
+    },
+    {
+      "product": "Papadia (Philly Cheesesteak)",
+      "manufacturer": "Papa John's",
+      "category": "Running On Empty",
+      "videoTitle": "Celebrating National Pizza Day with Papa John's Papadias!",
+      "videoCode": "Q4HpoGYdk0g",
+      "dateReleased": "2020-02-09",
+      "rating": 6.62,
+      "id": "ac8142d2-ef09-4351-8d6e-8439bd2383e5"
+    },
+    {
+      "product": "Mozzarella Poppers Pizza",
+      "manufacturer": "Pizza Hut",
+      "category": "Running On Empty",
+      "videoTitle": "Pizza Hut NEW Mozzarella Poppers Pizza Review!",
+      "videoCode": "_RTJ2E7I7X4",
+      "dateReleased": "2020-02-14",
+      "rating": 4.1,
+      "id": "6cef762f-4f63-4767-a91e-07817705d1eb"
+    },
+    {
+      "product": "Buttermilk Biscuit Shrimp Combo",
+      "manufacturer": "Popeyes",
+      "category": "Running On Empty",
+      "videoTitle": "Did Popeyes Buttermilk Biscuit Shrimp Ruin My Day?",
+      "videoCode": "OBtf0LmFUSk",
+      "dateReleased": "2020-02-19",
+      "rating": 9.0,
+      "id": "0e297d7a-2c16-46cd-9ebe-57429db32f5f"
+    },
+    {
+      "product": "Buffalo Chicken Nacho Fries",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Are Taco Bell's Buffalo Chicken Fries Their Spiciest Yet?",
+      "videoCode": "7OV01BFR4O0",
+      "dateReleased": "2020-02-24",
+      "rating": 8.26,
+      "id": "709d7046-ec22-43a8-8f99-dffa93935879"
+    },
+    {
+      "product": "Chicken and Donuts Sandwich",
+      "manufacturer": "KFC",
+      "category": "Running On Empty",
+      "videoTitle": "KFC Chicken & Donuts Sandwich Review!",
+      "videoCode": "0ZxdBPMW-8w",
+      "dateReleased": "2020-02-27",
+      "rating": 6.8,
+      "id": "2348038c-f053-4fc3-b549-621d6e692121"
+    },
+    {
+      "product": "Jalapeño Popper Rolls",
+      "manufacturer": "Papa John's",
+      "category": "Running On Empty",
+      "videoTitle": "Papa John's NEW Jalapeño Popper Rolls Review!",
+      "videoCode": "2msbOCqgmz8",
+      "dateReleased": "2020-03-06",
+      "rating": 5.8,
+      "id": "61014f48-870a-4e38-8270-62583c7ae50d"
+    },
+    {
+      "product": "Breakfast Baconator; Maple Bacon Chicken Croissant (Wendy's breakfast items)",
+      "manufacturer": "Wendy's",
+      "category": "Running On Empty",
+      "videoTitle": "Wendy's NEW Breakfast Menu Reviewed!",
+      "videoCode": "cWWhHf1g0Ww",
+      "dateReleased": "2020-03-10",
+      "rating": null,
+      "id": "2c0a4f97-ae4d-4b84-9742-2113fb538d4b"
+    },
+    {
+      "product": "Big Dipper pizza",
+      "manufacturer": "Pizza Hut",
+      "category": "Running On Empty",
+      "videoTitle": "Pizza Hut NEW Big Dipper Pizza Review!",
+      "videoCode": "XdKSFE2wl4E",
+      "dateReleased": "2020-03-15",
+      "rating": 7.7,
+      "id": "41351d4d-bb27-437d-a041-863cf1b3444e"
+    },
+    {
+      "product": "Red Baron Deep-Dish Singles Pepperoni Pizza",
+      "manufacturer": "Red Baron",
+      "category": "Running On Empty",
+      "videoTitle": "How Can Red Baron Deep Dish Frozen Pizza Be So Good?",
+      "videoCode": "-YOUvtst5II",
+      "dateReleased": "2020-03-20",
+      "rating": 8.0,
+      "id": "d47def6d-f347-41a2-b7ad-2ecf69b02d8d"
+    },
+    {
+      "product": "Mucinex NightShift (Sinus and Cold & Flu)",
+      "manufacturer": "Mucinex (Reckitt)",
+      "category": "Drink Review",
+      "videoTitle": "Mucinex NightShift (Sinus and Cold & Flu) Review!",
+      "videoCode": "iniCnF6a3_0",
+      "dateReleased": "2020-03-26",
+      "rating": 8.4,
+      "id": "538054fb-b744-41f2-b45f-a28aab43e9c3"
+    },
+    {
+      "product": "Hebrew National beef franks in a puff pastry blanket (Pigs in a Blanket)",
+      "manufacturer": "Hebrew National",
+      "category": "Running On Empty",
+      "videoTitle": "Snack Time with Hebrew National Pigs in a Blanket!",
+      "videoCode": "7pjbmHOCKe8",
+      "dateReleased": "2020-03-31",
+      "rating": 8.5,
+      "id": "baf723c6-85eb-4aa1-ba1d-f9da71d7f9cd"
+    },
+    {
+      "product": "Double Big Mac",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "McDonald's NEW Double Big Mac Review!",
+      "videoCode": "VgethQHrhDk",
+      "dateReleased": "2020-04-03",
+      "rating": 9.0,
+      "id": "9ff0c726-f203-44f0-abd6-6eb115d23c44"
+    },
+    {
+      "product": "DiGiorno Bacon & Cheese Stuffed Crust Pizza",
+      "manufacturer": "DiGiorno",
+      "category": "Running On Empty",
+      "videoTitle": "DiGiorno Bacon & Cheese Stuffed Crust Pizza Review!",
+      "videoCode": "t92F6WFR-Ko",
+      "dateReleased": "2020-04-09",
+      "rating": 6.8,
+      "id": "edeed1b4-84d9-44e4-8674-2499fd9015ca"
+    },
+    {
+      "product": "Pepperoni Cheesier Pizza",
+      "manufacturer": "Little Caesars",
+      "category": "Running On Empty",
+      "videoTitle": "Little Caesars Pepperoni Cheeser! Cheeser! Pizza Review!",
+      "videoCode": "Im52MYoO8Jc",
+      "dateReleased": "2020-04-14",
+      "rating": 7.4,
+      "id": "e359dfe6-0820-4d24-9c90-2b8ae59d960d"
+    },
+    {
+      "product": "Flamin' Hot Doritos Locos Taco",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell Flamin' Hot Doritos Locos Tacos Review!",
+      "videoCode": "5DpVycon7AI",
+      "dateReleased": "2020-04-22",
+      "rating": 9.0,
+      "id": "8f9157a8-31d7-4e62-b1de-75c2a3b589d8"
+    },
+    {
+      "product": "California Pizza Kitchen BBQ Chicken Frozen Pizza",
+      "manufacturer": "California Pizza Kitchen",
+      "category": "Running On Empty",
+      "videoTitle": "California Pizza Kitchen BBQ Chicken Frozen Pizza Review!",
+      "videoCode": "y7iqIJeLL4I",
+      "dateReleased": "2020-04-27",
+      "rating": 6.8,
+      "id": "e7b9b697-d499-4018-9def-2a1f1394588b"
+    },
+    {
+      "product": "Three favorite items from Domino's Pizza (Boneless Chicken, Bacon & Jalapeno Stuffed Cheesy Bread, Pepperoni Handmade Pan Pizza)",
+      "manufacturer": "Domino's Pizza",
+      "category": "Running On Empty",
+      "videoTitle": "Reviewbrah's FAVORITE Items From Domino's Pizza!",
+      "videoCode": "3DbzRgQypWE",
+      "dateReleased": "2020-05-03",
+      "rating": null,
+      "id": "3eaf82c9-9948-406a-9fd6-ff668dbf73f6"
+    },
+    {
+      "product": "Java Monster Mean Bean",
+      "manufacturer": "Monster",
+      "category": "Energy Crisis",
+      "videoTitle": "Is Java Monster Mean Bean The Ultimate Coffee Drink?",
+      "videoCode": "rKH1HWd1VY0",
+      "dateReleased": "2020-05-09",
+      "rating": 7.0,
+      "id": "dbad4bed-3017-473d-920d-3cd70a5eb212"
+    },
+    {
+      "product": "Spicy Nuggets",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "Spicing Things Up With Burger King's NEW Spicy Nuggets!",
+      "videoCode": "3srQCTjeW8Y",
+      "dateReleased": "2020-05-20",
+      "rating": 8.1,
+      "id": "75418e16-90e9-4f9c-bb72-df315b796ae6"
+    },
+    {
+      "product": "Cheddar Chicken Ranch Sandwich",
+      "manufacturer": "Arby's",
+      "category": "Running On Empty",
+      "videoTitle": "Arby's NEW Chicken Cheddar Ranch Sandwich Review!",
+      "videoCode": "x0SkYki3ikQ",
+      "dateReleased": "2020-05-27",
+      "rating": 5.9,
+      "id": "42b2f173-4b37-4682-8b14-da420eee1c72"
+    },
+    {
+      "product": "Popeyes Buffalo Ranch Chicken Tenders",
+      "manufacturer": "Popeyes",
+      "category": "Running On Empty",
+      "videoTitle": "Why Are Popeyes Buffalo Ranch Chicken Tenders So Disappointing?",
+      "videoCode": "0FpjXpN99YU",
+      "dateReleased": "2020-06-02",
+      "rating": 4.7,
+      "id": "cb8a26a2-60a7-4eda-946b-fcd4aa2fb657"
+    },
+    {
+      "product": "Stuffed Crazy Bread",
+      "manufacturer": "Little Caesars",
+      "category": "Running On Empty",
+      "videoTitle": "Little Caesars NEW Stuffed Crazy Bread Review!",
+      "videoCode": "b7G7ONUMOcA",
+      "dateReleased": "2020-06-07",
+      "rating": 8.9,
+      "id": "e935162d-cd91-4fbd-8d2b-c096bd136994"
+    },
+    {
+      "product": "Pineapple Whip Freeze",
+      "manufacturer": "Taco Bell",
+      "category": "Drink Review",
+      "videoTitle": "Where Did Taco Bell's Pineapple Whip Freeze Go Wrong?",
+      "videoCode": "v3KpOHbEMVM",
+      "dateReleased": "2020-06-13",
+      "rating": 5.1,
+      "id": "0ceec68e-ff74-454f-b475-426d933508a8"
+    },
+    {
+      "product": "Arby's Sweet Potato Waffle Fries",
+      "manufacturer": "Arby's",
+      "category": "Running On Empty",
+      "videoTitle": "Arby's NEW Sweet Potato Waffle Fries Review!",
+      "videoCode": "TTVUR0KVJgA",
+      "dateReleased": "2020-06-17",
+      "rating": 5.5,
+      "id": "a1241441-dac0-413b-bca0-bab18aa6bc7f"
+    },
+    {
+      "product": "DiGiorno Croissant Crust Pizza (Pepperoni)",
+      "manufacturer": "DiGiorno",
+      "category": "Running On Empty",
+      "videoTitle": "DiGiorno NEW Croissant Crust Pizza Review!",
+      "videoCode": "FuwHaT8gQGo",
+      "dateReleased": "2020-06-21",
+      "rating": 4.7,
+      "id": "dcd14254-2369-40a5-a89c-c96985382d2f"
+    },
+    {
+      "product": "Shaq-a-Roni Pizza",
+      "manufacturer": "Papa John's",
+      "category": "Running On Empty",
+      "videoTitle": "Papa John's NEW Shaq-a-Roni Pizza Review!",
+      "videoCode": "Hq8ktRocRV0",
+      "dateReleased": "2020-07-02",
+      "rating": 8.0,
+      "id": "8ac02f78-5bec-4837-9805-4b9166c82653"
+    },
+    {
+      "product": "Grilled Cheese Burrito",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "How Cheesy is Taco Bell's NEW Grilled Cheese Burrito?",
+      "videoCode": "6G7bR_6n7JU",
+      "dateReleased": "2020-07-06",
+      "rating": 8.5,
+      "id": "b63d7b81-a573-41a0-91f5-840580087ce9"
+    },
+    {
+      "product": "Red Baron Classic Crust Four Cheese Pizza",
+      "manufacturer": "Red Baron",
+      "category": "Running On Empty",
+      "videoTitle": "Red Baron Classic Crust Four Cheese Pizza Review!",
+      "videoCode": "g8p0ftAJlgY",
+      "dateReleased": "2020-07-11",
+      "rating": 7.7,
+      "id": "5227f165-4fe3-411c-b35a-ede68c6882ed"
+    },
+    {
+      "product": "KFC Secret Recipe Fries",
+      "manufacturer": "KFC",
+      "category": "Running On Empty",
+      "videoTitle": "What's so Special About KFC's Secret Recipe Fries?",
+      "videoCode": "9CSFz91BSLw",
+      "dateReleased": "2020-07-15",
+      "rating": 6.0,
+      "id": "c57bc64b-57b9-4b8a-8e25-62002135c28a"
+    },
+    {
+      "product": "Domino's new wings",
+      "manufacturer": "Domino's",
+      "category": "Running On Empty",
+      "videoTitle": "The Wings Domino's Doesn't Want You To Know About...",
+      "videoCode": "qJK74p-zbSw",
+      "dateReleased": "2020-07-20",
+      "rating": 8.4,
+      "id": "f5aaa683-cb5e-4f23-88a3-687a0bf9da4f"
+    },
+    {
+      "product": "Steakhouse King",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "Burger King NEW Steakhouse King Review!",
+      "videoCode": "MkOzU8IMJaw",
+      "dateReleased": "2020-07-25",
+      "rating": 8.1,
+      "id": "2fb1525f-9f6a-45f1-bf58-6cfe7ebcacc9"
+    },
+    {
+      "product": "Beer Battered Fish Sandwich",
+      "manufacturer": "Arby's",
+      "category": "Running On Empty",
+      "videoTitle": "Arby's NEW Beer Battered Fish Sandwich Review!",
+      "videoCode": "OFQGQyrl7oQ",
+      "dateReleased": "2020-07-30",
+      "rating": 7.0,
+      "id": "b832088c-9ad3-49db-8b3b-254adf045a9e"
+    },
+    {
+      "product": "Crispy Chicken Taco",
+      "manufacturer": "Del Taco",
+      "category": "Running On Empty",
+      "videoTitle": "Will Del Taco's NEW Crispy Chicken Taco be a Game Changer?",
+      "videoCode": "rAcnifCprA4",
+      "dateReleased": "2020-08-03",
+      "rating": 6.0,
+      "id": "dd3e55f5-3893-43d9-84c3-66424ce4894f"
+    },
+    {
+      "product": "Popeyes Hot Honey Bone-In Chicken",
+      "manufacturer": "Popeyes",
+      "category": "Running On Empty",
+      "videoTitle": "Popeyes NEW Hot Honey Chicken Review!",
+      "videoCode": "9YxZNBM_gIQ",
+      "dateReleased": "2020-08-09",
+      "rating": 7.0,
+      "id": "976cceaa-7e23-4454-8a34-25b6fe91f763"
+    },
+    {
+      "product": "Spicy Crispy Chicken Sandwich",
+      "manufacturer": "Wendy's",
+      "category": "Running On Empty",
+      "videoTitle": "How Good Is Wendy's NEW Spicy Crispy Chicken Sandwich?",
+      "videoCode": "CX9UhBednp8",
+      "dateReleased": "2020-08-15",
+      "rating": 8.5,
+      "id": "abbcf8aa-e9c4-45dd-8fe3-f0d554ea88d0"
+    },
+    {
+      "product": "Honey Sesame Chicken",
+      "manufacturer": "Panda Express",
+      "category": "Running On Empty",
+      "videoTitle": "Will Panda Express Redeem Themselves With Their Honey Sesame Chicken?",
+      "videoCode": "xwFgAe9cy-Q",
+      "dateReleased": "2020-08-20",
+      "rating": 8.6,
+      "id": "871bd7cd-9bbc-427a-8492-b31090e59c4b"
+    },
+    {
+      "product": "Chicken Taco Pizza",
+      "manufacturer": "Domino's",
+      "category": "Running On Empty",
+      "videoTitle": "Domino's NEW Chicken Taco Pizza Review!",
+      "videoCode": "PivLEB5ehO8",
+      "dateReleased": "2020-08-25",
+      "rating": 9.0,
+      "id": "914b9608-1836-4473-b6f0-82e1067b1bb4"
+    },
+    {
+      "product": "New Beef Burrito",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Why Doesn't Anyone Care About Taco Bell's NEW Beef Burrito?",
+      "videoCode": "LM9N75BkMBA",
+      "dateReleased": "2020-08-29",
+      "rating": 8.0,
+      "id": "cc1f0101-4f77-4f6c-9683-8b0295242616"
+    },
+    {
+      "product": "Grilled Buffalo Chicken Papadia",
+      "manufacturer": "Papa John's",
+      "category": "Running On Empty",
+      "videoTitle": "Papa John's NEW Grilled Buffalo Chicken Papadia Review!",
+      "videoCode": "zUk6CrGqptg",
+      "dateReleased": "2020-09-03",
+      "rating": 7.0,
+      "id": "357a6d2a-4f30-4279-8491-065cbe03faf5"
+    },
+    {
+      "product": "Travis Scott Meal",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "Is McDonald's NEW Travis Scott Meal A Hit?",
+      "videoCode": "R4LyvUYb2mo",
+      "dateReleased": "2020-09-08",
+      "rating": 8.6,
+      "id": "84f1b846-aca2-4b82-87c0-268b003e01a5"
+    },
+    {
+      "product": "McDonald's Spicy Chicken Nuggets",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "Comparative Analysis of McDonald's NEW Spicy Chicken Nuggets!",
+      "videoCode": "-kdhDwK6lxA",
+      "dateReleased": "2020-09-20",
+      "rating": 8.8,
+      "id": "8e00b8ae-87c3-4f57-bca1-97c5fb77d825"
+    },
+    {
+      "product": "Ghost Pepper Wings",
+      "manufacturer": "Popeyes",
+      "category": "Running On Empty",
+      "videoTitle": "Are Popeyes NEW Ghost Pepper Wings Hot Or Not?",
+      "videoCode": "q5VWD84flLw",
+      "dateReleased": "2020-09-25",
+      "rating": 6.8,
+      "id": "37d605b1-5a7a-4c2c-8c31-232bfc48ce81"
+    },
+    {
+      "product": "Grande Stacker",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell's NEW Grande Stacker Review!",
+      "videoCode": "nVsCPbH5l_Q",
+      "dateReleased": "2020-09-29",
+      "rating": 4.1,
+      "id": "c5e250df-9017-442b-8704-95f2b630a237"
+    },
+    {
+      "product": "Pretzel Bacon Pub Cheeseburger",
+      "manufacturer": "Wendy's",
+      "category": "Running On Empty",
+      "videoTitle": "Wendy's NEW Pretzel Bacon Pub Cheeseburger Review!",
+      "videoCode": "Z_vp-iE_Dx0",
+      "dateReleased": "2020-10-02",
+      "rating": 9.0,
+      "id": "716656e5-b0fa-49c0-a5ad-e3accc330933"
+    },
+    {
+      "product": "McDonald's J Balvin Meal",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "What Is McDonald's NEW J Balvin Meal?",
+      "videoCode": "pPdaqbrCaA0",
+      "dateReleased": "2020-10-05",
+      "rating": 7.5,
+      "id": "88043da3-f3f2-4e08-beb8-7e68d8aad279"
+    },
+    {
+      "product": "Slices-N-Stix",
+      "manufacturer": "Little Caesars",
+      "category": "Running On Empty",
+      "videoTitle": "Is Little Caesars Slices-N-Stix Pizza A Good Deal?",
+      "videoCode": "j_aSwzbEwa4",
+      "dateReleased": "2020-10-11",
+      "rating": 8.2,
+      "id": "857a5b57-616e-4cb7-b7f5-4a9c97f82cff"
+    },
+    {
+      "product": "Spicy Ghost Pepper Donut",
+      "manufacturer": "Dunkin",
+      "category": "Running On Empty",
+      "videoTitle": "Is Dunkin's Spicy Ghost Pepper Donut The Hottest In The World?",
+      "videoCode": "IPBHvtIvnV0",
+      "dateReleased": "2020-10-18",
+      "rating": 8.5,
+      "id": "8e135e58-f751-4f65-af4f-2121ab82c6a2"
+    },
+    {
+      "product": "Classic Chicken Sandwich",
+      "manufacturer": "Wendy's",
+      "category": "Running On Empty",
+      "videoTitle": "Wendy's NEW Classic Chicken Sandwich Review!",
+      "videoCode": "ET1xM0Y-gEQ",
+      "dateReleased": "2020-10-23",
+      "rating": 7.0,
+      "id": "3d2f580c-9deb-4fda-809a-509a8f773072"
+    },
+    {
+      "product": "Double Cheeseburger Papadia",
+      "manufacturer": "Papa John's",
+      "category": "Running On Empty",
+      "videoTitle": "Papa John's NEW Double Cheeseburger Papadia Review",
+      "videoCode": "uB0oToktoHY",
+      "dateReleased": "2020-10-27",
+      "rating": 4.0,
+      "id": "db20b446-4982-4b72-825c-f7e223a92598"
+    },
+    {
+      "product": "Krispy Kreme Halloween Doughnuts",
+      "manufacturer": "Krispy Kreme",
+      "category": "Running On Empty",
+      "videoTitle": "Halloween BLOWOUT! Trying Krispy Kreme's NEW Halloween Doughnuts",
+      "videoCode": "LQ1raZwpl0Q",
+      "dateReleased": "2020-10-31",
+      "rating": 6.7,
+      "id": "fc6cf704-b52b-4956-9bca-6ba6a4b80cfc"
+    },
+    {
+      "product": "Twisty Wicked Shrimp",
+      "manufacturer": "Popeyes",
+      "category": "Running On Empty",
+      "videoTitle": "Will Popeyes Twisty Wicked Shrimp Be An Immeasurable Disappointment?",
+      "videoCode": "o7jIUgxfI68",
+      "dateReleased": "2020-11-06",
+      "rating": 8.25,
+      "id": "8ee37fc8-2a25-4100-ac19-324d4629fe90"
+    },
+    {
+      "product": "Toasted Cheddar Chalupa",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell's NEW Toasted Cheddar Chalupa Review!",
+      "videoCode": "KL-lSUnyyKo",
+      "dateReleased": "2020-11-10",
+      "rating": 7.0,
+      "id": "120cd47d-8189-4e7d-94c0-fdb657742b5d"
+    },
+    {
+      "product": "Beyond Italian Sausage Pizza",
+      "manufacturer": "Pizza Hut",
+      "category": "Running On Empty",
+      "videoTitle": "Pizza Hut's NEW Beyond Sausage Pizza Review!",
+      "videoCode": "sh5Hs8_RO2A",
+      "dateReleased": "2020-11-16",
+      "rating": 9.0,
+      "id": "12fc3295-42c1-4f39-89db-a341ad80131a"
+    },
+    {
+      "product": "Deep Fried Turkey Club Sandwich",
+      "manufacturer": "Arby's",
+      "category": "Running On Empty",
+      "videoTitle": "Is Arby's NEW Deep Fried Turkey Sandwich The Perfect Thanksgiving Meal?",
+      "videoCode": "Chz7Vb0uITA",
+      "dateReleased": "2020-11-21",
+      "rating": 5.5,
+      "id": "1b53fa26-1d0e-4bb2-a928-b035d069b91c"
+    },
+    {
+      "product": "Cheeser Cheeser Pizza",
+      "manufacturer": "Little Caesars",
+      "category": "Running On Empty",
+      "videoTitle": "Little Caesars NEW Cheeser! Cheeser! Pizza Review",
+      "videoCode": "gSlLFBHv2WQ",
+      "dateReleased": "2020-11-24",
+      "rating": 8.0,
+      "id": "36348521-752a-4bac-a4af-61f51fa63623"
+    },
+    {
+      "product": "Pizza Wings",
+      "manufacturer": "Buffalo Wild Wings",
+      "category": "Running On Empty",
+      "videoTitle": "Is This The FUTURE of Chicken Wings??",
+      "videoCode": "xYqRYRQM1M8",
+      "dateReleased": "2020-11-29",
+      "rating": 5.7,
+      "id": "171309fa-6ee7-4136-812f-d1db0723e127"
+    },
+    {
+      "product": "McRib",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "Does McDonald's McRib Still Live Up To The Hype?",
+      "videoCode": "bQ4Sa54h-ak",
+      "dateReleased": "2020-12-04",
+      "rating": 7.5,
+      "id": "a008ee3c-0257-4798-ab25-039a84f20b0d"
+    },
+    {
+      "product": "Triple Treat Box",
+      "manufacturer": "Pizza Hut",
+      "category": "Running On Empty",
+      "videoTitle": "Is Pizza Hut's NEW Triple Treat Box The Perfect Meal Deal?",
+      "videoCode": "YdhnKvY4lvA",
+      "dateReleased": "2020-12-14",
+      "rating": 8.5,
+      "id": "45d60780-a1f6-4ef4-b0a1-2fae3a50082e"
+    },
+    {
+      "product": "Beast Style Burger",
+      "manufacturer": "MrBeast Burger",
+      "category": "Running On Empty",
+      "videoTitle": "Is MrBeast Burger Taking Over The Nation?",
+      "videoCode": "Z-c6SpZGUL4",
+      "dateReleased": "2020-12-20",
+      "rating": 7.0,
+      "id": "b1aa82d1-0d03-4559-9f2b-6dd70ff1942f"
+    },
+    {
+      "product": "Epic Stuffed Crust Pizza",
+      "manufacturer": "Papa John's",
+      "category": "Running On Empty",
+      "videoTitle": "Papa John's NEW Epic Stuffed Crust Pizza Review!",
+      "videoCode": "MALyegWebeQ",
+      "dateReleased": "2021-01-03",
+      "rating": 8.7,
+      "id": "b29d1021-6770-454f-8354-a0b1fd3cbb0a"
+    },
+    {
+      "product": "Bacon Club Chalupa",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell's NEW Bacon Club Chalupa Review!",
+      "videoCode": "1IBNvaM2bik",
+      "dateReleased": "2021-01-08",
+      "rating": 3.0,
+      "id": "3ad446f0-9794-4688-a036-c515f97dfea4"
+    },
+    {
+      "product": "Rip'n Chicken Big Box",
+      "manufacturer": "Popeyes",
+      "category": "Running On Empty",
+      "videoTitle": "Is Popeyes NEW Rip'n Chicken Big Box the BEST Deal of 2021?",
+      "videoCode": "_5c5VMgzsF0",
+      "dateReleased": "2021-01-12",
+      "rating": 8.4,
+      "id": "15a637d5-0aac-4c27-b4d6-417d3cb8627f"
+    },
+    {
+      "product": "Monster Energy Ultra Watermelon",
+      "manufacturer": "Monster Energy",
+      "category": "Energy Crisis",
+      "videoTitle": "Is This Monster's BEST Energy Drink Yet?",
+      "videoCode": "qPILlLpGIXg",
+      "dateReleased": "2021-01-18",
+      "rating": 7.0,
+      "id": "cd8e7a19-44b5-4084-89e4-6228aace7dd0"
+    },
+    {
+      "product": "Pepperoni flatbread pizza",
+      "manufacturer": "Panera Bread",
+      "category": "Running On Empty",
+      "videoTitle": "Pepperoni Pizza from Panera Bread??",
+      "videoCode": "gXlKBJ5GKb8",
+      "dateReleased": "2021-01-22",
+      "rating": 8.6,
+      "id": "cd007522-4731-477e-b680-9be762655522"
+    },
+    {
+      "product": "Pizza Hut Detroit Style Pizza",
+      "manufacturer": "Pizza Hut",
+      "category": "Running On Empty",
+      "videoTitle": "Pizza Hut NEW Detroit Style Pizza Review!",
+      "videoCode": "xSUT1_Jyt1s",
+      "dateReleased": "2021-01-27",
+      "rating": 9.0,
+      "id": "d746a012-106b-4f09-9b2a-2ba36ba6960f"
+    },
+    {
+      "product": "Spicy Chicken McNuggets",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "Are McDonald's NEW Spicy Chicken McNuggets Really That Hot?",
+      "videoCode": "jJMaLBPp9f0",
+      "dateReleased": "2021-02-01",
+      "rating": 9.3,
+      "id": "d00aa2b3-f374-49f6-a3a0-cddcb8714653"
+    },
+    {
+      "product": "Pizza Melt (Pepperoni)",
+      "manufacturer": "Red Baron",
+      "category": "Running On Empty",
+      "videoTitle": "Are Red Baron's Pizza Melts a Frozen Pizza Game Changer?",
+      "videoCode": "_jI2djYVYE4",
+      "dateReleased": "2021-02-06",
+      "rating": 8.0,
+      "id": "634d825e-f383-4b7f-b49f-2a59ba14f8f8"
+    },
+    {
+      "product": "Cajun Flounder Sandwich",
+      "manufacturer": "Popeyes",
+      "category": "Running On Empty",
+      "videoTitle": "Popeyes NEW Cajun Flounder Sandwich Review!",
+      "videoCode": "VxkJ-5u0qWs",
+      "dateReleased": "2021-02-10",
+      "rating": 7.4,
+      "id": "bbb21158-e8f1-4142-b676-d31392cbb75e"
+    },
+    {
+      "product": "Shamrock Shake",
+      "manufacturer": "McDonald's",
+      "category": "Drink Review",
+      "videoTitle": "The COLDEST McDonald's Shamrock Shake I'll Ever Review!",
+      "videoCode": "JfUlFqX5Xp4",
+      "dateReleased": "2021-02-15",
+      "rating": 6.5,
+      "id": "178dd5ac-f972-40df-9d65-066420d12eb1"
+    },
+    {
+      "product": "McDonald's New Chicken Sandwiches (Crispy Chicken Sandwich; Spicy Crispy Chicken Sandwich)",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "Are McDonald's NEW Chicken Sandwiches Better Than Chick-Fil-A?",
+      "videoCode": "fPq77zdFTiE",
+      "dateReleased": "2021-02-24",
+      "rating": null,
+      "id": "1f09b9eb-de2e-4db9-987a-ed26198498e5"
+    },
+    {
+      "product": "Jalapeno Popper Chicken Sandwich",
+      "manufacturer": "Wendy's",
+      "category": "Running On Empty",
+      "videoTitle": "Wendy's NEW Jalapeno Popper Chicken Sandwich Review!",
+      "videoCode": "lzab6q3olYA",
+      "dateReleased": "2021-03-03",
+      "rating": 7.7,
+      "id": "cb5a5d8e-c664-4dc0-a6a4-a5a7d8c61ad6"
+    },
+    {
+      "product": "Sourdough King",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "Did Burger King Deliver on the NEW Sourdough King?",
+      "videoCode": "sZWwpRchX_E",
+      "dateReleased": "2021-03-09",
+      "rating": 6.5,
+      "id": "1c06967d-e1d7-4b3a-9196-41feb0f2bed5"
+    },
+    {
+      "product": "Quesalupa",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "How Cheesy is Taco Bell's NEW Quesalupa?",
+      "videoCode": "qVp9QgTo1Dw",
+      "dateReleased": "2021-03-14",
+      "rating": 7.0,
+      "id": "e1f1646e-5e17-4a78-8b4d-bab90d23fdbe"
+    },
+    {
+      "product": "KFC Classic Chicken Sandwich",
+      "manufacturer": "KFC",
+      "category": "Running On Empty",
+      "videoTitle": "KFC's NEW Chicken Sandwich Review!",
+      "videoCode": "QsKaMrBnfsA",
+      "dateReleased": "2021-03-19",
+      "rating": 6.4,
+      "id": "515e81e3-01e1-4010-a122-5e34fa3a5b0a"
+    },
+    {
+      "product": "Bacon Double Stack",
+      "manufacturer": "Wendy's",
+      "category": "Running On Empty",
+      "videoTitle": "Wendy's NEW Bacon Double Stack Review!",
+      "videoCode": "aJp92azRbPo",
+      "dateReleased": "2021-03-25",
+      "rating": 6.8,
+      "id": "995b046c-c668-4fe7-ae65-38b0649708ab"
+    },
+    {
+      "product": "Barbecue Crispy Chicken Taco",
+      "manufacturer": "Del Taco",
+      "category": "Running On Empty",
+      "videoTitle": "Is Del Taco's $1 BBQ Crispy Chicken Taco The Perfect Snack?",
+      "videoCode": "y2p4eAZCmag",
+      "dateReleased": "2021-03-29",
+      "rating": 9.0,
+      "id": "212ddf77-28a2-4019-9d7c-429bd577d69c"
+    },
+    {
+      "product": "Extra Most Bestest Thin Crust Pizza",
+      "manufacturer": "Little Caesars",
+      "category": "Running On Empty",
+      "videoTitle": "You Won't Believe What Little Caesars Sent Me...",
+      "videoCode": "N_IaFGXZvGg",
+      "dateReleased": "2021-04-01",
+      "rating": 8.2,
+      "id": "347e85b5-0b84-44cf-8d86-95bdf5494317"
+    },
+    {
+      "product": "Arby's Spicy Greek Gyro",
+      "manufacturer": "Arby's",
+      "category": "Running On Empty",
+      "videoTitle": "Why Is Arby's NEW Spicy Greek Gyro Such a Mess?",
+      "videoCode": "TYkRaj9VwZU",
+      "dateReleased": "2021-04-06",
+      "rating": 6.8,
+      "id": "8b58970f-1f3f-4edc-b542-60a62eefdc93"
+    },
+    {
+      "product": "Shack Burger",
+      "manufacturer": "Shake Shack",
+      "category": "Running On Empty",
+      "videoTitle": "Is The Shake Shack Hype Real?",
+      "videoCode": "y3Uws6mvmEg",
+      "dateReleased": "2021-04-10",
+      "rating": 9.0,
+      "id": "7b7be817-4b01-412a-aa22-12c744695dac"
+    },
+    {
+      "product": "Beefy Potato Rito",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Why Aren't People Talking About Taco Bell's Beefy Potato-Rito?",
+      "videoCode": "Acw9TIWmyCo",
+      "dateReleased": "2021-04-18",
+      "rating": 8.8,
+      "id": "01ae6104-c21c-4466-b093-4872d0276aea"
+    },
+    {
+      "product": "Deluxe Crispy Chicken Sandwich",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "The McDonald's Chicken Sandwich I Forgot To Review...",
+      "videoCode": "tUg4Vjj1RXo",
+      "dateReleased": "2021-04-23",
+      "rating": 7.3,
+      "id": "8e571ac4-4179-484a-813e-c045ef7bc976"
+    },
+    {
+      "product": "Dream Burger",
+      "manufacturer": "MrBeast Burger",
+      "category": "Running On Empty",
+      "videoTitle": "How Good is the NEW Dream Burger from MrBeast Burger?",
+      "videoCode": "MopgfocPqhI",
+      "dateReleased": "2021-04-27",
+      "rating": 8.0,
+      "id": "1265943c-fe76-4af1-a022-5fba1ca8ef8d"
+    },
+    {
+      "product": "Bourbon Bacon Cheeseburger",
+      "manufacturer": "Wendy's",
+      "category": "Running On Empty",
+      "videoTitle": "Wendy's NEW Bourbon Bacon Cheeseburger Review!",
+      "videoCode": "XfqX5zw3n1E",
+      "dateReleased": "2021-05-08",
+      "rating": 8.0,
+      "id": "4c0df1d2-7ece-49df-9d3a-4aef278518d2"
+    },
+    {
+      "product": "Hand Breaded Crispy Chicken Sandwich (Spicy Deluxe)",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "Why Doesn't Burger King Want You Knowing About Their New Chicken Sandwich?",
+      "videoCode": "7zZyg0pUhQY",
+      "dateReleased": "2021-05-14",
+      "rating": 2.0,
+      "id": "0fd316ed-e3f0-4fba-821a-0ff851fa8d39"
+    },
+    {
+      "product": "Parmesan Crusted Papadia",
+      "manufacturer": "Papa John's",
+      "category": "Running On Empty",
+      "videoTitle": "Papa John's NEW Parmesan Crusted Papadia Review!",
+      "videoCode": "vZUoQi2c9bU",
+      "dateReleased": "2021-05-20",
+      "rating": 6.0,
+      "id": "3c8bf29c-5f76-45a4-8608-7a85f3fce3e5"
+    },
+    {
+      "product": "BTS Meal",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "McDonald's New BTS Meal Review!",
+      "videoCode": "S_6puhoup_I",
+      "dateReleased": "2021-05-26",
+      "rating": 8.5,
+      "id": "912d415a-66af-40ef-9c8a-692f6f7daf5e"
+    },
+    {
+      "product": "The Edge Pizza",
+      "manufacturer": "Pizza Hut",
+      "category": "Running On Empty",
+      "videoTitle": "Pizza Hut's NEW The Edge Pizza Review!",
+      "videoCode": "ftqkdxlDB3Y",
+      "dateReleased": "2021-06-03",
+      "rating": 8.5,
+      "id": "24477e95-375f-4bac-b807-a8c849360edb"
+    },
+    {
+      "product": "Naked Chicken Chalupa",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Will Taco Bell's NEW Naked Chicken Chalupa Redeem Itself?",
+      "videoCode": "uc3YBBouQqo",
+      "dateReleased": "2021-06-09",
+      "rating": 7.0,
+      "id": "ea010e4c-82e0-43be-9377-1f81f09911b8"
+    },
+    {
+      "product": "Little Caesars Pepperoni and Cheese Stuffed Crust Pizza",
+      "manufacturer": "Little Caesars",
+      "category": "Running On Empty",
+      "videoTitle": "Little Caesars NEW Pepperoni and Cheese Stuffed Crust Pizza Review!",
+      "videoCode": "9XbcWj38QAA",
+      "dateReleased": "2021-06-16",
+      "rating": 7.0,
+      "id": "47272be7-5f93-43bb-9ce7-bbf36dadaca8"
+    },
+    {
+      "product": "Ch'King Sandwich",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "Finally Reviewing Burger King's NEW Ch'King Sandwich!",
+      "videoCode": "DJav4OKFkd0",
+      "dateReleased": "2021-06-21",
+      "rating": 5.0,
+      "id": "2c107fd1-79f5-4335-b7da-ea9d8444d38e"
+    },
+    {
+      "product": "Grande Crunchwrap",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "What Did Taco Bell Do Now?",
+      "videoCode": "ZgsnCUs4S2A",
+      "dateReleased": "2021-06-26",
+      "rating": 7.0,
+      "id": "5ad52737-27a1-4ff3-86ec-08d202526efa"
+    },
+    {
+      "product": "Arby's Premium Chicken Nuggets",
+      "manufacturer": "Arby's",
+      "category": "Running On Empty",
+      "videoTitle": "Arby's NEW Premium Chicken Nuggets Review!",
+      "videoCode": "HK4Ux4tlhpw",
+      "dateReleased": "2021-07-02",
+      "rating": 6.5,
+      "id": "3111cf16-9cdd-48ef-9d7d-614264d1d0d9"
+    },
+    {
+      "product": "Bacon Burger; Cajun Fries (Cajun); Vanilla Shake (Vanilla milkshake)",
+      "manufacturer": "Five Guys",
+      "category": "Running On Empty",
+      "videoTitle": "Reviewbrah's FAVORITE Fast Food Items From Five Guys!",
+      "videoCode": "_PItwQefKDo",
+      "dateReleased": "2021-07-07",
+      "rating": null,
+      "id": "7d69f6fa-8cfe-4d7d-bcde-248313a845a3"
+    },
+    {
+      "product": "Single Bacon King",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "Has Burger King Hit a New Low?",
+      "videoCode": "iyIqHFzKPYM",
+      "dateReleased": "2021-07-11",
+      "rating": 5.8,
+      "id": "d8ce7dc6-356f-4613-a71c-9ae4a344cb81"
+    },
+    {
+      "product": "Ghost Pepper Ranch Sauce",
+      "manufacturer": "Wendy's",
+      "category": "Running On Empty",
+      "videoTitle": "Did Wendy's Release The Hottest Dipping Sauce Yet?",
+      "videoCode": "G9kqy3dy55g",
+      "dateReleased": "2021-07-16",
+      "rating": 6.7,
+      "id": "73dd4a85-4555-40b7-9ca5-a8c13667af1a"
+    },
+    {
+      "product": "Unknown chicken sandwich (from Buffalo Wild Wings)",
+      "manufacturer": "Buffalo Wild Wings",
+      "category": "Running On Empty",
+      "videoTitle": "The Worst Chicken Sandwich I Ever Had...",
+      "videoCode": "N_JBmIL6CG4",
+      "dateReleased": "2021-07-20",
+      "rating": 2.0,
+      "id": "d3368c90-6e61-4312-a4e6-0d56fe72fd62"
+    },
+    {
+      "product": "Popeyes chicken nuggets",
+      "manufacturer": "Popeyes",
+      "category": "Running On Empty",
+      "videoTitle": "Are Popeyes NEW Nuggets As Good As Their Chicken Sandwich?",
+      "videoCode": "DAtcB2Ty4eM",
+      "dateReleased": "2021-07-29",
+      "rating": 6.0,
+      "id": "89c569ed-7832-4222-91ab-cd9253f70df3"
+    },
+    {
+      "product": "Garlic Bacon King",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "Will Burger King Redeem Themselves with the NEW Garlic & Bacon King?",
+      "videoCode": "jhQ4LMkQH5g",
+      "dateReleased": "2021-08-04",
+      "rating": 7.3,
+      "id": "afa59824-8711-4f79-946e-89a284c34335"
+    },
+    {
+      "product": "Saweetie Meal",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "McDonald's NEW Saweetie Meal Review!",
+      "videoCode": "jRS6l5h0By0",
+      "dateReleased": "2021-08-09",
+      "rating": 8.0,
+      "id": "d25aedcb-bc32-4304-9025-6182f1f64f86"
+    },
+    {
+      "product": "Big Dinner Box",
+      "manufacturer": "Pizza Hut",
+      "category": "Running On Empty",
+      "videoTitle": "Is Pizza Hut's Big Dinner Box The BEST Meal Deal?",
+      "videoCode": "HM2PCUFo9ac",
+      "dateReleased": "2021-08-14",
+      "rating": 8.3,
+      "id": "78cc5c34-7426-409a-a39e-cdeaf17413cc"
+    },
+    {
+      "product": "Crazy Calzone Pepperoni",
+      "manufacturer": "Little Caesars",
+      "category": "Running On Empty",
+      "videoTitle": "Why Little Caesars Crazy Calzony Scares Me",
+      "videoCode": "2QIq7_WZqds",
+      "dateReleased": "2021-08-19",
+      "rating": 7.4,
+      "id": "54ff653b-dcbd-45c9-97ef-61a3c635d346"
+    },
+    {
+      "product": "Loaded Taco Fries Burrito",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell's NEW Loaded Taco Fries Burrito Review!",
+      "videoCode": "N6dC8TN4rrk",
+      "dateReleased": "2021-08-26",
+      "rating": 6.0,
+      "id": "3afa0101-2ea4-43c8-a518-185ed97bcac9"
+    },
+    {
+      "product": "Shaq-a-Roni Pizza",
+      "manufacturer": "Papa John's",
+      "category": "Running On Empty",
+      "videoTitle": "Papa John's Shaq-a-Roni Pizza is Back!!",
+      "videoCode": "RPvISx2pFbE",
+      "dateReleased": "2021-09-01",
+      "rating": 8.0,
+      "id": "ff9273f6-10d8-41cd-9b40-067e83da209a"
+    },
+    {
+      "product": "Crispy Chicken Sandwich Taco",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Has Taco Bell Released Their Worst Item?",
+      "videoCode": "70NhkwAB7a0",
+      "dateReleased": "2021-09-04",
+      "rating": 5.5,
+      "id": "b9cf72fa-f1a0-48a0-a70a-2aa9b00937a4"
+    },
+    {
+      "product": "Big Bacon Cheddar Cheeseburger",
+      "manufacturer": "Wendy's",
+      "category": "Running On Empty",
+      "videoTitle": "Is This Wendy's Biggest Release?",
+      "videoCode": "4Q9PA8W2HME",
+      "dateReleased": "2021-09-09",
+      "rating": 7.8,
+      "id": "110ceb96-3dec-4b47-ae0a-a1121797d3bb"
+    },
+    {
+      "product": "Pizza Hut's Detroit Style Pizza",
+      "manufacturer": "Pizza Hut",
+      "category": "Running On Empty",
+      "videoTitle": "Pizza Hut's Detroit Style Pizza is Back!",
+      "videoCode": "KNalfaZfiw4",
+      "dateReleased": "2021-09-15",
+      "rating": 9.0,
+      "id": "f7a53c3b-841d-447b-8e79-327926005a14"
+    },
+    {
+      "product": "Zaxby's Signature Sandwich",
+      "manufacturer": "Zaxby's",
+      "category": "Running On Empty",
+      "videoTitle": "The Most Underrated Chicken Sandwich?",
+      "videoCode": "mo3eeVyQHj0",
+      "dateReleased": "2021-09-21",
+      "rating": 8.5,
+      "id": "1f58920b-f4d3-4b1f-8b15-89fc6682fda3"
+    },
+    {
+      "product": "Rodeo Burger",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "Is This Burger King's BEST Item For $1?",
+      "videoCode": "iCjvTf7acZ0",
+      "dateReleased": "2021-09-28",
+      "rating": 8.0,
+      "id": "fbc76e16-5fa9-480b-b9c3-514c9478b28b"
+    },
+    {
+      "product": "Doritos Spicy Sweet Chili Wings",
+      "manufacturer": "Buffalo Wild Wings",
+      "category": "Running On Empty",
+      "videoTitle": "Buffalo Wild Wings Doritos Spicy Sweet Chili Wings Review!",
+      "videoCode": "Y5kZoTcowP0",
+      "dateReleased": "2021-10-02",
+      "rating": 5.0,
+      "id": "3e36fb7b-3f19-4c46-b820-830bcda60c36"
+    },
+    {
+      "product": "Cantina Crispy Melt Taco",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell's NEW Cantina Crispy Melt Taco Review!",
+      "videoCode": "Ok5kcPdefXo",
+      "dateReleased": "2021-10-08",
+      "rating": 7.7,
+      "id": "56a0664c-ae52-4da5-9533-7767314e6fef"
+    },
+    {
+      "product": "Ghost Pepper Nuggets",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "Are Burger King's NEW Ghost Pepper Nuggets The Hottest Ever?",
+      "videoCode": "CNgCxwYbMSU",
+      "dateReleased": "2021-10-13",
+      "rating": 5.4,
+      "id": "9cd3a775-0f7c-478d-81c6-48935d6d2d7d"
+    },
+    {
+      "product": "Popeyes Hottie Chicken Sandwich",
+      "manufacturer": "Popeyes",
+      "category": "Running On Empty",
+      "videoTitle": "Popeyes NEW Megan Thee Stallion Hottie Chicken Sandwich Review!",
+      "videoCode": "mNcq3tja3jc",
+      "dateReleased": "2021-10-19",
+      "rating": 8.0,
+      "id": "b00281cd-da5f-4812-85a2-4e90d4a38c8a"
+    },
+    {
+      "product": "Triple Bacon Pizza",
+      "manufacturer": "Papa John's",
+      "category": "Running On Empty",
+      "videoTitle": "Did Papa John's Go Too Far?",
+      "videoCode": "gLY-7zLhtNA",
+      "dateReleased": "2021-10-27",
+      "rating": 8.2,
+      "id": "7428e232-698f-482b-b74b-c888da17755b"
+    },
+    {
+      "product": "Arby's Boneless Wings (Classic Buffalo & Hot Honey)",
+      "manufacturer": "Arby's",
+      "category": "Running On Empty",
+      "videoTitle": "What Makes Arby's NEW Boneless Wings So Special?",
+      "videoCode": "Lo7GC_HzKmw",
+      "dateReleased": "2021-11-01",
+      "rating": null,
+      "id": "5bf9cac4-df44-4260-b89d-44995c3480b9"
+    },
+    {
+      "product": "McRib",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "What Happened to The McRib???",
+      "videoCode": "AUORk_EWbDY",
+      "dateReleased": "2021-11-05",
+      "rating": 5.0,
+      "id": "adebde62-72b4-42f3-a5c7-3f515247c99b"
+    },
+    {
+      "product": "Double Steak Grilled Cheese Burrito",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell's NEW Double Steak Grilled Cheese Burrito Review!",
+      "videoCode": "uDLd-jZ10l8",
+      "dateReleased": "2021-11-14",
+      "rating": 7.75,
+      "id": "f803fb13-0356-418e-b79a-5b7a1d35efdd"
+    },
+    {
+      "product": "Italian Original Chicken Sandwich",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "What Did Burger King Ruin Now?",
+      "videoCode": "4z0_Q5TT2o0",
+      "dateReleased": "2021-11-23",
+      "rating": 2.0,
+      "id": "3f714605-d654-4d38-afd1-156fabcf548e"
+    },
+    {
+      "product": "Flamin' Hot Cheetos Boneless Wings",
+      "manufacturer": "Applebee's",
+      "category": "Running On Empty",
+      "videoTitle": "Applebee's NEW Cheetos Boneless Wings Review!",
+      "videoCode": "GUN_ey9MLK8",
+      "dateReleased": "2021-11-27",
+      "rating": 6.5,
+      "id": "5ac077cd-6064-40c4-a9c3-25a5e6dcd462"
+    },
+    {
+      "product": "Orange Szechuan Wings",
+      "manufacturer": "Wingstop",
+      "category": "Running On Empty",
+      "videoTitle": "Trying Wingstop's NEW Orange Szechuan Wings!",
+      "videoCode": "WtGev8EsLEU",
+      "dateReleased": "2021-12-02",
+      "rating": 8.0,
+      "id": "4fe8cccd-1110-4ad6-97fe-315f2455ec83"
+    },
+    {
+      "product": "Triple Treat Box",
+      "manufacturer": "Pizza Hut",
+      "category": "Running On Empty",
+      "videoTitle": "Is Pizza Hut's Triple Treat Box A Good Deal Anymore?",
+      "videoCode": "yF5c4oIyy3A",
+      "dateReleased": "2021-12-06",
+      "rating": 7.5,
+      "id": "c85f6606-9dfc-4761-803b-2d4829fe1ff4"
+    },
+    {
+      "product": "McDonald's fries; Wendy's Hot and Crispy fries; Burger King fries",
+      "manufacturer": "McDonald's; Wendy's; Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "Who Has The Best Fast Food Fries? McDonald's vs. Wendy's vs. Burger King!",
+      "videoCode": "Lv7UU2Sg3l0",
+      "dateReleased": "2021-12-10",
+      "rating": null,
+      "id": "6baae086-87b3-4f17-bbc9-fe7794efc64f"
+    },
+    {
+      "product": "Mariah Carey Menu cheeseburger",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "Is McDonald's Mariah Menu The BEST Deal Ever?",
+      "videoCode": "aeqNvnf-4Fw",
+      "dateReleased": "2021-12-18",
+      "rating": 6.0,
+      "id": "6848d1da-5354-40ea-952f-7b6acbec7d6a"
+    },
+    {
+      "product": "Spicy Tender Sandwich",
+      "manufacturer": "PDQ",
+      "category": "Running On Empty",
+      "videoTitle": "The Most Disappointing Chicken Sandwich Yet?",
+      "videoCode": "mMR6U80OoeY",
+      "dateReleased": "2021-12-22",
+      "rating": 5.7,
+      "id": "0fa42713-3272-4953-9994-69fa02a73631"
+    },
+    {
+      "product": "Chipotle Cheddar Chalupa",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell Should Be Ashamed Of Themselves",
+      "videoCode": "zpm_bfIzRrU",
+      "dateReleased": "2021-12-27",
+      "rating": 5.0,
+      "id": "19a744a0-8a83-4471-b6c5-a3555c1a3cfb"
+    },
+    {
+      "product": "Papa John's New York Style Pizza",
+      "manufacturer": "Papa John's",
+      "category": "Running On Empty",
+      "videoTitle": "Papa John's New York Style Pizza Review!",
+      "videoCode": "_a53E6KKCgo",
+      "dateReleased": "2021-12-31",
+      "rating": 7.7,
+      "id": "cae8cfa8-0049-412f-bd6d-6c921180d823"
+    },
+    {
+      "product": "Hot-N-Ready pepperoni pizza (new & improved, 33% more pepperoni)",
+      "manufacturer": "Little Caesars",
+      "category": "Running On Empty",
+      "videoTitle": "Pizza With a Side of False Advertising",
+      "videoCode": "2e-I0vp9GGE",
+      "dateReleased": "2022-01-05",
+      "rating": 6.7,
+      "id": "f507d563-a3df-4b50-886a-838d092e0136"
+    },
+    {
+      "product": "KFC Beyond Nuggets",
+      "manufacturer": "KFC",
+      "category": "Running On Empty",
+      "videoTitle": "KFC's NEW Beyond Nuggets are Inedible",
+      "videoCode": "Lw8Sw_s2bnc",
+      "dateReleased": "2022-01-12",
+      "rating": 0.5,
+      "id": "a19be4b4-0733-41c9-9aff-7c91017aeeab"
+    },
+    {
+      "product": "Diablo Dare Sandwich",
+      "manufacturer": "Arby's",
+      "category": "Running On Empty",
+      "videoTitle": "Is Arby's Diablo Dare The HOTTEST Fast Food Sandwich?",
+      "videoCode": "fe_u3vgHMaI",
+      "dateReleased": "2022-01-18",
+      "rating": 7.4,
+      "id": "0c1799ab-87bb-4bda-acba-081565c288cc"
+    },
+    {
+      "product": "Batman Calzone",
+      "manufacturer": "Little Caesars",
+      "category": "Running On Empty",
+      "videoTitle": "Little Caesars NEW Batman Calzony Review!",
+      "videoCode": "aqAyt85knuU",
+      "dateReleased": "2022-01-26",
+      "rating": 5.8,
+      "id": "ce8f75f3-728c-48fe-bc8d-e44321414d0f"
+    },
+    {
+      "product": "Land, Air and Sea (McDonald's menu hack: McChicken + Big Mac + Filet-O-Fish)",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "McDonald's NEW Menu Hacks Are A Disaster",
+      "videoCode": "tQXzWJu3HRI",
+      "dateReleased": "2022-01-31",
+      "rating": 3.0,
+      "id": "f5471e2b-dbc2-4d75-b730-a9d2ac5f5479"
+    },
+    {
+      "product": "Spicy Lovers Pizza (Spicy Double Pepperoni)",
+      "manufacturer": "Pizza Hut",
+      "category": "Running On Empty",
+      "videoTitle": "Pizza Hut's NEW Spicy Lovers Pizza Review!",
+      "videoCode": "2YxCw0C5o9o",
+      "dateReleased": "2022-02-05",
+      "rating": 8.5,
+      "id": "5c9195f1-038e-44ba-9636-7a455bd62762"
+    },
+    {
+      "product": "Hot Honey Chicken Sandwich",
+      "manufacturer": "Wendy's",
+      "category": "Running On Empty",
+      "videoTitle": "Wendy's NEW Hot Honey Chicken Sandwich Review!",
+      "videoCode": "eSKaF_KbitU",
+      "dateReleased": "2022-02-10",
+      "rating": 8.6,
+      "id": "0cdf3622-bbbb-4a66-bea8-dd9003413d2d"
+    },
+    {
+      "product": "Cantina Crispy Chicken Taco (Chipotle)",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "The Usual From Taco Bell... What Else Is New?",
+      "videoCode": "nDJ--1QDqx0",
+      "dateReleased": "2022-02-15",
+      "rating": 6.5,
+      "id": "de5c0c9b-45f7-4765-8106-a4d6ce74179a"
+    },
+    {
+      "product": "Hash Brown McMuffin",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "The BEST McDonald's Fast Food Hack!",
+      "videoCode": "_Tzc-YZ5n_s",
+      "dateReleased": "2022-02-20",
+      "rating": 7.0,
+      "id": "40d71e13-926d-4c64-b5ac-2d305a110f74"
+    },
+    {
+      "product": "Coca-Cola Starlight",
+      "manufacturer": "Coca-Cola",
+      "category": "Drink Review",
+      "videoTitle": "Coca-Cola Starlight Drink Review!",
+      "videoCode": "LxnDohH7r-0",
+      "dateReleased": "2022-02-28",
+      "rating": 8.7,
+      "id": "72b4f87b-adc9-4d7d-8b66-d3029b3ee86a"
+    },
+    {
+      "product": "Big King",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "Burger King Dropped The Ball (Again)",
+      "videoCode": "HqMWcMei1bg",
+      "dateReleased": "2022-03-03",
+      "rating": 5.0,
+      "id": "60078c8d-fae1-4bd2-afe2-bc542e124452"
+    },
+    {
+      "product": "Popeyes Spicy Flounder Fish Sandwich",
+      "manufacturer": "Popeyes",
+      "category": "Running On Empty",
+      "videoTitle": "Does Popeyes Have The BEST Fish Sandwich?",
+      "videoCode": "YUeH1RWPLxQ",
+      "dateReleased": "2022-03-09",
+      "rating": 2.0,
+      "id": "30c7c5df-95e6-4c5c-900e-58ab04907be9"
+    },
+    {
+      "product": "Whopper Melt",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "Burger King NEW Whopper Melt Review!",
+      "videoCode": "-1Rnk8BC4oo",
+      "dateReleased": "2022-03-15",
+      "rating": 6.6,
+      "id": "b203c081-e71e-4520-9701-ee9ee50b05c0"
+    },
+    {
+      "product": "Steak Nacho Fries Burrito",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell's NEW Steak Nacho Fries Burrito Review!",
+      "videoCode": "2PjJdZzhqYM",
+      "dateReleased": "2022-03-21",
+      "rating": 7.0,
+      "id": "f27dc801-5dce-47a7-b24a-e96a5db167eb"
+    },
+    {
+      "product": "KFC Jack Harlow Kentucky Fried Favorites menu",
+      "manufacturer": "KFC",
+      "category": "Running On Empty",
+      "videoTitle": "KFC's Jack Harlow Kentucky Fried Favorites Menu Review!",
+      "videoCode": "6wX_tCpT1iA",
+      "dateReleased": "2022-03-27",
+      "rating": 7.0,
+      "id": "02e42628-7e0a-40fc-9042-3e4aec537bdc"
+    },
+    {
+      "product": "McDonald's Szechuan Sauce",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "McDonald's NEW Szechuan Sauce Review!",
+      "videoCode": "QMv7_p01DtA",
+      "dateReleased": "2022-03-31",
+      "rating": 8.5,
+      "id": "085544a2-5594-40e9-ac90-0815b5da1432"
+    },
+    {
+      "product": "McDonald's Spicy Chicken Nuggets",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "Are McDonald’s NEW Spicy Chicken Nuggets Worth The Hype?",
+      "videoCode": "cmaC0UmeS3Q",
+      "dateReleased": "2022-04-05",
+      "rating": 8.0,
+      "id": "c0ab2ed3-ec6e-4a4d-8ce0-b6f57eeb0725"
+    },
+    {
+      "product": "Surf and Turf Combo",
+      "manufacturer": "Popeyes",
+      "category": "Running On Empty",
+      "videoTitle": "Popeyes NEW Surf & Turf Meal Review!",
+      "videoCode": "ZiipwOH5RMI",
+      "dateReleased": "2022-04-11",
+      "rating": 8.2,
+      "id": "1a629c5e-d837-4a67-95a8-dc93d843044c"
+    },
+    {
+      "product": "Steak White Hot Ranch Fries Burrito",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Is This Taco Bell's HOTTEST Burrito Ever?",
+      "videoCode": "0QnmvHKtmlo",
+      "dateReleased": "2022-04-18",
+      "rating": 9.0,
+      "id": "0145751b-7b08-42b3-b6d6-b0fbdc3e31a1"
+    },
+    {
+      "product": "Detroit style deep dish pizza",
+      "manufacturer": "Little Caesars",
+      "category": "Running On Empty",
+      "videoTitle": "Will Little Caesars Redeem Themselves With Their Deep Dish Pizza?",
+      "videoCode": "LB5arCstWcs",
+      "dateReleased": "2022-04-25",
+      "rating": 8.0,
+      "id": "371ef223-2341-4621-a6aa-25c5847a984c"
+    },
+    {
+      "product": "Epic Stuffed Crust Pizza",
+      "manufacturer": "Papa John's",
+      "category": "Running On Empty",
+      "videoTitle": "Papa John's NEW Epic Pepperoni Stuffed Crust Pizza Review!",
+      "videoCode": "2M67Q6BTO2o",
+      "dateReleased": "2022-05-01",
+      "rating": 9.0,
+      "id": "49350979-cffb-476d-9aa6-1cd58c450352"
+    },
+    {
+      "product": "Popeyes Buffalo Ranch Chicken Sandwich",
+      "manufacturer": "Popeyes",
+      "category": "Running On Empty",
+      "videoTitle": "Did Popeyes Just WIN The Chicken Sandwich Wars?",
+      "videoCode": "L5arDQP5uPo",
+      "dateReleased": "2022-05-06",
+      "rating": 7.6,
+      "id": "c09fa81e-8f22-4db1-a491-5047b1ecccb0"
+    },
+    {
+      "product": "Bourbon Bacon Cheddar Burger",
+      "manufacturer": "Shake Shack",
+      "category": "Running On Empty",
+      "videoTitle": "One of the Most Disappointing Burgers I've Ever Had",
+      "videoCode": "tpI3yAd3sVo",
+      "dateReleased": "2022-05-12",
+      "rating": 3.0,
+      "id": "0c783e64-27bd-4bb5-99e3-6ffc3a7e9ef2"
+    },
+    {
+      "product": "Spicy Take Chicken Sandwich",
+      "manufacturer": "Panera Bread",
+      "category": "Running On Empty",
+      "videoTitle": "Is Panera Bread's Spicy Take Chicken Sandwich the HOTTEST Yet?",
+      "videoCode": "PDtA5ybTrmc",
+      "dateReleased": "2022-05-19",
+      "rating": 6.8,
+      "id": "1df96454-053c-47c3-9f30-155340fc4ca4"
+    },
+    {
+      "product": "Mexican Pizza",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell's Mexican Pizza is a MESS",
+      "videoCode": "GwqsW5ZMJWc",
+      "dateReleased": "2022-05-23",
+      "rating": 3.0,
+      "id": "53aa3f01-e9d1-4707-9c64-11340180ba28"
+    },
+    {
+      "product": "Deluxe Wagyu Steakhouse Burger",
+      "manufacturer": "Arby's",
+      "category": "Running On Empty",
+      "videoTitle": "Arby's NEW Deluxe Wagyu Steakhouse Burger Review!",
+      "videoCode": "sKi6ljSzuoA",
+      "dateReleased": "2022-05-30",
+      "rating": 8.0,
+      "id": "32587811-27f7-4a33-be80-66e96d26f8fd"
+    },
+    {
+      "product": "Jack Harlow Meal",
+      "manufacturer": "KFC",
+      "category": "Running On Empty",
+      "videoTitle": "KFC's NEW Jack Harlow Meal Review!",
+      "videoCode": "96w2XgqrNNE",
+      "dateReleased": "2022-06-06",
+      "rating": 8.0,
+      "id": "9fc751e9-5e94-4bf2-80b9-1716c53c6156"
+    },
+    {
+      "product": "The Edge pizza",
+      "manufacturer": "Pizza Hut",
+      "category": "Running On Empty",
+      "videoTitle": "Did Pizza Hut Just Release Their BEST Pizza Ever?",
+      "videoCode": "03Y89Sw8yng",
+      "dateReleased": "2022-06-10",
+      "rating": 9.0,
+      "id": "4fd36076-abed-41ad-a2a8-841c46860792"
+    },
+    {
+      "product": "Toasted Cheddar Chalupa",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell's Toasted Cheddar Chalupa Review!",
+      "videoCode": "oxVFeoGjvsg",
+      "dateReleased": "2022-06-16",
+      "rating": 8.5,
+      "id": "472870b6-d173-4c83-8784-1a5371cf0453"
+    },
+    {
+      "product": "Wisconsin Big Cheese Pub Burger",
+      "manufacturer": "Culver's",
+      "category": "Running On Empty",
+      "videoTitle": "Culver's Wisconsin Big Cheese Pub Burger Review!",
+      "videoCode": "CVtub7jHkTk",
+      "dateReleased": "2022-06-20",
+      "rating": 3.0,
+      "id": "50534e49-3580-420e-a198-56d3045066e3"
+    },
+    {
+      "product": "Bird Dogs (Honey Barbecue Bird Dog)",
+      "manufacturer": "Buffalo Wild Wings",
+      "category": "Running On Empty",
+      "videoTitle": "Something's Horribly WRONG With Buffalo Wild Wings Bird Dawgs",
+      "videoCode": "6eHpiEncW_M",
+      "dateReleased": "2022-06-25",
+      "rating": 5.0,
+      "id": "2908626a-a248-4686-aef1-65b78da38020"
+    },
+    {
+      "product": "Classic Cheesy Double Beef Burrito",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell's NEW Classic Cheesy Double Beef Burrito Review!",
+      "videoCode": "WjOaXH-MkB8",
+      "dateReleased": "2022-06-30",
+      "rating": 7.5,
+      "id": "fc423bab-1706-4537-b025-179b21bb1ec7"
+    },
+    {
+      "product": "Impossible Whopper",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "A Total Failure of a Review...",
+      "videoCode": "M1RVaUww1Uo",
+      "dateReleased": "2022-07-05",
+      "rating": 8.5,
+      "id": "19be30ad-ef60-4c00-9197-9692bcaa8685"
+    },
+    {
+      "product": "Southwest Bacon Whopper",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "Burger King's NEW Southwest Bacon Whopper Review!",
+      "videoCode": "G9iO_Fijksc",
+      "dateReleased": "2022-07-11",
+      "rating": 6.0,
+      "id": "8cb4c846-1f0d-4efd-9120-8acb48d383fc"
+    },
+    {
+      "product": "Cantina Crispy Chicken Taco",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "One of the Worst Taco Bell Items I've Ever Had",
+      "videoCode": "TV2RHsEru44",
+      "dateReleased": "2022-07-15",
+      "rating": 1.0,
+      "id": "a8a58df4-0b9c-4c09-bafa-2f91e9fb422b"
+    },
+    {
+      "product": "IDK meal",
+      "manufacturer": "Popeyes",
+      "category": "Running On Empty",
+      "videoTitle": "Popeyes New IDK Meal Review!",
+      "videoCode": "B2Bb1fUsyEg",
+      "dateReleased": "2022-07-21",
+      "rating": 7.8,
+      "id": "e0672563-d749-4a66-a9ef-f29569cd4e11"
+    },
+    {
+      "product": "Saucy Chicken Sandwich",
+      "manufacturer": "Buffalo Wild Wings",
+      "category": "Running On Empty",
+      "videoTitle": "Is This The BEST Fast Food Chicken Sandwich?",
+      "videoCode": "S-nZrn1UxOE",
+      "dateReleased": "2022-07-26",
+      "rating": 5.9,
+      "id": "1565df7a-becf-4b32-861e-04e1e4649928"
+    },
+    {
+      "product": "Arby's Hushpuppy Breaded Fish Strips",
+      "manufacturer": "Arby's",
+      "category": "Running On Empty",
+      "videoTitle": "Arby's NEW Hushpuppy Breaded Fish Strips Review!",
+      "videoCode": "B5paeyyGYiE",
+      "dateReleased": "2022-08-01",
+      "rating": 6.0,
+      "id": "9769472c-03cc-4280-bd3f-e670aa74ba2e"
+    },
+    {
+      "product": "Old World Fanceroni Pizza",
+      "manufacturer": "Little Caesars",
+      "category": "Running On Empty",
+      "videoTitle": "Little Caesars NEW Old World Fanceroni Pizza Review!",
+      "videoCode": "gBmhySwOuWE",
+      "dateReleased": "2022-08-05",
+      "rating": 7.2,
+      "id": "0e6f46f7-a752-4a13-bbb2-5beae1e99772"
+    },
+    {
+      "product": "McDonald's $5 Crispy Chicken Sandwich Meal Deal",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "McDonald's NEW $5 Crispy Chicken Sandwich Meal Deal Review!",
+      "videoCode": "ysihyj8inYk",
+      "dateReleased": "2022-08-11",
+      "rating": 5.0,
+      "id": "e0cdce03-1703-42c9-bd48-3cb751c83e14"
+    },
+    {
+      "product": "Wendy's Home Style French Toast Sticks",
+      "manufacturer": "Wendy's",
+      "category": "Running On Empty",
+      "videoTitle": "The Most Disappointing Fast Food Breakfast Item Yet",
+      "videoCode": "ta_ycq-xn5M",
+      "dateReleased": "2022-08-17",
+      "rating": 2.0,
+      "id": "ff3a8ecb-e890-4ff9-a789-bed6e2c578c2"
+    },
+    {
+      "product": "Grilled Cheese Burrito",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell's Grilled Cheese Burrito is Back!",
+      "videoCode": "ARnmyVgAots",
+      "dateReleased": "2022-08-22",
+      "rating": 7.0,
+      "id": "1bd504e0-0e58-459c-b154-46342362a7ba"
+    },
+    {
+      "product": "Italian Meat Trio Papa Bowl",
+      "manufacturer": "Papa John's",
+      "category": "Running On Empty",
+      "videoTitle": "Papa John's New Papa Bowls Are DISGUSTING",
+      "videoCode": "ktzhD93oBR4",
+      "dateReleased": "2022-08-29",
+      "rating": 3.0,
+      "id": "72223a1e-c0b4-46b3-b73a-265389fdf8e7"
+    },
+    {
+      "product": "Hot Honey Not-Birdperson Combo (Rick and Morty Meal)",
+      "manufacturer": "Wendy's",
+      "category": "Running On Empty",
+      "videoTitle": "Wendy's NEW Rick And Morty Meal Review!",
+      "videoCode": "JC_3B58KLe8",
+      "dateReleased": "2022-09-08",
+      "rating": 6.0,
+      "id": "c64f630f-6258-4840-913c-1ec4a1823e7c"
+    },
+    {
+      "product": "Royal Crispy Chicken Sandwich",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "Did Burger King Finally Get Chicken Sandwiches Right?",
+      "videoCode": "NXolLSRxP8o",
+      "dateReleased": "2022-09-14",
+      "rating": 4.9,
+      "id": "a59b153e-2ee7-4fe8-b717-fa696965c5f3"
+    },
+    {
+      "product": "Detroit style pizza",
+      "manufacturer": "Pizza Hut",
+      "category": "Running On Empty",
+      "videoTitle": "What Happened To Pizza Hut's Detroit Style Pizza?",
+      "videoCode": "q_V_aeetQJc",
+      "dateReleased": "2022-09-19",
+      "rating": 7.0,
+      "id": "974d00b0-1c38-419c-a245-8d611f325c2f"
+    },
+    {
+      "product": "Hot Ones Burger",
+      "manufacturer": "Shake Shack",
+      "category": "Running On Empty",
+      "videoTitle": "Shake Shack's NEW Hot Ones Burger Review!",
+      "videoCode": "fwJAYDeCQek",
+      "dateReleased": "2022-09-28",
+      "rating": 8.0,
+      "id": "5e41ef51-a6ae-4cf2-9b0e-6df6ef8c630c"
+    },
+    {
+      "product": "Cactus Plant Flea Market Meal",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "McDonald's NEW Cactus Plant Flea Market Meal Review!",
+      "videoCode": "Sfg7oA9OQF8",
+      "dateReleased": "2022-10-04",
+      "rating": 7.0,
+      "id": "70a15f48-eb59-4d63-b815-4bf43c8f7907"
+    },
+    {
+      "product": "Wingstop chicken sandwich",
+      "manufacturer": "Wingstop",
+      "category": "Running On Empty",
+      "videoTitle": "Is Wingstop's NEW Chicken Sandwich Worth The Hype?",
+      "videoCode": "GofsCr-E1VM",
+      "dateReleased": "2022-10-12",
+      "rating": 5.5,
+      "id": "c0b1b745-00d5-425a-b405-7c194e642ff8"
+    },
+    {
+      "product": "Ghost Pepper Whopper",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "Burger King's NEW Ghost Pepper Whopper Review!",
+      "videoCode": "usNsm_sUtdI",
+      "dateReleased": "2022-10-18",
+      "rating": 8.4,
+      "id": "ab5355e9-c4d8-4414-b555-4e909f80489d"
+    },
+    {
+      "product": "Diablo Chicken Sandwich",
+      "manufacturer": "Arby's",
+      "category": "Running On Empty",
+      "videoTitle": "Arby's NEW Diablo Dare Sandwich Review!",
+      "videoCode": "2lKnLe3gsD4",
+      "dateReleased": "2022-10-28",
+      "rating": 8.5,
+      "id": "3de1816c-3f8d-4c13-940a-c67659c8ca5f"
+    },
+    {
+      "product": "McRib",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "The Worst McRib I've Ever Had...",
+      "videoCode": "jT3k97RxOkw",
+      "dateReleased": "2022-11-05",
+      "rating": 5.6,
+      "id": "8fa14fd0-7d50-40de-a2d4-f88a976e9211"
+    },
+    {
+      "product": "Pizza Hut Melts (Pepperoni Lovers)",
+      "manufacturer": "Pizza Hut",
+      "category": "Running On Empty",
+      "videoTitle": "Pizza Hut's NEW Pizza Melts Review!",
+      "videoCode": "Yb2fwYvLG10",
+      "dateReleased": "2022-11-12",
+      "rating": 9.0,
+      "id": "41523d36-8ec3-4b76-85a7-a0f35d068e8a"
+    },
+    {
+      "product": "Blackened Chicken Sandwich",
+      "manufacturer": "Popeyes",
+      "category": "Running On Empty",
+      "videoTitle": "Popeyes NEW Blackened Chicken Sandwich Review!",
+      "videoCode": "55v9hXp2YXE",
+      "dateReleased": "2022-11-19",
+      "rating": 3.0,
+      "id": "e57ffcb2-d05c-4dfc-b8cb-1b8394300f0e"
+    },
+    {
+      "product": "McDonald's Smoky BLT Quarter Pounder with Cheese",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "McDonald's NEW Smoky BLT Quarter Pounder Review!",
+      "videoCode": "yBFHuRRXseY",
+      "dateReleased": "2022-11-26",
+      "rating": 9.0,
+      "id": "a166e5aa-c5aa-447b-acdb-b2dbb771487f"
+    },
+    {
+      "product": "Italian mozzarella chicken sandwich",
+      "manufacturer": "Wendy's",
+      "category": "Running On Empty",
+      "videoTitle": "Wendy's NEW Italian Chicken Sandwich Review",
+      "videoCode": "h0v-raHhllQ",
+      "dateReleased": "2022-12-02",
+      "rating": 1.5,
+      "id": "f89b0d40-17a1-4be5-b819-16cf88b7c306"
+    },
+    {
+      "product": "Carolina Gold Barbecue Chicken Sandwich",
+      "manufacturer": "Wingstop",
+      "category": "Running On Empty",
+      "videoTitle": "Wingstop's NEW Carolina Gold BBQ Chicken Sandwich Review!",
+      "videoCode": "IYWf2-dz_lY",
+      "dateReleased": "2022-12-12",
+      "rating": 7.0,
+      "id": "ed57b89d-a619-4c84-93d5-25111c61c795"
+    },
+    {
+      "product": "Breakfast Crunchwrap (bacon)",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "What's Taco Bell's Problem?",
+      "videoCode": "CxR_Roifk00",
+      "dateReleased": "2022-12-20",
+      "rating": 6.5,
+      "id": "2f10040a-7513-4adc-85c6-fab798b92cad"
+    },
+    {
+      "product": "Oreo Cookie Papa Bites",
+      "manufacturer": "Papa John's",
+      "category": "Running On Empty",
+      "videoTitle": "Papa John's Totally BLEW IT With Their Latest Release",
+      "videoCode": "GVPP8DpTgi4",
+      "dateReleased": "2022-12-27",
+      "rating": 4.8,
+      "id": "b2538fc6-179f-4942-a373-ccca2935aa57"
+    },
+    {
+      "product": "Salsa Verde Grilled Chicken Burrito",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell's NEW Salsa Verde Grilled Chicken Burrito Review!",
+      "videoCode": "mQuEkPoZq6E",
+      "dateReleased": "2023-01-02",
+      "rating": 3.0,
+      "id": "86d79be4-ff28-41e3-a054-5dcd318cbf23"
+    },
+    {
+      "product": "Popeyes Ghost Pepper Wings",
+      "manufacturer": "Popeyes",
+      "category": "Running On Empty",
+      "videoTitle": "Popeyes NEW Ghost Pepper Wings Review!",
+      "videoCode": "GOka67z8x5E",
+      "dateReleased": "2023-01-07",
+      "rating": 6.5,
+      "id": "73afe6f8-3850-43a9-9a92-35143decb4a0"
+    },
+    {
+      "product": "Mexican Original Chicken Sandwich",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "Burger King's Mexican Original Chicken Sandwich Review!",
+      "videoCode": "hX-MdpDqVbo",
+      "dateReleased": "2023-01-13",
+      "rating": 5.5,
+      "id": "45c1a9e2-080b-42b9-a643-9a3c67e758fe"
+    },
+    {
+      "product": "Little Caesars Slices-N-Stix (Jalapeno)",
+      "manufacturer": "Little Caesars",
+      "category": "Running On Empty",
+      "videoTitle": "Little Caesars NEW Slices-N-Stix Jalapeno Pizza Review!",
+      "videoCode": "-mm8X2ra4lQ",
+      "dateReleased": "2023-01-19",
+      "rating": 7.2,
+      "id": "52008460-318b-461a-88e9-9bf4063bec51"
+    },
+    {
+      "product": "Taco Bell Crispy Chicken Wings",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell's NEW Crispy Chicken Wings Review!",
+      "videoCode": "cP5MiaVhDwg",
+      "dateReleased": "2023-01-24",
+      "rating": 8.9,
+      "id": "57f5db04-b0e9-4c2f-9c5b-b59a08a3059f"
+    },
+    {
+      "product": "Crispy Parm Pizza",
+      "manufacturer": "Papa John's",
+      "category": "Running On Empty",
+      "videoTitle": "Papa John's NEW Crispy Parm Pizza Review!",
+      "videoCode": "7qXR4xmX-qg",
+      "dateReleased": "2023-01-31",
+      "rating": 7.0,
+      "id": "70c2edf6-5f31-4d63-85a8-d27ca64789c8"
+    },
+    {
+      "product": "Crispy Melt Taco",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell's NEW Crispy Melt Taco Review!",
+      "videoCode": "qL-eVHinSlQ",
+      "dateReleased": "2023-02-06",
+      "rating": 5.8,
+      "id": "1ab3bc7f-8ce8-4ff0-8e36-3e0d687dff7b"
+    },
+    {
+      "product": "Big New Yorker Pizza",
+      "manufacturer": "Pizza Hut",
+      "category": "Running On Empty",
+      "videoTitle": "Pizza Hut's NEW Big New Yorker Pizza Review!",
+      "videoCode": "iqqNyAqyn1U",
+      "dateReleased": "2023-02-11",
+      "rating": 8.7,
+      "id": "4b523940-bd10-4bcd-b197-948e287dedca"
+    },
+    {
+      "product": "Cardi B & Offset Meal",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "McDonald's NEW New Cardi B & Offset Meal Review!",
+      "videoCode": "XueZrV0NtDM",
+      "dateReleased": "2023-02-16",
+      "rating": 6.5,
+      "id": "88635e3d-ac41-4523-ae80-657135ac7ee5"
+    },
+    {
+      "product": "Cheddar Bacon Loaded Tots",
+      "manufacturer": "Domino's",
+      "category": "Running On Empty",
+      "videoTitle": "The Worst Domino's Item I've Ever Had",
+      "videoCode": "Y8_HleQvXOQ",
+      "dateReleased": "2023-02-23",
+      "rating": 3.5,
+      "id": "6e57d003-c122-48ca-a829-c7ac257f88f3"
+    },
+    {
+      "product": "KFC Kentucky Fried Chicken Wrap (Original)",
+      "manufacturer": "KFC",
+      "category": "Running On Empty",
+      "videoTitle": "KFC's New Kentucky Fried Chicken Wraps Review!",
+      "videoCode": "UC52KRdyOXs",
+      "dateReleased": "2023-03-01",
+      "rating": 7.5,
+      "id": "131f95db-8aa6-4e97-97a3-4cd107f06bb9"
+    },
+    {
+      "product": "Double Down (2023 Edition)",
+      "manufacturer": "KFC",
+      "category": "Running On Empty",
+      "videoTitle": "KFC's New Double Down Sandwich Review!",
+      "videoCode": "doGB7PZDee0",
+      "dateReleased": "2023-03-07",
+      "rating": 7.6,
+      "id": "23b5aaf4-0a92-478a-b7a8-f66ce882f185"
+    },
+    {
+      "product": "Spicy Chicken Fries",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "Are Burger King's Spicy Chicken Fries TOO Hot?",
+      "videoCode": "MMOTK6n7K4c",
+      "dateReleased": "2023-03-13",
+      "rating": 8.0,
+      "id": "8809e844-5f84-4a4e-a547-2683a1d8f00c"
+    },
+    {
+      "product": "McDonald's Bacon Ranch McCrispy Sandwich",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "McDonald's Bacon Ranch McCrispy Sandwich is Awful, Just Awful...",
+      "videoCode": "rjFArHZbqAk",
+      "dateReleased": "2023-03-17",
+      "rating": 4.0,
+      "id": "c6a502f6-b494-419e-b04b-ab17957c7127"
+    },
+    {
+      "product": "Bacon Club Chalupa",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Did Taco Bell Finally Get It Right?",
+      "videoCode": "grj1zBQddVQ",
+      "dateReleased": "2023-03-22",
+      "rating": 8.15,
+      "id": "35194f74-920e-4fa1-be13-be95f4f057d2"
+    },
+    {
+      "product": "Little Caesars Pretzel Crust Pizza",
+      "manufacturer": "Little Caesars",
+      "category": "Running On Empty",
+      "videoTitle": "Little Caesars NEW Pretzel Crust Pizza Review!",
+      "videoCode": "LcwekaOZGLA",
+      "dateReleased": "2023-03-29",
+      "rating": 8.0,
+      "id": "a560b4ac-93f6-4075-b687-c37822cd7d4a"
+    },
+    {
+      "product": "Kentucky Fried Chicken Nuggets",
+      "manufacturer": "KFC",
+      "category": "Running On Empty",
+      "videoTitle": "Did KFC Release The BEST Fast Food Chicken Nuggets?",
+      "videoCode": "PxU8T-U9lZM",
+      "dateReleased": "2023-04-05",
+      "rating": 8.8,
+      "id": "8d18eb1a-266b-49cb-b03c-caae88372b89"
+    },
+    {
+      "product": "Spicy Melt",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "Burger King's Spicy Melt is AWFUL",
+      "videoCode": "QbJevoHQ2Pc",
+      "dateReleased": "2023-04-10",
+      "rating": 3.0,
+      "id": "90f89f49-cade-4501-b089-27e2eb0dca1e"
+    },
+    {
+      "product": "Taco Bell's Nacho Fries",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell's Nacho Fries Are BACK (for the 15th time)",
+      "videoCode": "pXn3SHcUPL8",
+      "dateReleased": "2023-04-17",
+      "rating": 8.9,
+      "id": "384863c6-21a4-4617-8b74-4d6fb040dab6"
+    },
+    {
+      "product": "Spicy Chicken McNuggets",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "Does McDonald's Have The HOTTEST Chicken Nuggets?",
+      "videoCode": "9jBZTrw8CDg",
+      "dateReleased": "2023-04-22",
+      "rating": 8.6,
+      "id": "2aa29eb4-26ba-47ef-b61a-d5e7224adfc7"
+    },
+    {
+      "product": "Grilled Cheese Burrito",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell's NEW Grilled Cheese Burrito Review!",
+      "videoCode": "dYKrDNv8Ck4",
+      "dateReleased": "2023-04-26",
+      "rating": 9.0,
+      "id": "4e8c78b2-208a-4654-8fac-c19a7808de4a"
+    },
+    {
+      "product": "Cheesesteak Melt",
+      "manufacturer": "Pizza Hut",
+      "category": "Running On Empty",
+      "videoTitle": "Pizza Hut's NEW Cheesesteak Melt Review!",
+      "videoCode": "l9iS_Tblhlw",
+      "dateReleased": "2023-05-03",
+      "rating": 3.5,
+      "id": "abde4344-d780-4758-97f4-79997336f3e4"
+    },
+    {
+      "product": "Doritos Cool Ranch Papadia (Chicken)",
+      "manufacturer": "Papa John's",
+      "category": "Running On Empty",
+      "videoTitle": "Papa John's NEW Doritos Cool Ranch Papadia Review!",
+      "videoCode": "RJoxoXbup5s",
+      "dateReleased": "2023-05-08",
+      "rating": 7.5,
+      "id": "b5449bc2-9c6a-446c-bf9c-d4509ef57a05"
+    },
+    {
+      "product": "Ghost Pepper Ranch Chicken Sandwich",
+      "manufacturer": "Wendy's",
+      "category": "Running On Empty",
+      "videoTitle": "Wendy's NEW Ghost Pepper Ranch Chicken Sandwich Review!",
+      "videoCode": "1SMLQiwt9n4",
+      "dateReleased": "2023-05-12",
+      "rating": 6.0,
+      "id": "5764dd72-8b07-4f15-8c2e-290a5b5349c0"
+    },
+    {
+      "product": "Bourbon Barbecue Country Style Rib Sandwich",
+      "manufacturer": "Arby's",
+      "category": "Running On Empty",
+      "videoTitle": "Another Failure of a Review...",
+      "videoCode": "X9oSdf_7XsM",
+      "dateReleased": "2023-05-16",
+      "rating": 2.0,
+      "id": "e712d331-a7a1-4f48-a8a1-8c311fb40998"
+    },
+    {
+      "product": "Spider-Verse Whopper",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "Burger King's NEW Spider-Verse Whopper Review!",
+      "videoCode": "vV-LIOSAWzY",
+      "dateReleased": "2023-05-21",
+      "rating": 8.6,
+      "id": "1f8a0420-6f62-412d-945f-d1ba9079a50d"
+    },
+    {
+      "product": "Bacon Ranch Wagyu Steakhouse burger",
+      "manufacturer": "Arby's",
+      "category": "Running On Empty",
+      "videoTitle": "Something's WRONG With Arby's Wagyu Burgers...",
+      "videoCode": "sRwzi20qjIo",
+      "dateReleased": "2023-05-26",
+      "rating": 6.7,
+      "id": "4ea0b79a-eec0-47db-9f31-b091f5a8f842"
+    },
+    {
+      "product": "Steak Chile Verde Fries Burrito",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell's Steak Chile Verde Fries Burrito Review!",
+      "videoCode": "CWlvGmjPR3g",
+      "dateReleased": "2023-05-31",
+      "rating": 6.0,
+      "id": "1413a052-6953-4a38-b3c1-68e41722e1c9"
+    },
+    {
+      "product": "Buffalo Wild Wings Sweet Chili Lime and General Tso's wings",
+      "manufacturer": "Buffalo Wild Wings",
+      "category": "Running On Empty",
+      "videoTitle": "Trying Buffalo Wild Wings NEW Wing Flavors!",
+      "videoCode": "fYWtck8MjuY",
+      "dateReleased": "2023-06-05",
+      "rating": null,
+      "id": "17b4d184-ef91-489e-ab4b-d9eefa024e23"
+    },
+    {
+      "product": "Popeyes Bacon and Cheese Chicken Sandwich",
+      "manufacturer": "Popeyes",
+      "category": "Running On Empty",
+      "videoTitle": "What's Wrong With Popeyes Bacon & Cheese Chicken Sandwich?",
+      "videoCode": "7Xl8SICdE5c",
+      "dateReleased": "2023-06-09",
+      "rating": 4.0,
+      "id": "50a58d54-8a35-4513-aad0-a71b3ce2c7f3"
+    },
+    {
+      "product": "Grimace Birthday Meal",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "McDonald's NEW Grimace Birthday Meal Review!",
+      "videoCode": "W9ugZFntqSM",
+      "dateReleased": "2023-06-12",
+      "rating": 8.0,
+      "id": "9b84b92b-03fc-4c30-972f-d49f67c757a0"
+    },
+    {
+      "product": "Papa John's boneless wings",
+      "manufacturer": "Papa John's",
+      "category": "Running On Empty",
+      "videoTitle": "More Disappointment From Papa John’s",
+      "videoCode": "SKrR1Hm8xAY",
+      "dateReleased": "2023-06-19",
+      "rating": 5.5,
+      "id": "2607161c-b003-4f28-bae3-31853f6f50bf"
+    },
+    {
+      "product": "Fiery Chicken Nuggets",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "Burger King's NEW Fiery Chicken Nuggets Review!",
+      "videoCode": "B_GIUptDG3U",
+      "dateReleased": "2023-06-24",
+      "rating": 8.5,
+      "id": "8171160e-1479-475c-bd67-a8983cf2bf97"
+    },
+    {
+      "product": "Ultimate Barbecue Chicken Sandwich",
+      "manufacturer": "KFC",
+      "category": "Running On Empty",
+      "videoTitle": "Did KFC Release The BEST Chicken Sandwich?",
+      "videoCode": "H0SglyK_SYo",
+      "dateReleased": "2023-07-05",
+      "rating": 7.3,
+      "id": "be4e9d45-4a87-41ab-949b-dec97b5766f1"
+    },
+    {
+      "product": "Crispy Chicken Taco",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell's NEW Crispy Chicken Tacos Review!",
+      "videoCode": "nWXHfAc_zYY",
+      "dateReleased": "2023-07-11",
+      "rating": 4.0,
+      "id": "5c227680-caa4-4222-b1cf-803fe0b503c3"
+    },
+    {
+      "product": "Cheesy Jalapeno Bacon Quarter Pounder with Cheese",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "McDonald's NEW Cheesy Jalapeno Bacon Quarter Pounder Review!",
+      "videoCode": "z9a2VOyKqM8",
+      "dateReleased": "2023-07-15",
+      "rating": 8.4,
+      "id": "170f18a4-da66-474e-b2c2-8b9626c67654"
+    },
+    {
+      "product": "Pepsi Pineapple",
+      "manufacturer": "Pepsi",
+      "category": "Drink Review",
+      "videoTitle": "Pepsi Pineapple (from Little Caesars) Drink Review!",
+      "videoCode": "zQ2_LZ8NPlo",
+      "dateReleased": "2023-07-21",
+      "rating": 9.0,
+      "id": "de6a5dd0-cc30-49d4-ae5f-80874a258d7d"
+    },
+    {
+      "product": "Papa John's Garlic Epic Stuffed Crust Pizza",
+      "manufacturer": "Papa John's",
+      "category": "Running On Empty",
+      "videoTitle": "Papa John's NEW Garlic Epic Stuffed Crust Pizza Review!",
+      "videoCode": "SCJgRC2GlXo",
+      "dateReleased": "2023-07-25",
+      "rating": 8.0,
+      "id": "2fb763ce-4dc3-4979-8fef-3c38f5098f44"
+    },
+    {
+      "product": "Blazin Knockout Wings",
+      "manufacturer": "Buffalo Wild Wings",
+      "category": "Running On Empty",
+      "videoTitle": "Are These The HOTTEST Wings I've Had?",
+      "videoCode": "bA1nYct2Ggg",
+      "dateReleased": "2023-08-01",
+      "rating": 8.5,
+      "id": "b0d45f37-3b02-42d4-8068-82785e4f85e3"
+    },
+    {
+      "product": "Grilled Cheese Dipping Taco",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell's NEW Grilled Cheese Dipping Taco Review!",
+      "videoCode": "yPS2KReKlRM",
+      "dateReleased": "2023-08-07",
+      "rating": 6.7,
+      "id": "01fad91c-d163-44e8-8791-aeceb604cb90"
+    },
+    {
+      "product": "Italian Original Chicken Sandwich",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "The Worst Burger King Item I've Ever Had",
+      "videoCode": "mLFe5YuhOZ0",
+      "dateReleased": "2023-08-12",
+      "rating": 2.0,
+      "id": "84373a51-c35f-4855-8adf-37e4d5cd8028"
+    },
+    {
+      "product": "As Featured In Meal",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "McDonald's NEW As Featured In Meal Review!",
+      "videoCode": "SVOTD9CL_i8",
+      "dateReleased": "2023-08-14",
+      "rating": 6.0,
+      "id": "e987f7db-94e4-4312-a9db-86a1c8dbeb3b"
+    },
+    {
+      "product": "BK Royal Crispy Chicken Wrap",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "Burger King did it again...",
+      "videoCode": "2vzQYQzs-s4",
+      "dateReleased": "2023-08-21",
+      "rating": 5.8,
+      "id": "53ea3565-2107-43b5-87ee-047ef821e2dc"
+    },
+    {
+      "product": "Loaded Nacho Cheeseburger",
+      "manufacturer": "Wendy's",
+      "category": "Running On Empty",
+      "videoTitle": "Wendy's NEW Loaded Nacho Cheeseburger Review!",
+      "videoCode": "M_StJ8hc-VQ",
+      "dateReleased": "2023-08-26",
+      "rating": 6.7,
+      "id": "940610ef-e2d0-487e-b915-1ba35a1075fb"
+    },
+    {
+      "product": "Honey Pepper Pimento Chicken Sandwich",
+      "manufacturer": "Chick-fil-A",
+      "category": "Running On Empty",
+      "videoTitle": "Chick-fil-A's NEW Honey Pepper Pimento Chicken Sandwich Review!",
+      "videoCode": "pp7l9GvPhZw",
+      "dateReleased": "2023-09-01",
+      "rating": 9.3,
+      "id": "625f9cff-38fb-47a1-89eb-6c43191549ca"
+    },
+    {
+      "product": "Sweet 'N Spicy Wings",
+      "manufacturer": "Popeyes",
+      "category": "Running On Empty",
+      "videoTitle": "Popeyes NEW Sweet 'N Spicy Wings Review!",
+      "videoCode": "souqVeAv-y4",
+      "dateReleased": "2023-09-06",
+      "rating": 8.8,
+      "id": "f927006a-a751-4533-9a28-fcfdac735722"
+    },
+    {
+      "product": "4-Quarter Calzony",
+      "manufacturer": "Little Caesars",
+      "category": "Running On Empty",
+      "videoTitle": "Little Caesars NEW 4-Quarter Calzony Review!",
+      "videoCode": "a0zxACj7Sig",
+      "dateReleased": "2023-09-09",
+      "rating": 7.0,
+      "id": "96a7be6f-b5d4-4e70-842d-2b72f6bc00cc"
+    },
+    {
+      "product": "Hot and Spicy Wings",
+      "manufacturer": "KFC",
+      "category": "Running On Empty",
+      "videoTitle": "KFC's NEW Hot & Spicy Wings Review!",
+      "videoCode": "bohX9lGZ5Dg",
+      "dateReleased": "2023-09-14",
+      "rating": 7.4,
+      "id": "69700aef-95f2-41af-89a1-0be94097eb86"
+    },
+    {
+      "product": "Arby's Big Game Burger",
+      "manufacturer": "Arby's",
+      "category": "Running On Empty",
+      "videoTitle": "Arby's NEW Venison & Elk Burger Review!",
+      "videoCode": "fhffguxwocY",
+      "dateReleased": "2023-09-18",
+      "rating": 7.1,
+      "id": "cc0b83fd-e936-4f61-9581-088825d78104"
+    },
+    {
+      "product": "chicken enchilada burrito",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "This Taco Bell Burrito is PATHETIC",
+      "videoCode": "ttw4BjwquAQ",
+      "dateReleased": "2023-09-24",
+      "rating": 3.0,
+      "id": "4020614b-6178-423b-b1d1-1549fa65139a"
+    },
+    {
+      "product": "Honey Mustard Royal Crispy Chicken Sandwich",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "Burger King's NEW Honey Mustard Royal Crispy Chicken Sandwich Review!",
+      "videoCode": "1luw_ZcgwC4",
+      "dateReleased": "2023-09-30",
+      "rating": 2.0,
+      "id": "ce51390f-199b-481f-ae31-d7d0f243ca97"
+    },
+    {
+      "product": "Pepperoni Stuffed Cheesy Bread",
+      "manufacturer": "Domino's",
+      "category": "Running On Empty",
+      "videoTitle": "Domino's NEW Pepperoni Stuffed Cheesy Bread Review!",
+      "videoCode": "NdMZSLm7hsc",
+      "dateReleased": "2023-10-06",
+      "rating": 7.0,
+      "id": "523967be-14b2-4071-bc2c-64f93559f980"
+    },
+    {
+      "product": "McDonald's Sweet and Spicy Jam and Mambo dipping sauces",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "McDonald's NEW Dipping Sauces Review!",
+      "videoCode": "bNzPs-z0y9A",
+      "dateReleased": "2023-10-09",
+      "rating": null,
+      "id": "ed262145-b45f-4a97-9285-361ae84dd02b"
+    },
+    {
+      "product": "Ghost Pepper Whopper",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "Burger King's NEW Ghost Pepper Whopper Review!",
+      "videoCode": "u438D3-gLvc",
+      "dateReleased": "2023-10-13",
+      "rating": 8.1,
+      "id": "88b12a92-1594-4b34-ad18-1d33d4fcd6f9"
+    },
+    {
+      "product": "Steak and Bacon Grilled Cheese Burrito",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell's NEW Steak And Bacon Grilled Cheese Burrito Review!",
+      "videoCode": "TDspU0Jm4Iw",
+      "dateReleased": "2023-10-16",
+      "rating": 8.2,
+      "id": "9bee1950-3e69-4802-a85e-93622250cc82"
+    },
+    {
+      "product": "Jamal Murray meal",
+      "manufacturer": "KFC",
+      "category": "Running On Empty",
+      "videoTitle": "The Most Disappointing Celebrity Meal I've Seen",
+      "videoCode": "oLyUrlz3rp0",
+      "dateReleased": "2023-10-21",
+      "rating": 6.4,
+      "id": "ad8323c9-bd58-4f68-92de-0ddf1b130433"
+    },
+    {
+      "product": "Popeyes Spicy Truff Chicken Sandwich",
+      "manufacturer": "Popeyes",
+      "category": "Running On Empty",
+      "videoTitle": "Popeyes NEW TRUFF Chicken Sandwich Review!",
+      "videoCode": "eHa50oQXMBk",
+      "dateReleased": "2023-10-24",
+      "rating": 4.0,
+      "id": "cca67902-3f6c-49c7-a1ef-46a7bd001d4b"
+    },
+    {
+      "product": "Roasted Garlic Cheese Sticks",
+      "manufacturer": "Pizza Hut",
+      "category": "Running On Empty",
+      "videoTitle": "Pizza Hut's NEW Roasted Garlic Cheese Sticks Review!",
+      "videoCode": "cNvRC29Txdw",
+      "dateReleased": "2023-10-27",
+      "rating": 7.7,
+      "id": "cd00a6c7-b881-4287-86c6-441c12161a25"
+    },
+    {
+      "product": "Fried Mac and Cheese Bites",
+      "manufacturer": "Arby's",
+      "category": "Running On Empty",
+      "videoTitle": "Arby's NEW Mac 'N Cheese Bites Review!",
+      "videoCode": "fKB3z1gtq8Y",
+      "dateReleased": "2023-11-02",
+      "rating": 4.0,
+      "id": "75cdcad4-bfc2-427b-8c32-4044f637db78"
+    },
+    {
+      "product": "Breakfast Taco (Sausage)",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell's NEW Breakfast Tacos Review!",
+      "videoCode": "xAOZ9JIRzDo",
+      "dateReleased": "2023-11-09",
+      "rating": 7.9,
+      "id": "10f9b421-5a98-4b6f-af0b-ddf11418cb55"
+    },
+    {
+      "product": "Arby's Good Burger 2 Meal",
+      "manufacturer": "Arby's",
+      "category": "Running On Empty",
+      "videoTitle": "Arby's NEW Good Burger 2 Meal Review!",
+      "videoCode": "LTmv-cVvkuk",
+      "dateReleased": "2023-11-14",
+      "rating": 7.2,
+      "id": "30e93f3f-b654-41a4-a5b3-851ce3b0d064"
+    },
+    {
+      "product": "McRib",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "I Can't Believe McDonald's Did It...",
+      "videoCode": "jSXuxJzEz34",
+      "dateReleased": "2023-11-19",
+      "rating": 7.0,
+      "id": "66653617-eca5-4628-8fd8-81ef558a8f77"
+    },
+    {
+      "product": "Crazy Crust Pizza (Crazy Bread Stuffed Crust)",
+      "manufacturer": "Little Caesars",
+      "category": "Running On Empty",
+      "videoTitle": "How DELICIOUS Is This Floppy, Undercooked Little Caesars Pizza?",
+      "videoCode": "60w-4W64_hk",
+      "dateReleased": "2023-11-25",
+      "rating": 4.0,
+      "id": "ba7844c2-c47b-4c07-a872-f8247de6acd4"
+    },
+    {
+      "product": "Pretzel Baconator",
+      "manufacturer": "Wendy's",
+      "category": "Running On Empty",
+      "videoTitle": "Wendy's NEW Pretzel Baconator Review!",
+      "videoCode": "cQ4_4XodH00",
+      "dateReleased": "2023-11-30",
+      "rating": 8.3,
+      "id": "2e4fff3c-e069-429e-80ae-5d744280f7b2"
+    },
+    {
+      "product": "Popeyes new wing flavors (Signature Hot, Honey Barbecue, Roasted Garlic Parmesan)",
+      "manufacturer": "Popeyes",
+      "category": "Running On Empty",
+      "videoTitle": "The Wings No One Cares About",
+      "videoCode": "0rUV1uofNxk",
+      "dateReleased": "2023-12-04",
+      "rating": 6.3,
+      "id": "1b2ce5c8-a00c-443e-81b7-7e1f6ff3a9c2"
+    },
+    {
+      "product": "Double Decker Taco",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell NEW Double Decker Taco Review!",
+      "videoCode": "x1fHGjCFI-U",
+      "dateReleased": "2023-12-08",
+      "rating": 5.8,
+      "id": "c451bb53-f0b0-4189-9852-e60ae556c94f"
+    },
+    {
+      "product": "Kerwin Frost Box",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "McDonald's NEW Kerwin Frost Box Review!",
+      "videoCode": "Bg4DME6Uwqo",
+      "dateReleased": "2023-12-11",
+      "rating": 8.5,
+      "id": "b0cbbd38-2ce9-4f9e-9dff-8f85776bf53a"
+    },
+    {
+      "product": "Bacon Melt; Cheesy Tots",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "Burger King Really Surprised Me",
+      "videoCode": "R2qMJjTazIU",
+      "dateReleased": "2023-12-17",
+      "rating": 7.5,
+      "id": "c47a0aed-765d-438b-b8aa-992ab2591fe8"
+    },
+    {
+      "product": "Cheesy Calzone Stuffed Crust Pizza",
+      "manufacturer": "Papa John's",
+      "category": "Running On Empty",
+      "videoTitle": "Papa John's NEW Cheesy Calzone Stuffed Crust Pizza Review!",
+      "videoCode": "dHLt2oXmsCU",
+      "dateReleased": "2023-12-22",
+      "rating": 8.35,
+      "id": "adae64bb-0114-46fc-a39f-38784ff36e3c"
+    },
+    {
+      "product": "Honey pepper pimento chicken sandwich",
+      "manufacturer": "Chick-fil-A",
+      "category": "Running On Empty",
+      "videoTitle": "The BEST Fast Food of 2023",
+      "videoCode": "AdFxx6qzYjQ",
+      "dateReleased": "2023-12-31",
+      "rating": 9.3,
+      "id": "a0a8209b-03dd-4f59-ad42-097b877120ef"
+    },
+    {
+      "product": "KFC Honey Barbecue wrap; KFC Spicy Mac and Cheese wrap",
+      "manufacturer": "KFC",
+      "category": "Running On Empty",
+      "videoTitle": "What Happened to KFC???",
+      "videoCode": "1lTl2QesrX4",
+      "dateReleased": "2024-01-04",
+      "rating": null,
+      "id": "9fd27039-f323-46e7-8c94-24ca65e08fc7"
+    },
+    {
+      "product": "Slices-N-Stix Bacon Pizza",
+      "manufacturer": "Little Caesars",
+      "category": "Running On Empty",
+      "videoTitle": "Little Caesars NEW Slices-N-Stix Bacon Pizza Review!",
+      "videoCode": "T46wjXAV-TE",
+      "dateReleased": "2024-01-09",
+      "rating": 9.0,
+      "id": "4488b709-2f36-49de-8fb7-c1f2c680c9f4"
+    },
+    {
+      "product": "Three Cheese Chicken Flatbread Melt",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "The Problem with Taco Bell's NEW Value Menu",
+      "videoCode": "reKgy0ZfGyI",
+      "dateReleased": "2024-01-13",
+      "rating": 7.0,
+      "id": "ad4c8417-66fd-4048-8fbd-c2a4986e7cf9"
+    },
+    {
+      "product": "Peanut Butter Bacon Cheeseburger",
+      "manufacturer": "Sonic",
+      "category": "Running On Empty",
+      "videoTitle": "This Peanut Butter Burger Was NOT What I Expected...",
+      "videoCode": "rU6e645ol5g",
+      "dateReleased": "2024-01-18",
+      "rating": 5.8,
+      "id": "e0b23022-cf9d-40d6-8bbb-08b948ee6b8e"
+    },
+    {
+      "product": "Shake Shack Korean style fried chicken sandwich",
+      "manufacturer": "Shake Shack",
+      "category": "Running On Empty",
+      "videoTitle": "Shake Shack's Korean Style Fried Chicken Sandwich Review!",
+      "videoCode": "xL9foWwXcC4",
+      "dateReleased": "2024-01-23",
+      "rating": 6.0,
+      "id": "4044e709-304b-4aa7-87fd-5e828d62ea15"
+    },
+    {
+      "product": "Wendy's breakfast burrito",
+      "manufacturer": "Wendy's",
+      "category": "Running On Empty",
+      "videoTitle": "A Breakfast NOT Worth Waking Up For",
+      "videoCode": "YevghmGX1mo",
+      "dateReleased": "2024-01-26",
+      "rating": 6.0,
+      "id": "3d3e2c2c-9e35-420d-af59-3d636ae49040"
+    },
+    {
+      "product": "Double Big Mac",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "Did McDonald's Go Too Far?",
+      "videoCode": "6MY-HC7Q2Wo",
+      "dateReleased": "2024-01-30",
+      "rating": 7.0,
+      "id": "88778f26-fccf-4694-ad53-dfd9ae0f3f70"
+    },
+    {
+      "product": "Hot Honey Pizza",
+      "manufacturer": "Pizza Hut",
+      "category": "Running On Empty",
+      "videoTitle": "The Pizza I Didn't See Coming",
+      "videoCode": "0b9ToVXtNdY",
+      "dateReleased": "2024-02-04",
+      "rating": 7.2,
+      "id": "57413391-5b91-4009-82ab-e3ac6bfedaf7"
+    },
+    {
+      "product": "Candied Bacon Whopper",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "Burger King's NEW Candied Bacon Whopper Review!",
+      "videoCode": "bQnwkKizIAQ",
+      "dateReleased": "2024-02-09",
+      "rating": 8.9,
+      "id": "2e324eb2-d212-43eb-b4c3-7f8333c5196a"
+    },
+    {
+      "product": "Cheesy Chicken Crispanada",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell's NEW Cheesy Chicken Crispanada Review!",
+      "videoCode": "ul9_JWsEC0A",
+      "dateReleased": "2024-02-16",
+      "rating": 6.0,
+      "id": "2992f34d-2520-4b20-a72f-52e6592fe709"
+    },
+    {
+      "product": "Hot Honey Chicken Sandwich",
+      "manufacturer": "Wingstop",
+      "category": "Running On Empty",
+      "videoTitle": "Wingstop's NEW Hot Honey Chicken Sandwich Review!",
+      "videoCode": "YHbLR_w5aXU",
+      "dateReleased": "2024-02-21",
+      "rating": 5.9,
+      "id": "c6e13549-b748-4a84-a82c-b4bf5ab7f4f6"
+    },
+    {
+      "product": "Cheesa",
+      "manufacturer": "KFC",
+      "category": "Running On Empty",
+      "videoTitle": "KFC's NEW Chizza Review!",
+      "videoCode": "rUrd8XQDRXA",
+      "dateReleased": "2024-02-26",
+      "rating": 8.0,
+      "id": "ba44a316-2d81-4d5d-ade8-6e042b0bac72"
+    },
+    {
+      "product": "WickDonald's sauce",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "Why Is McDonald’s Newest Release a FAILURE?",
+      "videoCode": "KI87nJZ6tck",
+      "dateReleased": "2024-03-05",
+      "rating": 7.0,
+      "id": "ed9e84d5-86af-4b62-8ddf-5dea5b6e215c"
+    },
+    {
+      "product": "Fiery Buffalo Chicken Nuggets",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "Burger King's NEW Fiery Buffalo Chicken Nuggets Review!",
+      "videoCode": "7W4UwILdV-w",
+      "dateReleased": "2024-03-10",
+      "rating": 6.0,
+      "id": "7ed3f593-b73f-47ab-835b-feb9b4a91b39"
+    },
+    {
+      "product": "Crazy Puffs (Pepperoni)",
+      "manufacturer": "Little Caesars",
+      "category": "Running On Empty",
+      "videoTitle": "Little Caesars NEW Crazy Puffs Review!",
+      "videoCode": "r1w1OjlwX2E",
+      "dateReleased": "2024-03-15",
+      "rating": 7.4,
+      "id": "f1813b1d-0b53-4074-83c6-e9e3049347bc"
+    },
+    {
+      "product": "Honey Lemon Pepper Wings",
+      "manufacturer": "Popeyes",
+      "category": "Running On Empty",
+      "videoTitle": "The Worst Wings I've Ever Had",
+      "videoCode": "lf7AhY5W3L4",
+      "dateReleased": "2024-03-20",
+      "rating": 2.0,
+      "id": "ed927038-a2a4-4431-8fba-ef9cf951b9c0"
+    },
+    {
+      "product": "Crispy Cuppy Roni Pizza",
+      "manufacturer": "Papa John's",
+      "category": "Running On Empty",
+      "videoTitle": "Papa John's NEW Crispy Cuppy ‘Roni Pizza Review!",
+      "videoCode": "_xbzOdWfsmw",
+      "dateReleased": "2024-03-27",
+      "rating": 8.0,
+      "id": "241d987c-7105-490a-94fd-c9ba0372f081"
+    },
+    {
+      "product": "KFC Saucy Nuggets (Korean barbecue Edition)",
+      "manufacturer": "KFC",
+      "category": "Running On Empty",
+      "videoTitle": "KFC's NEW Saucy Nuggets Review!",
+      "videoCode": "aJMbOFUh9fA",
+      "dateReleased": "2024-04-02",
+      "rating": 4.8,
+      "id": "a86d26be-201e-4b57-a917-7daeb2bcf44f"
+    },
+    {
+      "product": "Spicy Chicken McNuggets",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "McDonald's NEW Spicy Chicken McNuggets Review!",
+      "videoCode": "xLlOEJtB0W0",
+      "dateReleased": "2024-04-06",
+      "rating": null,
+      "id": "d900779f-11fa-4cba-9cdb-f323c1dcf85f"
+    },
+    {
+      "product": "Cantina Crispy Chicken Taco",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "The BEST Taco Bell Release in Years!",
+      "videoCode": "6b7C79Vxk6Q",
+      "dateReleased": "2024-04-12",
+      "rating": 9.1,
+      "id": "ed389da0-729d-43e0-9546-d0e08350e749"
+    },
+    {
+      "product": "Domino's New York style pizza",
+      "manufacturer": "Domino's",
+      "category": "Running On Empty",
+      "videoTitle": "Domino's New York Style Pizza Review!",
+      "videoCode": "OGTMH5Kg40A",
+      "dateReleased": "2024-04-17",
+      "rating": 6.0,
+      "id": "b6b51bc7-85b7-4ed4-8aa3-9c9fd1a34fe0"
+    },
+    {
+      "product": "Bacon Cajun Ranch Deluxe MC Krispy Chicken Sandwich",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "Not What I Expected From McDonald's",
+      "videoCode": "iMQtMZxpfjc",
+      "dateReleased": "2024-04-22",
+      "rating": 8.5,
+      "id": "66db063e-a121-4942-839b-d3c7c5355f54"
+    },
+    {
+      "product": "Taco Bell Secret Arvar Nacho Fries",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell's NEW Secret Aardvark Nacho Fries Review!",
+      "videoCode": "TWnEA2z3vXs",
+      "dateReleased": "2024-04-27",
+      "rating": 7.0,
+      "id": "fe5cf83e-5e08-42e5-b9f2-a52a770bc9c1"
+    },
+    {
+      "product": "Bacon Cajun Ranch MC Krispy sandwich",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "There's a BIG Problem With Fast Food",
+      "videoCode": "i2K7FftzwPQ",
+      "dateReleased": "2024-05-01",
+      "rating": 4.0,
+      "id": "048aea69-c9a8-486f-b21c-8f8f5756fceb"
+    },
+    {
+      "product": "Barbecue Chicken Wrap",
+      "manufacturer": "Arby's",
+      "category": "Running On Empty",
+      "videoTitle": "Arby's NEW BBQ Chicken Wrap Review!",
+      "videoCode": "rwAxqOKpI-w",
+      "dateReleased": "2024-05-06",
+      "rating": 8.0,
+      "id": "f901f33b-4738-4920-b480-f3b1d4030cda"
+    },
+    {
+      "product": "Golden Barbecue Chicken Sandwich",
+      "manufacturer": "Popeyes",
+      "category": "Running On Empty",
+      "videoTitle": "Popeyes NEW Golden BBQ Chicken Sandwich Review!",
+      "videoCode": "o7SQVSCx51o",
+      "dateReleased": "2024-05-10",
+      "rating": 7.0,
+      "id": "d9d33961-e450-4d89-a95b-7aaa05d34652"
+    },
+    {
+      "product": "Barbecue Bacon Chicken Sandwich",
+      "manufacturer": "Denny's",
+      "category": "Running On Empty",
+      "videoTitle": "A Total Nightmare",
+      "videoCode": "xHXDdnBJAfA",
+      "dateReleased": "2024-05-16",
+      "rating": 3.0,
+      "id": "c6e41e83-7623-476f-8ad4-e3c71bbc3e84"
+    },
+    {
+      "product": "Philly Melt",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "Burger King's NEW Philly Melt Review!",
+      "videoCode": "lXDGe36f9KM",
+      "dateReleased": "2024-05-21",
+      "rating": 4.0,
+      "id": "d9872088-4f22-4534-8ce4-ef76d9e11563"
+    },
+    {
+      "product": "McDonald's Grandma McFlurry",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "McDonald's NEW Grandma McFlurry Review!",
+      "videoCode": "XnggMCywaQk",
+      "dateReleased": "2024-05-22",
+      "rating": 9.0,
+      "id": "9777bdb4-cb49-4732-aed1-5783cca47b9b"
+    },
+    {
+      "product": "Cheeseburger Melt (Pizza Hut)",
+      "manufacturer": "Pizza Hut",
+      "category": "Running On Empty",
+      "videoTitle": "The Worst Pizza Hut Item I've Ever Had",
+      "videoCode": "_JXbHSUdMc0",
+      "dateReleased": "2024-05-27",
+      "rating": 2.0,
+      "id": "99eaa652-de45-44be-a388-ffbb207d5371"
+    },
+    {
+      "product": "MrBeast Box",
+      "manufacturer": "Zaxby's",
+      "category": "Running On Empty",
+      "videoTitle": "Zaxby's NEW MrBeast Box Review!",
+      "videoCode": "C4KRKURax_U",
+      "dateReleased": "2024-05-31",
+      "rating": 7.8,
+      "id": "640c693d-d1c8-41b5-82b6-ff8bc19b5f37"
+    },
+    {
+      "product": "Big Cheez-It Crunchwrap Supreme",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell's NEW Big Cheez-It Crunchwrap Supreme Review!",
+      "videoCode": "00R_u5zeV84",
+      "dateReleased": "2024-06-05",
+      "rating": 6.7,
+      "id": "4b35c0b5-52c4-4ce4-b6b2-ef0f9d3cef53"
+    },
+    {
+      "product": "Wendy's Saucy Nuggets (Honey Barbecue & Spicy Ghost Pepper)",
+      "manufacturer": "Wendy's",
+      "category": "Running On Empty",
+      "videoTitle": "Wendy's NEW Saucy Nuggets Review!",
+      "videoCode": "5aHcYZ3lBb8",
+      "dateReleased": "2024-06-10",
+      "rating": null,
+      "id": "8bea9fdc-4d48-43f3-8059-7a1dbe957dc6"
+    },
+    {
+      "product": "Maple Pepper Bacon Chicken Sandwich",
+      "manufacturer": "Chick-fil-A",
+      "category": "Running On Empty",
+      "videoTitle": "Chick-fil-A's Maple Pepper Bacon Chicken Sandwich Review!",
+      "videoCode": "weXWh37E1Eg",
+      "dateReleased": "2024-06-14",
+      "rating": 9.0,
+      "id": "0d27e1e6-1129-4194-953f-bce62aefbf28"
+    },
+    {
+      "product": "Chicago Tavern style pizza",
+      "manufacturer": "Pizza Hut",
+      "category": "Running On Empty",
+      "videoTitle": "Pizza Hut's NEW Chicago Tavern-Style Pizza Review!",
+      "videoCode": "GLplwJ19qhU",
+      "dateReleased": "2024-06-19",
+      "rating": 8.0,
+      "id": "3936fbf2-7c2f-4fc8-abf6-91a05f372903"
+    },
+    {
+      "product": "Big Cheesy Bacon Burger",
+      "manufacturer": "Arby's",
+      "category": "Running On Empty",
+      "videoTitle": "Arby's NEW Big Cheesy Bacon Burger Review!",
+      "videoCode": "ARlNIDVHGVM",
+      "dateReleased": "2024-06-24",
+      "rating": 8.5,
+      "id": "b94865e1-a0b4-4b60-95a6-858f62a6d6e7"
+    },
+    {
+      "product": "McDonald's $5 Meal",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "McDonald's NEW $5 Meal Review!",
+      "videoCode": "Z2-tjf7aY5E",
+      "dateReleased": "2024-06-28",
+      "rating": 8.8,
+      "id": "340e9a81-355b-4c6e-886c-c649a43e04fb"
+    },
+    {
+      "product": "Smoky BLT Quarter Pounder",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "McDonald's NEW Smoky BLT Quarter Pounder Review!",
+      "videoCode": "kEdpLBv_XYM",
+      "dateReleased": "2024-07-12",
+      "rating": 5.5,
+      "id": "598dcd9d-ead0-4398-a291-ac2637a49ed3"
+    },
+    {
+      "product": "$7 Lux Cravings box",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Did Taco Bell Just Release The BEST Fast Food Meal Deal?",
+      "videoCode": "Ik5lzhUelNs",
+      "dateReleased": "2024-07-17",
+      "rating": 8.6,
+      "id": "7b244076-a51d-4341-9fe6-ee5870c58bda"
+    },
+    {
+      "product": "Cheesy Street Chalupas",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell's NEW Cheesy Street Chalupas Review!",
+      "videoCode": "iVs64RXKF-E",
+      "dateReleased": "2024-07-23",
+      "rating": 4.0,
+      "id": "46c68ae6-3a62-4d0c-9efb-c61affe384d0"
+    },
+    {
+      "product": "Burger King's Fiery Menu",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "Trying Burger King's ENTIRE Fiery Menu! How Spicy is it?",
+      "videoCode": "SRoouSISnfU",
+      "dateReleased": "2024-07-29",
+      "rating": null,
+      "id": "f2ce8bc9-df4e-47c6-9a7f-ae95e9292b2d"
+    },
+    {
+      "product": "Sonic Smasher",
+      "manufacturer": "Sonic",
+      "category": "Running On Empty",
+      "videoTitle": "The BEST Fast Food Cheeseburger I've Ever Had?",
+      "videoCode": "75E4M-uJuBI",
+      "dateReleased": "2024-08-03",
+      "rating": 8.0,
+      "id": "695c0b9e-9b68-490d-ba03-35b8aac466a9"
+    },
+    {
+      "product": "JJ's Way Meal (JJ Watt meal)",
+      "manufacturer": "Culver's",
+      "category": "Running On Empty",
+      "videoTitle": "Culver's NEW JJ's Way Meal Review!",
+      "videoCode": "3lpp1IColGk",
+      "dateReleased": "2024-08-09",
+      "rating": 8.5,
+      "id": "09f09cab-b910-415f-8dad-c1a733fa4647"
+    },
+    {
+      "product": "KFC Saucy Nuggets",
+      "manufacturer": "KFC",
+      "category": "Running On Empty",
+      "videoTitle": "KFC's NEW Saucy Nuggets Review!",
+      "videoCode": "XE90LyCTkO4",
+      "dateReleased": "2024-08-13",
+      "rating": 4.9,
+      "id": "b6ed3b0f-6452-49c6-ad14-6eed8306b1f4"
+    },
+    {
+      "product": "Honey Pepper Pimento Chicken Sandwich (Spicy)",
+      "manufacturer": "Chick-fil-A",
+      "category": "Running On Empty",
+      "videoTitle": "Chick-fil-A's NEW Spicy Honey Pepper Pimento Chicken Sandwich Review!",
+      "videoCode": "0UgFWbWLFWM",
+      "dateReleased": "2024-08-30",
+      "rating": 9.4,
+      "id": "2e1d9b49-50a6-4146-affd-c14001cc3df5"
+    },
+    {
+      "product": "Mountain Dew Baja Blast gelato",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell's Mtn Dew Baja Blast Gelato Review",
+      "videoCode": "D4EGjw_4R-g",
+      "dateReleased": "2024-09-05",
+      "rating": 6.7,
+      "id": "50c766e8-1cda-4d5d-a667-55d4dc1e4196"
+    },
+    {
+      "product": "Sweet Barbecue Blaze Chicken Sandwich",
+      "manufacturer": "Wingstop",
+      "category": "Running On Empty",
+      "videoTitle": "Wingstop's NEW Sweet BBQ Blaze Chicken Sandwich Review!",
+      "videoCode": "wdo6OMzK-n0",
+      "dateReleased": "2024-09-12",
+      "rating": 8.25,
+      "id": "eec4d8d2-c181-4f25-a6bf-b73782f4d375"
+    },
+    {
+      "product": "Patty Melt",
+      "manufacturer": "Five Guys",
+      "category": "Running On Empty",
+      "videoTitle": "Am I Missing Something Here?",
+      "videoCode": "bkGoDSoGqeE",
+      "dateReleased": "2024-09-18",
+      "rating": 7.0,
+      "id": "91f44849-1bf0-43e8-b368-5cda19d8069c"
+    },
+    {
+      "product": "Giant Cheez-It Crunch Wrap",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "A Review Gone Wrong",
+      "videoCode": "RMrZv6vMqPI",
+      "dateReleased": "2024-09-23",
+      "rating": 8.0,
+      "id": "b0846be8-8335-4b04-bf2b-a0dd27fed8bd"
+    },
+    {
+      "product": "Disa Hot Sauce",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell's NEW Disha Hot Sauce Review!",
+      "videoCode": "-U-1LvDhwBg",
+      "dateReleased": "2024-09-30",
+      "rating": 8.5,
+      "id": "f9ecb043-7219-4ead-893a-3152e9e3f412"
+    },
+    {
+      "product": "Witches Brew Slush Float",
+      "manufacturer": "Sonic",
+      "category": "Drink Review",
+      "videoTitle": "Sonic's NEW Witch's Brew Slush Float Review!",
+      "videoCode": "XEvg_kBYcl8",
+      "dateReleased": "2024-10-05",
+      "rating": 9.2,
+      "id": "5d7c64f4-54fd-4c19-9c2a-7f2578203d1f"
+    },
+    {
+      "product": "Krabby Patty collab Burger",
+      "manufacturer": "Wendy's",
+      "category": "Running On Empty",
+      "videoTitle": "Wendy's NEW Krabby Patty Kollab Review!",
+      "videoCode": "4ayXqWqS7zs",
+      "dateReleased": "2024-10-08",
+      "rating": null,
+      "id": "2b1e5d33-ba26-4374-8a55-0d706d4a1085"
+    },
+    {
+      "product": "Chicken Big Mac",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "Massive Disappointment from McDonald's",
+      "videoCode": "bgUYGjQ14Ks",
+      "dateReleased": "2024-10-15",
+      "rating": 4.2,
+      "id": "49f45217-0436-49b2-851f-5249d1817569"
+    },
+    {
+      "product": "Burger King Addams Family Menu (Creepy and Cooky Meal)",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "Burger King's NEW Addams Family Menu Review!",
+      "videoCode": "evrINc_GNVc",
+      "dateReleased": "2024-10-20",
+      "rating": null,
+      "id": "95d3e6d6-97b2-40a4-b634-a6f7bbfd4d52"
+    },
+    {
+      "product": "KFC's Original Recipe Chicken Tenders",
+      "manufacturer": "KFC",
+      "category": "Running On Empty",
+      "videoTitle": "KFC's NEW  Original Recipe Chicken Tenders Review!",
+      "videoCode": "t945R5UH1-Y",
+      "dateReleased": "2024-10-28",
+      "rating": 7.0,
+      "id": "58c8a27d-9bec-4cfe-acdf-f59d20f35e75"
+    },
+    {
+      "product": "Taco Bell Decades Menu",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell's NEW Decades Menu Review!",
+      "videoCode": "q79Hz1hV1nE",
+      "dateReleased": "2024-11-02",
+      "rating": null,
+      "id": "e1de4241-7573-478f-aba6-616678c0c235"
+    },
+    {
+      "product": "Shaq-a-Roni Pizza",
+      "manufacturer": "Papa John's",
+      "category": "Running On Empty",
+      "videoTitle": "Papa John's Shaq-a-Roni Pizza Review!",
+      "videoCode": "siZh9fnoUYU",
+      "dateReleased": "2024-11-09",
+      "rating": 9.2,
+      "id": "e8fc0785-32cc-4709-9cde-145ae760abee"
+    },
+    {
+      "product": "Midnight Cherry Freeze",
+      "manufacturer": "Taco Bell",
+      "category": "Drink Review",
+      "videoTitle": "Taco Bell's NEW Midnight Cherry Freeze Review!",
+      "videoCode": "GArBOVsgYV8",
+      "dateReleased": "2024-11-16",
+      "rating": 4.6,
+      "id": "c4d2b96b-f057-4395-bad6-2d81e76a6354"
+    },
+    {
+      "product": "Really Big Meal Deal (Big Clucking Chicken Sandwich with fries and drink)",
+      "manufacturer": "Applebee's",
+      "category": "Running On Empty",
+      "videoTitle": "The BEST Value Meal You Can Get Right Now",
+      "videoCode": "uJ3EmZfe6_0",
+      "dateReleased": "2024-11-20",
+      "rating": 9.4,
+      "id": "88a1c9ba-b7c8-4d6e-8eab-536461f72947"
+    },
+    {
+      "product": "Maple Bourbon Barbecue Whopper",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "Burger King's NEW Maple Bourbon BBQ Whopper Review!",
+      "videoCode": "V4PO9nsW3aU",
+      "dateReleased": "2024-11-26",
+      "rating": 7.4,
+      "id": "cabf5bed-25a0-48a5-a198-72ff2b58dfe9"
+    },
+    {
+      "product": "Caramel Apple Empanada",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell's NEW Caramel Apple Empanada Review!",
+      "videoCode": "w_fCkwqW0DM",
+      "dateReleased": "2024-12-09",
+      "rating": 5.5,
+      "id": "ca978d79-a95a-4484-bede-5515714bc383"
+    },
+    {
+      "product": "Ghost Pepper Chicken Sandwich",
+      "manufacturer": "Popeyes",
+      "category": "Running On Empty",
+      "videoTitle": "Popeyes Ghost Pepper Chicken Sandwich Review",
+      "videoCode": "FjZw2Gq6K9o",
+      "dateReleased": "2024-12-16",
+      "rating": 5.8,
+      "id": "43762b01-8adf-49fc-adc8-38f1737c2236"
+    },
+    {
+      "product": "Taco Bell Crispy Chicken Nuggets",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell's NEW Chicken Nuggets Review!",
+      "videoCode": "a-KfoJJ-jdM",
+      "dateReleased": "2024-12-19",
+      "rating": 2.0,
+      "id": "fdc7b54b-6b79-49f5-b3d6-7bbb37b4d98a"
+    },
+    {
+      "product": "Mushroom Bacon Cheeseburger",
+      "manufacturer": "Wendy's",
+      "category": "Running On Empty",
+      "videoTitle": "Wendy's NEW Mushroom Bacon Cheeseburger Review!",
+      "videoCode": "lmhkMuI25Lc",
+      "dateReleased": "2024-12-24",
+      "rating": 1.5,
+      "id": "230bc268-9694-4367-ac49-1521922b7807"
+    },
+    {
+      "product": "Lux Cravings Box",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "The BEST Fast Food Meal Deal of 2025",
+      "videoCode": "8w2YrsJwZd4",
+      "dateReleased": "2025-01-05",
+      "rating": 8.9,
+      "id": "5f16df23-f42d-4e74-827f-226316205563"
+    },
+    {
+      "product": "Nashville Hot Chicken Tenders",
+      "manufacturer": "KFC",
+      "category": "Running On Empty",
+      "videoTitle": "KFC's New Nashville Hot Chicken Tenders Review!",
+      "videoCode": "HILRzp-009c",
+      "dateReleased": "2025-01-11",
+      "rating": 7.6,
+      "id": "faede52f-6d49-41e3-9d31-c06d1e72cb28"
+    },
+    {
+      "product": "Chick-fil-A's new fries",
+      "manufacturer": "Chick-fil-A",
+      "category": "Running On Empty",
+      "videoTitle": "I HATE Chick-fil-A's New Fries",
+      "videoCode": "CUPYF0uwy7Y",
+      "dateReleased": "2025-01-16",
+      "rating": 1.0,
+      "id": "35f4fa35-c3c8-40df-a3ad-2659a052a5a8"
+    },
+    {
+      "product": "Cheesy Dipping Burritos",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell's NEW Cheesy Dipping Burritos Review!",
+      "videoCode": "nsesgsBDJ0Q",
+      "dateReleased": "2025-01-24",
+      "rating": 8.4,
+      "id": "3c3e0dab-97c0-4266-a3ac-2e8771b8e9c1"
+    },
+    {
+      "product": "Loaded Chicken (Hot Buffalo)",
+      "manufacturer": "Domino's",
+      "category": "Running On Empty",
+      "videoTitle": "Dog Food Might Be Better Than This",
+      "videoCode": "8z8qPUwiq_4",
+      "dateReleased": "2025-01-30",
+      "rating": 1.0,
+      "id": "4270c592-2a9e-4179-bb8c-1edb153888b7"
+    },
+    {
+      "product": "Angel Reese Special",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "McDonald's NEW Angel Reese Special Review!",
+      "videoCode": "lrWrUk8wCNw",
+      "dateReleased": "2025-02-05",
+      "rating": 7.0,
+      "id": "db5bc7e7-0361-47c0-8839-cf6fb2fac0e7"
+    },
+    {
+      "product": "Bacon and Cheese Crazy Puffs",
+      "manufacturer": "Little Caesars",
+      "category": "Running On Empty",
+      "videoTitle": "Little Caesars NEW Bacon & Cheese Crazy Puffs Review!",
+      "videoCode": "HAXQTX8YWtk",
+      "dateReleased": "2025-02-11",
+      "rating": null,
+      "id": "d792cd44-2491-4ea5-8b33-0fb7b2b10ea8"
+    },
+    {
+      "product": "Mike's Hot Honey Chicken",
+      "manufacturer": "KFC",
+      "category": "Running On Empty",
+      "videoTitle": "KFC's NEW Mike's Hot Honey Chicken Review!",
+      "videoCode": "ms5k-1ZRzEw",
+      "dateReleased": "2025-02-18",
+      "rating": 4.0,
+      "id": "68eaa30b-703b-4aee-a1cd-8537cb52176f"
+    },
+    {
+      "product": "Birthday Cake Churros",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell's NEW Birthday Cake Churros Review!",
+      "videoCode": "cJwG9lfJqss",
+      "dateReleased": "2025-02-25",
+      "rating": 9.1,
+      "id": "bf08f85d-60fb-45c1-a3bf-319b26568ea4"
+    },
+    {
+      "product": "Parmesan Stuffed Crust Pizza",
+      "manufacturer": "Domino's",
+      "category": "Running On Empty",
+      "videoTitle": "A Domino's Release That's Actually Edible?",
+      "videoCode": "fUNeAqnACHU",
+      "dateReleased": "2025-03-05",
+      "rating": 8.6,
+      "id": "ae3628f4-6572-4c00-a1a9-c9b6b7f501c6"
+    },
+    {
+      "product": "Steak & Queso Crunchwrap Sliders",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell's NEW Steak & Queso Crunchwrap Sliders Review!",
+      "videoCode": "QNMzlfe-xn0",
+      "dateReleased": "2025-03-10",
+      "rating": 5.0,
+      "id": "fd6191bd-ff14-45a4-93e1-5c2ccf886976"
+    },
+    {
+      "product": "Steakhouse Bacon Whopper",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "Burger King's NEW Steakhouse Bacon Whooper Review!",
+      "videoCode": "l7jgsnfQyig",
+      "dateReleased": "2025-03-17",
+      "rating": 7.2,
+      "id": "2e16ee99-2671-4696-9f1b-17f3a4fb61f6"
+    },
+    {
+      "product": "Smokehouse Barbecue Bacon Sandwich",
+      "manufacturer": "Chick-fil-A",
+      "category": "Running On Empty",
+      "videoTitle": "Did Chick-fil-A Release Its BEST Chicken Sandwich Yet?",
+      "videoCode": "-Z8nUFV5ghk",
+      "dateReleased": "2025-03-25",
+      "rating": 9.4,
+      "id": "bc453825-db30-4905-b09f-1517c82cb2bf"
+    },
+    {
+      "product": "Pizza Hut Cheesy Bites Pizza",
+      "manufacturer": "Pizza Hut",
+      "category": "Running On Empty",
+      "videoTitle": "Pizza Hut's Cheesy Bites Pizza is BACK!",
+      "videoCode": "QbnTyMfSkuc",
+      "dateReleased": "2025-04-01",
+      "rating": 7.0,
+      "id": "3aa883ea-eee2-4322-bfc2-c22630e390bd"
+    },
+    {
+      "product": "McDonald's Minecraft movie meal",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "McDonald's NEW Minecraft Movie Meal Review!",
+      "videoCode": "oYkR74FvQFI",
+      "dateReleased": "2025-04-05",
+      "rating": 7.0,
+      "id": "533122b0-1056-47b2-a5ac-cbe2217919f1"
+    },
+    {
+      "product": "Popeyes Pickle Glaze Chicken Sandwich",
+      "manufacturer": "Popeyes",
+      "category": "Running On Empty",
+      "videoTitle": "Popeyes NEW Pickle Glaze Chicken Sandwich Review!",
+      "videoCode": "0Kf3r1Fsb1I",
+      "dateReleased": "2025-04-14",
+      "rating": null,
+      "id": "f1a5d1c9-2ff8-4511-959c-f9059d66cc1c"
+    },
+    {
+      "product": "Wendy's NEW Cajun Crunch Spicy Chicken Sandwich",
+      "manufacturer": "Wendy's",
+      "category": "Running On Empty",
+      "videoTitle": "Wendy's NEW Cajun Crunch Spicy Chicken Sandwich",
+      "videoCode": "dG7duCPX6Js",
+      "dateReleased": "2025-04-22",
+      "rating": 2.0,
+      "id": "4dc1a4d4-5d8d-47f4-9a25-2ced41ef0e55"
+    },
+    {
+      "product": "Taco Bell Crispy Chicken Nuggets",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell's Chicken Nuggets Have Returned!",
+      "videoCode": "qm21P3lkdiw",
+      "dateReleased": "2025-04-28",
+      "rating": 7.0,
+      "id": "5cc4bb25-7c40-4075-a9f0-82a697caf976"
+    },
+    {
+      "product": "McCrispy Strips",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "McDonald's NEW McCrispy Strips Review!",
+      "videoCode": "95MPtROAH3Q",
+      "dateReleased": "2025-05-04",
+      "rating": 8.5,
+      "id": "d7f9bc95-883a-41e6-9142-e6207bee2bdd"
+    },
+    {
+      "product": "Big QP burger",
+      "manufacturer": "Chili's",
+      "category": "Running On Empty",
+      "videoTitle": "A Burger That Puts McDonald's to SHAME",
+      "videoCode": "GvBNdmTHQSQ",
+      "dateReleased": "2025-05-11",
+      "rating": null,
+      "id": "a7158505-f0f1-4112-a480-cbfcd5124156"
+    },
+    {
+      "product": "KFC Chicken and Waffles",
+      "manufacturer": "KFC",
+      "category": "Running On Empty",
+      "videoTitle": "KFC's Chicken and Waffles Are Back!",
+      "videoCode": "KGQJRuxgp6Q",
+      "dateReleased": "2025-05-19",
+      "rating": 2.5,
+      "id": "4c4ecd37-7d97-4af1-a065-f62ad3a89c57"
+    },
+    {
+      "product": "Mike's Hot Honey Diablo sauce",
+      "manufacturer": "Mike's Hot Honey",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell's Mike's Hot Honey Diablo Sauce Review",
+      "videoCode": "U_U0sWgtlIQ",
+      "dateReleased": "2025-05-25",
+      "rating": 1.0,
+      "id": "5363f116-dcba-407c-b964-1a8a33197975"
+    },
+    {
+      "product": "How to Train Your Dragon menu",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "Burger King's NEW How to Train Your Dragon Menu Review!",
+      "videoCode": "X2pxi8bUzgk",
+      "dateReleased": "2025-05-29",
+      "rating": null,
+      "id": "033da96f-cecb-48b5-8cf3-c64693dff477"
+    },
+    {
+      "product": "Popeyes Classic Chicken Wrap",
+      "manufacturer": "Popeyes",
+      "category": "Running On Empty",
+      "videoTitle": "Popeyes NEW Chicken Wraps Review!",
+      "videoCode": "cQ0-LRrm9os",
+      "dateReleased": "2025-06-05",
+      "rating": 2.5,
+      "id": "fd3e5363-4c83-45c0-bea3-34c9f45c9c5d"
+    },
+    {
+      "product": "Papa John's Cheddar Crust Pizza",
+      "manufacturer": "Papa John's",
+      "category": "Running On Empty",
+      "videoTitle": "Papa John's NEW Cheddar Crust Pizza Review!",
+      "videoCode": "8b424AVphgg",
+      "dateReleased": "2025-06-10",
+      "rating": 8.4,
+      "id": "d08374d9-e799-4343-b4f2-4c60c3c84072"
+    },
+    {
+      "product": "Hershey's S'mores McFlurry",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "McDonald's NEW Hershey’s S’mores McFlurry Review!",
+      "videoCode": "t_P1uKfWRgI",
+      "dateReleased": "2025-06-16",
+      "rating": null,
+      "id": "793b89f3-402a-454a-b78c-d6a6b6a8af8d"
+    },
+    {
+      "product": "Wendy's Takis Fuego Meal",
+      "manufacturer": "Wendy's",
+      "category": "Running On Empty",
+      "videoTitle": "Wendy's NEW Takis Fuego Meal Review!",
+      "videoCode": "-k4Y82W9res",
+      "dateReleased": "2025-06-23",
+      "rating": 8.9,
+      "id": "bcb5d228-8802-467a-a30d-23348a62e571"
+    },
+    {
+      "product": "Fantastic 4in-one pizza",
+      "manufacturer": "Little Caesars",
+      "category": "Running On Empty",
+      "videoTitle": "The BEST Little Caesars Release in Years!",
+      "videoCode": "0PfYkgucg04",
+      "dateReleased": "2025-06-30",
+      "rating": 8.0,
+      "id": "71e14567-2d6a-4ad6-ad2b-2e3d47d1039a"
+    },
+    {
+      "product": "Avocado Ranch Crispy Chicken Taco",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "The WORST Taco Bell Item I've Ever Had",
+      "videoCode": "aWsXuiTRcd8",
+      "dateReleased": "2025-07-08",
+      "rating": 0.5,
+      "id": "8e9caf03-440b-4172-ab69-a2b7f8cd0879"
+    },
+    {
+      "product": "McDonald's Snack Wraps",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "McDonald's Snack Wraps Have Returned!",
+      "videoCode": "IPm-HeBe6V8",
+      "dateReleased": "2025-07-13",
+      "rating": null,
+      "id": "1bf12642-8ad9-47b8-b5ca-bdc8e1868f05"
+    },
+    {
+      "product": "Barbecue Brisket Whopper",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "The One Item I'm Actually Scared To Eat...",
+      "videoCode": "2baCDsF-CqY",
+      "dateReleased": "2025-07-18",
+      "rating": 6.7,
+      "id": "19c8d146-832a-4aad-8866-b3147c528b54"
+    },
+    {
+      "product": "Popeyes Chicken Dippers",
+      "manufacturer": "Popeyes",
+      "category": "Running On Empty",
+      "videoTitle": "Popeyes NEW Chicken Dippers Review!",
+      "videoCode": "bmDvpbiO_J8",
+      "dateReleased": "2025-07-23",
+      "rating": null,
+      "id": "911f116a-a20c-4181-9de8-90baadfcb4ac"
+    },
+    {
+      "product": "Sweet Chipotle Barbecue Crispy Chicken Taco",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Everything Keeps Getting Worse",
+      "videoCode": "4sVCxkGDIgc",
+      "dateReleased": "2025-07-28",
+      "rating": 1.2,
+      "id": "9bc5e418-c898-48c8-9d3b-c8ba767eb327"
+    },
+    {
+      "product": "Hot Lemon Wings",
+      "manufacturer": "Wingstop",
+      "category": "Running On Empty",
+      "videoTitle": "Wingstop's NEW Hot Lemon Wings Review!",
+      "videoCode": "B8cGvr5uBKo",
+      "dateReleased": "2025-08-04",
+      "rating": 8.5,
+      "id": "dbb67849-3630-4aaf-a259-d648559e10aa"
+    },
+    {
+      "product": "Wednesday Meal of Misfortune",
+      "manufacturer": "Wendy's",
+      "category": "Running On Empty",
+      "videoTitle": "Wendy's NEW Wednesday Meal of Misfortune Review!",
+      "videoCode": "uHF2VEmltW0",
+      "dateReleased": "2025-08-08",
+      "rating": 6.5,
+      "id": "11690399-d4ef-4ed1-975e-49034a02e730"
+    },
+    {
+      "product": "Garlic Five-Cheese Crust Pizza",
+      "manufacturer": "Papa John's",
+      "category": "Running On Empty",
+      "videoTitle": "Papa John's NEW Garlic 5-Cheese Crust Pizza Review!",
+      "videoCode": "kAZCLM1zs0g",
+      "dateReleased": "2025-08-13",
+      "rating": 9.0,
+      "id": "6ffb0ad6-7d8d-436a-a174-d054edb9757c"
+    },
+    {
+      "product": "McDonald Land meal",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "McDonald's NEW McDonaldland Meal Review!",
+      "videoCode": "0EJR10row68",
+      "dateReleased": "2025-08-19",
+      "rating": 6.5,
+      "id": "89ea1b70-b46e-445a-a0f2-d553d9253e1e"
+    },
+    {
+      "product": "Crafted Flats (Crafted Flat)",
+      "manufacturer": "Pizza Hut",
+      "category": "Running On Empty",
+      "videoTitle": "One of the Worst Things I’ve Eaten in Years",
+      "videoCode": "219WYwhYe_o",
+      "dateReleased": "2025-08-28",
+      "rating": null,
+      "id": "256457ba-e900-4ead-b502-a7182dc021a9"
+    },
+    {
+      "product": "Pretzel Cheddar Club sandwich",
+      "manufacturer": "Chick-fil-A",
+      "category": "Running On Empty",
+      "videoTitle": "Fast Food Just Peaked",
+      "videoCode": "F6arsDf2vZk",
+      "dateReleased": "2025-09-03",
+      "rating": 9.9,
+      "id": "ad3cc852-8fe4-4f8a-8f34-fb1f7bc7a520"
+    },
+    {
+      "product": "Special Edition Gold Sauce",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "McDonald's NEW Special Edition Gold Sauce Review!",
+      "videoCode": "fd4Pfdte48k",
+      "dateReleased": "2025-09-12",
+      "rating": 6.0,
+      "id": "12102b4e-11b8-43df-872a-cf6ff16e0aa3"
+    },
+    {
+      "product": "Cheese Steak Crazy Puffs",
+      "manufacturer": "Little Caesars",
+      "category": "Running On Empty",
+      "videoTitle": "Little Caesars NEW Cheesesteak Crazy Puffs Review!",
+      "videoCode": "zoDXgAkImDw",
+      "dateReleased": "2025-09-16",
+      "rating": 8.8,
+      "id": "cfa58575-c623-4d76-b48f-25f6cecdeb72"
+    },
+    {
+      "product": "Papa Dippa Pizza",
+      "manufacturer": "Papa John's",
+      "category": "Running On Empty",
+      "videoTitle": "Papa John's NEW Papa Dippa Pizza Review!",
+      "videoCode": "G-9esJjl3Wo",
+      "dateReleased": "2025-09-22",
+      "rating": 7.9,
+      "id": "2b4e8a6a-a217-4d3f-a901-b2a6cc756945"
+    },
+    {
+      "product": "Hot Ones menu (Popeyes)",
+      "manufacturer": "Popeyes",
+      "category": "Running On Empty",
+      "videoTitle": "Popeyes NEW Hot Ones Menu Review!",
+      "videoCode": "5uJ0ygi-4Pk",
+      "dateReleased": "2025-09-29",
+      "rating": 6.0,
+      "id": "2c7b90b2-9e29-429a-a100-942ddaf83c06"
+    },
+    {
+      "product": "Wendy's Chicken Tenders",
+      "manufacturer": "Wendy's",
+      "category": "Running On Empty",
+      "videoTitle": "Wendy's NEW Chicken Tendys Review!",
+      "videoCode": "JB2r5xylp6s",
+      "dateReleased": "2025-10-07",
+      "rating": 8.5,
+      "id": "5b0abe60-0cf9-4e23-aba8-381608a717b3"
+    },
+    {
+      "product": "KFC Honey Barbecue Sauce",
+      "manufacturer": "KFC",
+      "category": "Running On Empty",
+      "videoTitle": "KFC's Honey BBQ Sauce Has Returned",
+      "videoCode": "66R654eVkAg",
+      "dateReleased": "2025-10-11",
+      "rating": 3.0,
+      "id": "3eaf3e94-181a-44f2-8d8c-5cb3c710e7de"
+    },
+    {
+      "product": "Flamin' Hot Grilled Cheese Burrito",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "This Might Be Taco Bell’s BEST Item Yet!",
+      "videoCode": "7XsUVfjkVSc",
+      "dateReleased": "2025-10-19",
+      "rating": 9.2,
+      "id": "2a9e77e8-0c84-436d-a5b2-387898c6a54e"
+    },
+    {
+      "product": "Jacko'Lantern Whopper",
+      "manufacturer": "Burger King",
+      "category": "Running On Empty",
+      "videoTitle": "The Burger King Halloween Whopper Mishap of 2025",
+      "videoCode": "Itli3uhTBRs",
+      "dateReleased": "2025-10-27",
+      "rating": 2.1,
+      "id": "1687adeb-104c-4594-853c-d0c7d1b72fec"
+    },
+    {
+      "product": "Steak Nuggets",
+      "manufacturer": "Arby's",
+      "category": "Running On Empty",
+      "videoTitle": "Arby's NEW Steak Nuggets Review!",
+      "videoCode": "ciRQ4x7GRps",
+      "dateReleased": "2025-11-03",
+      "rating": 4.8,
+      "id": "5290a6a9-267a-43e2-9f85-b3701075a850"
+    },
+    {
+      "product": "Mountain Dew Baja Blast Pie",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell's NEW Baja Blast Pie Review!",
+      "videoCode": "smdJy9Go9i8",
+      "dateReleased": "2025-11-08",
+      "rating": 8.8,
+      "id": "00ca9e9d-a22e-43b9-a7cf-729bf6ae4398"
+    },
+    {
+      "product": "McRib",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "McDonald's Did The Unthinkable...",
+      "videoCode": "WNtrj0bjxhU",
+      "dateReleased": "2025-11-18",
+      "rating": 9.2,
+      "id": "5ca22636-5149-4ac2-bdd8-6a62e733bfb1"
+    },
+    {
+      "product": "Spicy Chicken Ranch Bacon Pizza",
+      "manufacturer": "Domino's",
+      "category": "Running On Empty",
+      "videoTitle": "Cat Food Might Be Better Than This",
+      "videoCode": "F2zGpZla-cg",
+      "dateReleased": "2025-11-26",
+      "rating": 2.0,
+      "id": "e004dcdb-b495-4fbf-a11e-7c34b6f185c0"
+    },
+    {
+      "product": "McDonald's Grinch meal",
+      "manufacturer": "McDonald's",
+      "category": "Running On Empty",
+      "videoTitle": "McDonald's NEW Grinch Meal Review!",
+      "videoCode": "W2C7gsETmuE",
+      "dateReleased": "2025-12-03",
+      "rating": 8.0,
+      "id": "8406699e-73ef-4376-a85a-20d0dce009e1"
+    },
+    {
+      "product": "Steak & Poblano Rolled Quesadilla",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Taco Bell's NEW Steak & Poblano Rolled Quesadilla Review!",
+      "videoCode": "0AeKwiGCaU4",
+      "dateReleased": "2025-12-10",
+      "rating": 8.6,
+      "id": "d9374c21-08e1-4b9a-bc1b-092d238dea62"
+    },
+    {
+      "product": "Volcano Queserito",
+      "manufacturer": "Taco Bell",
+      "category": "Running On Empty",
+      "videoTitle": "Not What I Expected From Taco Bell...",
+      "videoCode": "49oIcl65h5A",
+      "dateReleased": "2026-01-16",
+      "rating": 7.0,
+      "id": "c79281fd-1b03-4ca7-8563-29cfcdc59197"
+    },
+    {
+      "product": "All-American Smasher Meal",
+      "manufacturer": "Sonic",
+      "category": "Running On Empty",
+      "videoTitle": "The BEST Fast Food Meal I've Had In Years!",
+      "videoCode": "5JGfGqH5Oyg",
+      "dateReleased": "2026-01-23",
+      "rating": 9.1,
+      "id": "fcb96f7b-505e-47c6-b3fa-b031ea962caf"
     }
   ]
 }
