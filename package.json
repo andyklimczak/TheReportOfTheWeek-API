@@ -18,7 +18,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@fastify/autoload": "^6.4.0",
+    "@fastify/autoload": "^6.5.0",
     "@fastify/sensible": "^6.0.4",
     "@fastify/static": "^10.1.2",
     "@fastify/swagger": "^9.8.1",
