@@ -20,7 +20,7 @@
   "dependencies": {
     "@fastify/autoload": "^6.5.0",
     "@fastify/sensible": "^6.0.6",
-    "@fastify/static": "^10.1.4",
+    "@fastify/static": "^10.1.5",
     "@fastify/swagger": "^9.9.0",
     "@fastify/swagger-ui": "^6.1.1",
     "fastify": "^5.12.5",
