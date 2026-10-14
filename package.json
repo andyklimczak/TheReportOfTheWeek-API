@@ -22,7 +22,7 @@
     "@fastify/sensible": "^6.0.6",
     "@fastify/static": "^10.1.5",
     "@fastify/swagger": "^9.9.1",
-    "@fastify/swagger-ui": "^6.1.1",
+    "@fastify/swagger-ui": "^6.1.2",
     "fastify": "^5.12.5",
     "fastify-cli": "^8.0.3",
     "fastify-plugin": "^6.0.0",
