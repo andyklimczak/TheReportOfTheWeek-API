@@ -1,5 +1,6 @@
 import path from 'node:path'
 import AutoLoad from '@fastify/autoload'
+import fastifyCors from '@fastify/cors'
 import { fileURLToPath } from 'node:url'
 import fastifyStatic from '@fastify/static'
 import fastifySwagger from '@fastify/swagger'
@@ -12,7 +13,12 @@ const __dirname = path.dirname(__filename)
 export const options = {}
 
 export default async function (fastify, opts) {
-  // Place here your custom code!
+  // Register before routes so public responses, including errors, support CORS.
+  fastify.register(fastifyCors, {
+    origin: '*',
+    methods: ['GET', 'HEAD', 'OPTIONS'],
+    credentials: false
+  })
   fastify.register(fastifyStatic, {
     root: path.join(__dirname, 'public')
   })
