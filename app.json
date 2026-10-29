@@ -1,6 +1,6 @@
 {
   "name": "report-of-the-week-api",
-  "description": "Dummy app",
+  "description": "API for reviews by The Report of the Week",
   "keywords": [
     "dokku"
   ],

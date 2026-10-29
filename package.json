@@ -12,7 +12,8 @@
     "start": "fastify start -l info -a 0.0.0.0 -p 5000 app.js",
     "dev": "fastify start -w -l info -P app.js",
     "pretest": "standard",
-    "lint": "standard --fix"
+    "lint": "standard",
+    "lint:fix": "standard --fix"
   },
   "keywords": [],
   "author": "",

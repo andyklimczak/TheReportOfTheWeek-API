@@ -6,7 +6,7 @@ API to provide information on reviews by [The Report of the Week](https://www.yo
 
 Checkout the [OpenAPI Docs](https://thereportoftheweekapi.com/docs) for more info and to test the endpoints.
 
-The base URL is `https://www.thereportoftheweek.com`.
+The base URL is `https://thereportoftheweekapi.com`.
 
 ## Data
 
