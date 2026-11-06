@@ -54,7 +54,7 @@ npm run lint:fix
 ```
 
 Tests live in `test/` (`routes/` and `plugins/`) and use `fastify.inject`, so no server needs to be running.
-Requires Node 24 (see `.nvmrc`). Dependency versions are tracked in [VERSIONS.md](./VERSIONS.md).
+Requires Node 26 (see `.nvmrc`). Dependency versions are tracked in [VERSIONS.md](./VERSIONS.md).
 
 ## Project Structure
 

@@ -4,7 +4,7 @@ Resolved from `package-lock.json` and `npm outdated` on 2026-10-29.
 
 | Component | Pinned / installed | Latest on npm | Note |
 |---|---|---|---|
-| Node.js | 24 (`.nvmrc`, `engines >=24`); dev machine runs v24.22.1 | n/a | LTS status not independently verified |
+| Node.js | 26 (`.nvmrc`, `engines >=24`) | n/a | current LTS |
 | fastify | 5.12.7 | 5.12.7 | current |
 | @fastify/autoload | 6.5.1 | 6.5.1 | current |
 | @fastify/sensible | 6.0.7 | 6.0.7 | current |
