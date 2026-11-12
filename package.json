@@ -19,18 +19,19 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@fastify/autoload": "^6.3.1",
-    "@fastify/sensible": "^6.0.4",
-    "@fastify/static": "^9.0.0",
-    "@fastify/swagger": "^9.6.1",
-    "@fastify/swagger-ui": "^5.2.4",
-    "fastify": "^5.7.1",
-    "fastify-cli": "^7.4.1",
-    "fastify-plugin": "^5.1.0",
+    "@fastify/autoload": "^6.5.0",
+    "@fastify/cors": "^11.3.1",
+    "@fastify/sensible": "^6.0.6",
+    "@fastify/static": "^10.1.5",
+    "@fastify/swagger": "^9.9.1",
+    "@fastify/swagger-ui": "^6.1.1",
+    "fastify": "^5.12.5",
+    "fastify-cli": "^8.0.3",
+    "fastify-plugin": "^6.0.0",
     "lowdb": "^7.0.1"
   },
   "devDependencies": {
-    "c8": "^10.1.2",
+    "c8": "^12.0.0",
     "standard": "^17.0.0"
   },
   "engines": {

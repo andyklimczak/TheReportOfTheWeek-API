@@ -1,0 +1,18 @@
+{
+  "name": "subtitle-parse",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "download": "node download-subtitles.js",
+    "parse": "node parse-subtitles.js",
+    "add-ids": "node add-ids.js",
+    "start": "node subtitle-parse.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "openai": "^4.0.0"
+  }
+}
