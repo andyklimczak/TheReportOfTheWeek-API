@@ -114,3 +114,22 @@ test('get report route : invalid id', async (t) => {
   assert.strictEqual(res.statusCode, 404)
   assert.strictEqual(res.headers['content-type'], 'application/json; charset=utf-8')
 })
+
+test('list reports route : min_rating=0 is applied, not ignored', async (t) => {
+  const app = await build(t)
+
+  const res = await app.inject({ url: '/api/v1/reports?min_rating=0' })
+  const { reports } = JSON.parse(res.payload)
+  assert.strictEqual(res.statusCode, 200)
+  assert.ok(reports.length > 0)
+  assert.ok(reports.every(r => typeof r.rating === 'number' && r.rating >= 0))
+})
+
+test('list reports route : max_rating=0 only returns zero or lower ratings', async (t) => {
+  const app = await build(t)
+
+  const res = await app.inject({ url: '/api/v1/reports?max_rating=0' })
+  const { reports } = JSON.parse(res.payload)
+  assert.strictEqual(res.statusCode, 200)
+  assert.ok(reports.every(r => typeof r.rating === 'number' && r.rating <= 0))
+})

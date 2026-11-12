@@ -2,7 +2,7 @@
   "type": "module",
   "name": "report-of-the-week-api",
   "version": "1.0.0",
-  "description": "This project was bootstrapped with Fastify-CLI.",
+  "description": "REST API for reviews from The Report of the Week YouTube channel (Fastify).",
   "main": "app.js",
   "directories": {
     "test": "test"
@@ -12,7 +12,8 @@
     "start": "fastify start -l info -a 0.0.0.0 -p 5000 app.js",
     "dev": "fastify start -w -l info -P app.js",
     "pretest": "standard",
-    "lint": "standard --fix"
+    "lint": "standard",
+    "lint:fix": "standard --fix"
   },
   "keywords": [],
   "author": "",
@@ -32,5 +33,8 @@
   "devDependencies": {
     "c8": "^12.0.0",
     "standard": "^17.0.0"
+  },
+  "engines": {
+    "node": ">=24"
   }
 }

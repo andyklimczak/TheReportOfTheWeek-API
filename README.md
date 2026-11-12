@@ -6,7 +6,7 @@ API to provide information on reviews by [The Report of the Week](https://www.yo
 
 Checkout the [OpenAPI Docs](https://thereportoftheweekapi.com/docs) for more info and to test the endpoints.
 
-The base URL is `https://www.thereportoftheweek.com`.
+The base URL is `https://thereportoftheweekapi.com`.
 
 ## Data
 
@@ -44,3 +44,24 @@ For production mode
 ### `npm run test`
 
 Run the test cases.
+
+## Testing
+
+```sh
+npm ci
+npm test        # runs `standard` lint, then node --test
+npm run lint:fix
+```
+
+Tests live in `test/` (`routes/` and `plugins/`) and use `fastify.inject`, so no server needs to be running.
+Requires Node 26 (see `.nvmrc`). Dependency versions are tracked in [VERSIONS.md](./VERSIONS.md).
+
+## Project Structure
+
+```
+app.js            Fastify app entry (autoloads plugins/ and routes/)
+plugins/          shared plugins (sensible, support)
+routes/           HTTP routes (api/v1/reports, healthz, root)
+data/reports.json source dataset
+test/             node:test suites
+```

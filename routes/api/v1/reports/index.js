@@ -9,7 +9,7 @@ export default async function (fastify, opts) {
       properties: {
         category: {
           type: 'string',
-          enum: ['Energy Crisis', 'Running On Empty', 'Other', 'Drink Review', 'Music Review', 'Travel Review']
+          enum: ['Energy Crisis', 'Running On Empty', 'Other', 'Drink Review', 'Music Review', 'Travel Review', 'Service Review', 'Meal Review']
         },
         min_rating: {
           type: 'number',
@@ -43,12 +43,12 @@ export default async function (fastify, opts) {
       reports = reports.filter(report => report.category === categoryFilter)
     }
     const minRatingFilter = request.query.min_rating
-    if (minRatingFilter) {
-      reports = reports.filter(report => report.rating >= minRatingFilter)
+    if (minRatingFilter !== undefined) {
+      reports = reports.filter(report => typeof report.rating === 'number' && report.rating >= minRatingFilter)
     }
     const maxRatingFilter = request.query.max_rating
-    if (maxRatingFilter) {
-      reports = reports.filter(report => report.rating <= maxRatingFilter)
+    if (maxRatingFilter !== undefined) {
+      reports = reports.filter(report => typeof report.rating === 'number' && report.rating <= maxRatingFilter)
     }
     const minDate = request.query.min_date
     if (minDate) {
